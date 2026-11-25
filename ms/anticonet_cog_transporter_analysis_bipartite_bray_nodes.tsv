@@ -1,0 +1,80 @@
+name	cog_fun_cat	cog_name	cog_gene	cog_fun_path	cog_pubmed_id	cog_pdb_id	cog_fun_cat_text	degree	transporter_type	type
+COG0039	C	Malate/lactate dehydrogenase	Mdh	TCA cycle	NA	4WLO	C, Energy production and conversion	1	non_transporter	FALSE
+COG0053	P	Divalent metal cation (Fe/Co/Zn/Cd) efflux pump	FieF	NA	NA	2QFI	P, Inorganic ion transport and metabolism	1	transporter	FALSE
+COG0168	P	Trk-type K+ transport system, membrane component	TrkG	NA	NA	3PJZ	P, Inorganic ion transport and metabolism	5	K_transporter	TRUE
+COG0288	P	Carbonic anhydrase	CynT	NA	22081392	1EKJ	P, Inorganic ion transport and metabolism	3	non_transporter	TRUE
+COG0306	P	Phosphate/sulfate permease	PitA	NA	31358606	NA	P, Inorganic ion transport and metabolism	1	transporter	FALSE
+COG0377	C	NADH:ubiquinone oxidoreductase 20 kD subunit (chain B) or related Fe-S oxidoreductase	NuoB	NADH dehydrogenase	25941396	2FUG	C, Energy production and conversion	5	H_transporter	FALSE
+COG0387	P	Cation (Ca2+/Na+/K+)/H+ antiporter ChaA	ChaA	NA	18801996	4KJS	P, Inorganic ion transport and metabolism	5	H_Na_antiporter	FALSE
+COG0411	E	ABC-type branched-chain amino acid transport system, ATPase component LivG	LivG	NA	29514851	1G9X	E, Amino acid transport and metabolism	3	transporter	FALSE
+COG0428	P	Zinc transporter ZupT	ZupT	NA	NA	5TSA	P, Inorganic ion transport and metabolism	1	transporter	TRUE
+COG0474	P	Magnesium-transporting ATPase (P-type)	MgtA	NA	NA	1IWO	P, Inorganic ion transport and metabolism	1	transporter	FALSE
+COG0530	P	Ca2+/Na+ antiporter	ECM27	NA	NA	3V5S	P, Inorganic ion transport and metabolism	6	Na_transporter	TRUE
+COG0555	P	ABC-type sulfate transport system, permease component	CysU	NA	NA	3D31	P, Inorganic ion transport and metabolism	3	transporter	FALSE
+COG0586	M	Membrane integrity protein DedA, putative transporter, DedA/Tvp38 family	DedA	NA	24312110;25917916	NA	M, Cell wall/membrane/envelope biogenesis	2	H_transporter	FALSE
+COG0605	P	Superoxide dismutase	SodA	NA	NA	1AP5	P, Inorganic ion transport and metabolism	4	non_transporter	FALSE
+COG0649	C	NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	NuoD	NADH dehydrogenase	NA	2FUG	C, Energy production and conversion	5	H_transporter	FALSE
+COG0650	C	Formate hydrogenlyase subunit HyfC	HyfC	NA	NA	6CFW	C, Energy production and conversion	3	non_transporter	FALSE
+COG0651	CP	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	HyfB	NA	NA	6CFW	C, Energy production and conversion;P, Inorganic ion transport and metabolism	1	H_Na_antiporter	TRUE
+COG0708	L	Exonuclease III	XthA	NA	NA	1AKO	L, Replication, recombination and repair	2	non_transporter	TRUE
+COG0713	C	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	NuoK	NADH dehydrogenase	NA	4HE8	C, Energy production and conversion	4	H_transporter	FALSE
+COG0733	R	Na+-dependent transporter, SNF family	YocR	NA	NA	2A65	R, General function prediction only	7	Na_transporter	TRUE
+COG0838	C	NADH:ubiquinone oxidoreductase subunit 3 (chain A)	NuoA	NADH dehydrogenase	NA	3RKO	C, Energy production and conversion	6	H_transporter	FALSE
+COG0839	C	NADH:ubiquinone oxidoreductase subunit 6 (chain J)	NuoJ	NADH dehydrogenase	NA	4HE8	C, Energy production and conversion	4	H_transporter	FALSE
+COG0852	C	NADH:ubiquinone oxidoreductase 27 kD subunit (chain C)	NuoC	NADH dehydrogenase	NA	NA	C, Energy production and conversion	1	H_transporter	FALSE
+COG1005	C	NADH:ubiquinone oxidoreductase subunit 1 (chain H)	NuoH	NADH dehydrogenase	NA	6HUM	C, Energy production and conversion	5	H_transporter	FALSE
+COG1006	P	Multisubunit Na+/H+ antiporter, MnhC subunit	MnhC	NA	NA	6CFW	P, Inorganic ion transport and metabolism	3	H_Na_antiporter	TRUE
+COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase	NA	4HE8	C, Energy production and conversion	4	H_transporter	FALSE
+COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase	NA	6HUM	C, Energy production and conversion	7	H_transporter	FALSE
+COG1034	C	NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit (chain G)	NuoG	NADH dehydrogenase	NA	1C4A	C, Energy production and conversion	5	H_transporter	FALSE
+COG1055	P	Na+/H+ antiporter NhaD or related arsenite permease	ArsB	NA	NA	NA	P, Inorganic ion transport and metabolism	1	H_Na_antiporter	FALSE
+COG1115	E	Na+/alanine symporter	AlsT	NA	NA	6CSE	E, Amino acid transport and metabolism	4	Na_transporter	TRUE
+COG1320	P	Multisubunit Na+/H+ antiporter, MnhG subunit	MnhG	NA	NA	6CFW	P, Inorganic ion transport and metabolism	6	H_Na_antiporter	TRUE
+COG1331	R	Uncharacterized conserved protein YyaL, SSP411 family, contains thoiredoxin and six-hairpin glycosidase-like domains	YyaL	NA	NA	3IRA	R, General function prediction only	2	non_transporter	FALSE
+COG1347	C	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD	NqrD	Na+-translocating NADH dehydrogenase	NA	4P6V	C, Energy production and conversion	10	Na_transporter	TRUE
+COG1392	P	Phosphate transport regulator YkaA, distantly related to PhoU, UPF0111/DUF47 family	YkaA	NA	NA	2IIU	P, Inorganic ion transport and metabolism	2	transporter	FALSE
+COG1430	S	Uncharacterized conserved membrane protein, UPF0127 family	NA	NA	NA	3M7A	S, Function unknown	3	non_transporter	TRUE
+COG1509	E	L-lysine 2,3-aminomutase (EF-P beta-lysylation pathway)	EpmB	NA	NA	2A5H	E, Amino acid transport and metabolism	2	non_transporter	TRUE
+COG1593	G	TRAP-type C4-dicarboxylate transport system, large permease component	DctQ	NA	NA	NA	G, Carbohydrate transport and metabolism	1	transporter	TRUE
+COG1613	P	ABC-type sulfate transport system, periplasmic component	Sbp	NA	NA	5UM2	P, Inorganic ion transport and metabolism	1	transporter	FALSE
+COG1638	G	TRAP-type C4-dicarboxylate transport system, periplasmic component	DctP	NA	NA	2CEX	G, Carbohydrate transport and metabolism	1	transporter	TRUE
+COG1716	T	Forkhead associated (FHA) domain, binds pSer, pThr, pTyr	FHA	NA	NA	2FEZ	T, Signal transduction mechanisms	1	non_transporter	FALSE
+COG1726	C	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA	NqrA	Na+-translocating NADH dehydrogenase	NA	4P6V	C, Energy production and conversion	10	Na_transporter	TRUE
+COG1757	C	Na+/H+ antiporter NhaC/MleN	NhaC	NA	NA	NA	C, Energy production and conversion	1	H_Na_antiporter	TRUE
+COG1805	C	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB	NqrB	Na+-translocating NADH dehydrogenase	NA	4P6V	C, Energy production and conversion	2	Na_transporter	TRUE
+COG1814	P	Predicted Fe2+/Mn2+ transporter, VIT1/CCC1 family	Ccc1	NA	NA	6IU3	P, Inorganic ion transport and metabolism	1	transporter	FALSE
+COG1838	C	Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain	FumA	TCA cycle	NA	5L2R	C, Energy production and conversion	10	non_transporter	FALSE
+COG1863	P	Multisubunit Na+/H+ antiporter, MnhE subunit	MnhE	NA	NA	6CFW	P, Inorganic ion transport and metabolism	6	H_Na_antiporter	TRUE
+COG1914	P	Mn2+ or Fe2+ transporter, NRAMP family	MntH	NA	NA	5KTE	P, Inorganic ion transport and metabolism	2	transporter	FALSE
+COG1951	C	Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain	TtdA	TCA cycle	15613473	5L2R	C, Energy production and conversion	10	non_transporter	FALSE
+COG1966	CE	Carbon starvation protein CstA (peptide/pyruvate transporter)	CstA	NA	26497384;29358499	NA	C, Energy production and conversion;E, Amino acid transport and metabolism	3	non_transporter	FALSE
+COG2013	C	AIM24 protein, required for mitochondrial respiration	AIM24	NA	24928273;24714493	1YOX	C, Energy production and conversion	1	non_transporter	FALSE
+COG2035	S	Uncharacterized membrane protein, DUF368 family	NA	NA	NA	NA	S, Function unknown	18	Na_transporter	TRUE
+COG2060	P	K+-transporting ATPase, KdpA subunit	KdpA	NA	NA	5MRW	P, Inorganic ion transport and metabolism	2	K_transporter	FALSE
+COG2094	L	3-methyladenine DNA glycosylase Mpg	Mpg	NA	NA	1BNK	L, Replication, recombination and repair	3	non_transporter	FALSE
+COG2109	H	ATP:corrinoid adenosyltransferase	BtuR	Cobalamine/B12 biosynthesis	NA	4HUT	H, Coenzyme transport and metabolism	2	non_transporter	FALSE
+COG2111	P	Multisubunit Na+/H+ antiporter, MnhB subunit	MnhB	NA	NA	NA	P, Inorganic ion transport and metabolism	3	H_Na_antiporter	TRUE
+COG2156	P	K+-transporting ATPase, KdpC subunit	KdpC	NA	NA	5MRW	P, Inorganic ion transport and metabolism	1	K_transporter	FALSE
+COG2209	C	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE	NqrE	Na+-translocating NADH dehydrogenase	NA	4P6V	C, Energy production and conversion	10	Na_transporter	TRUE
+COG2212	P	Multisubunit Na+/H+ antiporter, MnhF subunit	MnhF	NA	NA	6CFW	P, Inorganic ion transport and metabolism	5	H_Na_antiporter	TRUE
+COG2216	P	K+ transport ATPase, ATPase subunit KdpB	KdpB	NA	NA	5MRW	P, Inorganic ion transport and metabolism	1	K_transporter	FALSE
+COG2426	S	Uncharacterized membrane protein	NA	NA	NA	NA	S, Function unknown	2	putative_transporter	FALSE
+COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification	NA	1DUS	J, Translation, ribosomal structure and biogenesis	1	non_transporter	FALSE
+COG2869	C	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC	NqrC	Na+-translocating NADH dehydrogenase	NA	4P6V	C, Energy production and conversion	10	Na_transporter	TRUE
+COG2871	C	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrF	NqrF	Na+-translocating NADH dehydrogenase	NA	4P6V	C, Energy production and conversion	1	Na_transporter	TRUE
+COG3004	CP	Na+/H+ antiporter NhaA	NhaA	NA	25746996	1ZCD	C, Energy production and conversion;P, Inorganic ion transport and metabolism	6	H_Na_antiporter	FALSE
+COG3090	G	TRAP-type C4-dicarboxylate transport system, small permease component YiaM	DctM	NA	NA	NA	G, Carbohydrate transport and metabolism	2	transporter	TRUE
+COG3158	P	K+ uptake protein Kup	Kup	NA	NA	NA	P, Inorganic ion transport and metabolism	22	K_transporter	FALSE
+COG3162	S	Uncharacterized membrane protein, DUF485 family	YjcH	NA	NA	NA	S, Function unknown	2	putative_transporter	FALSE
+COG3260	C	Ni,Fe-hydrogenase III small subunit	HycG	NA	NA	6CFW	C, Energy production and conversion	2	non_transporter	FALSE
+COG3261	C	Ni,Fe-hydrogenase III large subunit	HycE2	NA	NA	6CFW	C, Energy production and conversion	3	non_transporter	FALSE
+COG3659	M	Carbohydrate-selective porin OprB	OprB	NA	NA	4GEY	M, Cell wall/membrane/envelope biogenesis	2	non_transporter	FALSE
+COG3757	M	Lyzozyme M1 (1,4-beta-N-acetylmuramidase), GH25 family	Acm	NA	NA	1H09	M, Cell wall/membrane/envelope biogenesis	1	non_transporter	FALSE
+COG3781	P	Predicted membrane chloride channel, bestrophin family	YneE	NA	NA	4RDQ	P, Inorganic ion transport and metabolism	1	transporter	FALSE
+COG4149	P	ABC-type molybdate transport system, permease component ModB	ModB	Molybdopterin biosynthesis	NA	NA	P, Inorganic ion transport and metabolism	1	transporter	TRUE
+COG4208	P	ABC-type sulfate transport system, permease component	CysW	NA	NA	NA	P, Inorganic ion transport and metabolism	1	transporter	FALSE
+COG4327	S	Uncharacterized membrane protein, DUF4212 domain	NA	NA	NA	NA	S, Function unknown	3	putative_transporter	TRUE
+COG4663	Q	TRAP-type mannitol/chloroaromatic compound transport system, periplasmic component	FcbT1	NA	NA	2HZK	Q, Secondary metabolites biosynthesis, transport and catabolism	4	transporter	TRUE
+COG4664	Q	TRAP-type mannitol/chloroaromatic compound transport system, large permease component	FcbT3	NA	NA	NA	Q, Secondary metabolites biosynthesis, transport and catabolism	3	transporter	TRUE
+COG4665	Q	TRAP-type mannitol/chloroaromatic compound transport system, small permease component	FcbT2	NA	NA	NA	Q, Secondary metabolites biosynthesis, transport and catabolism	2	transporter	TRUE
+COG5016	C	Pyruvate/oxaloacetate carboxyltransferase	OadA1	Urea cycle	18681940	2NX9	C, Energy production and conversion	5	non_transporter	TRUE

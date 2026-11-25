@@ -1,0 +1,11 @@
+FROM cytoscape/cytoscape-desktop:rcy3.2.16.0
+RUN R -e "install.packages('dplyr',dependencies=TRUE, repos='http://cran.rstudio.com/')"
+RUN R -e "install.packages('tibble',dependencies=TRUE, repos='http://cran.rstudio.com/')"
+RUN R -e "install.packages('tidyr',dependencies=TRUE, repos='http://cran.rstudio.com/')"
+RUN R -e "install.packages('igraph',dependencies=TRUE, repos='http://cran.rstudio.com/')"
+RUN R -e "install.packages('purrr',dependencies=TRUE, repos='http://cran.rstudio.com/')"
+RUN R -e "install.packages('viridis',dependencies=TRUE, repos='http://cran.rstudio.com/')"
+RUN R -e "install.packages('viridisLite',dependencies=TRUE, repos='http://cran.rstudio.com/')"
+RUN R -e "install.packages('grDevices',dependencies=TRUE, repos='http://cran.rstudio.com/')"
+RUN R -e "install.packages('vegan',dependencies=TRUE, repos='http://cran.rstudio.com/')"
+RUN R -e "install.packages('philentropy',dependencies=TRUE, repos='http://cran.rstudio.com/')"

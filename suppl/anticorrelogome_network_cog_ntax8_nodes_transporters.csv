@@ -1,0 +1,472 @@
+transporter,og_id,cog_fun_cat,cog_name,cog_gene,cog_fun_path,cog_pubmed_id,cog_pdb_id,cog_fun_cat_text,gene_name_custom
+non_transporter,COG0207,F,Thymidylate synthase,ThyA,Thymidylate biosynthesis,,1AN5,"F, Nucleotide transport and metabolism",ThyA
+non_transporter,COG0538,C,Isocitrate dehydrogenase,Icd,TCA cycle,,1IDD,"C, Energy production and conversion",Icd
+non_transporter,COG0757,E,3-dehydroquinate dehydratase,AroQ,Aromatic amino acid biosynthesis,,1D0I,"E, Amino acid transport and metabolism",AroQ
+non_transporter,COG2131,F,Deoxycytidylate deaminase,ComEB,,25746996;31954084,2HVV,"F, Nucleotide transport and metabolism",ComEB
+non_transporter,COG0696,G,"Phosphoglycerate mutase (BPG-independent), AlkP superfamily",GpmI,Glycolysis,,1EJJ,"G, Carbohydrate transport and metabolism",GpmI
+non_transporter,COG1190,J,Lysyl-tRNA synthetase (class II),LysU,Aminoacyl-tRNA synthetases,,1BBU,"J, Translation, ribosomal structure and biogenesis",LysU
+non_transporter,COG0499,H,S-adenosylhomocysteine hydrolase,SAM1,,,1A7A,"H, Coenzyme transport and metabolism",SAM1
+non_transporter,COG1866,C,"Phosphoenolpyruvate carboxykinase, ATP-dependent",PckA,Gluconeogenesis,,1AQ2,"C, Energy production and conversion",PckA
+non_transporter,COG1872,S,"Uncharacterized conserved protein YggU, UPF0235/DUF167 family",YggU,,,1JRM,"S, Function unknown",YggU
+non_transporter,COG0221,C,Inorganic pyrophosphatase,Ppa,,,117E,"C, Energy production and conversion",Ppa
+non_transporter,COG3341,R,"Ribonuclease HI-related protein, contains viroplasmin and RNaseH domains",Rnh1,,,1QHK,"R, General function prediction only",Rnh1
+non_transporter,COG1951,C,"Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain",TtdA,TCA cycle,15613473,5L2R,"C, Energy production and conversion",TtdA
+non_transporter,COG1838,C,"Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain",FumA,TCA cycle,,5L2R,"C, Energy production and conversion",FumA
+membrane_bound,COG1030,O,"Membrane-bound serine protease NfeD, ClpP class",NfeD,,,2DEO,"O, Posttranslational modification, protein turnover, chaperones",NfeD
+non_transporter,COG1600,J,Epoxyqueuosine reductase QueG (queuosine biosynthesis),QueG,tRNA modification,2150253,5D08,"J, Translation, ribosomal structure and biogenesis",QueG
+K_transporter,COG0168,P,"Trk-type K+ transport system, membrane component",TrkG,,,3PJZ,"P, Inorganic ion transport and metabolism",TrkG
+non_transporter,COG0191,G,Fructose/tagatose bisphosphate aldolase,Fba,Glycolysis,,1B57,"G, Carbohydrate transport and metabolism",Fba
+non_transporter,COG0245,I,"2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",IspF,Isoprenoid biosynthesis,,1GX1,"I, Lipid transport and metabolism",IspF
+non_transporter,COG0743,I,1-deoxy-D-xylulose 5-phosphate reductoisomerase,Dxr,Isoprenoid biosynthesis,,1JVS,"I, Lipid transport and metabolism",Dxr
+non_transporter,COG0761,I,4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH,IspH,Isoprenoid biosynthesis,,3DNF,"I, Lipid transport and metabolism",IspH
+non_transporter,COG0821,I,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE,IspG,Isoprenoid biosynthesis,,2Y0F,"I, Lipid transport and metabolism",IspG
+non_transporter,COG1331,R,"Uncharacterized conserved protein YyaL, SSP411 family, contains thoiredoxin and six-hairpin glycosidase-like domains",YyaL,,,3IRA,"R, General function prediction only",YyaL
+non_transporter,COG0756,FV,dUTP pyrophosphatase (dUTPase),Dut,Thymidylate biosynthesis,,1DUC,"F, Nucleotide transport and metabolism;V, Defense mechanisms",Dut
+non_transporter,COG0623,I,Enoyl-[acyl-carrier-protein] reductase FabI,FabI,Fatty acid biosynthesis,,1C14,"I, Lipid transport and metabolism",FabI
+non_transporter,COG2021,E,Homoserine O-acetyltransferase,MET2,Methionine biosynthesis,,2VAT,"E, Amino acid transport and metabolism",MET2
+non_transporter,COG3407,I,Mevalonate pyrophosphate decarboxylase,MVD1,Isoprenoid biosynthesis,,1FI4,"I, Lipid transport and metabolism",MVD1
+putative_transporter,COG2859,M,"Outer membrane channel-forming protein BP26/OMP28, SIMPL family",SIMPL,,23353825;32703422,4HVZ,"M, Cell wall/membrane/envelope biogenesis",SIMPL
+non_transporter,COG0262,H,Dihydrofolate reductase,FolA,Folate biosynthesis,,1DDR,"H, Coenzyme transport and metabolism",FolA
+non_transporter,COG0692,L,Uracil-DNA glycosylase,Ung,,16237021,1AKZ,"L, Replication, recombination and repair",Ung
+H_transporter,COG2119,R,"Putative Ca2+/H+ antiporter, TMEM165/GDT1 family",Gdt1,,23569283,,"R, General function prediction only",Gdt1
+non_transporter,COG1564,H,Thiamine pyrophosphokinase,ThiN,Thiamine biosynthesis,,1IG0,"H, Coenzyme transport and metabolism",ThiN
+Na_transporter,COG2035,S,"Uncharacterized membrane protein, DUF368 family",,,,,"S, Function unknown",COG2035
+non_transporter,COG3830,T,"ACT domain, binds amino acids and other small ligands",ACT,,,5IS2,"T, Signal transduction mechanisms",ACT
+non_transporter,COG2895,P,"Sulfate adenylyltransferase subunit 1, EFTu-like GTPase family",CysN,Cysteine biosynthesis,,1ZUN,"P, Inorganic ion transport and metabolism",CysN
+non_transporter,COG1575,H,"1,4-dihydroxy-2-naphthoate polyprenyltransferase",MenA,Menaquinone biosynthesis,,,"H, Coenzyme transport and metabolism",MenA
+non_transporter,COG0423,J,"Glycyl-tRNA synthetase, class II",GRS1,Aminoacyl-tRNA synthetases,,2PME,"J, Translation, ribosomal structure and biogenesis",GRS1
+non_transporter,COG0302,H,GTP cyclohydrolase I,FolE,Folate biosynthesis,19767425;30692671,1A8R,"H, Coenzyme transport and metabolism",FolE
+non_transporter,COG1929,G,Glycerate kinase,GlxK,Non-phosphorylated Entner-Doudoroff pathway,,1TO6,"G, Carbohydrate transport and metabolism",GlxK
+Na_transporter,COG0530,P,Ca2+/Na+ antiporter,ECM27,,,3V5S,"P, Inorganic ion transport and metabolism",ECM27
+K_transporter,COG3158,P,K+ uptake protein Kup,Kup,,,,"P, Inorganic ion transport and metabolism",Kup
+H_transporter,COG0586,M,"Membrane integrity protein DedA, putative transporter, DedA/Tvp38 family",DedA,,24312110;25917916,,"M, Cell wall/membrane/envelope biogenesis",DedA
+transporter,COG0573,P,"ABC-type phosphate transport system, permease component",PstC,,,,"P, Inorganic ion transport and metabolism",PstC
+non_transporter,COG1154,HI,Deoxyxylulose-5-phosphate synthase,Dxs,Pyridoxal phosphate biosynthesis,,2O1S,"H, Coenzyme transport and metabolism;I, Lipid transport and metabolism",Dxs
+non_transporter,COG1521,H,Pantothenate kinase type III,CoaX,,,2F9T,"H, Coenzyme transport and metabolism",CoaX
+non_transporter,COG4401,E,Chorismate mutase AroH,AroH,Aromatic amino acid biosynthesis,,1COM,"E, Amino acid transport and metabolism",AroH
+non_transporter,COG1322,L,DNA anti-recombination protein (rearrangement mutator) RmuC,RmuC,,,,"L, Replication, recombination and repair",RmuC
+non_transporter,COG0551,L,"DNA topoisomerase I, ssDNA-binding Zn-finger and Zn-ribbon domains",YrdD,,,1YUA,"L, Replication, recombination and repair",YrdD
+non_transporter,COG2848,D,"Uncharacterized conserved protein, UPF0210 family",,,,2HA9,"D, Cell cycle control, cell division, chromosome partitioning",COG2848
+putative_transporter,COG4864,S,"Uncharacterized conserved protein YqfA, UPF0365 family",YqfA,,,,"S, Function unknown",YqfA
+non_transporter,COG2096,H,Cob(II)alamin adenosyltransferase,PduO,Cobalamine/B12 biosynthesis,,1NOG,"H, Coenzyme transport and metabolism",PduO
+transporter,COG1268,H,Biotin transporter BioY,BioY,,,4DVE,"H, Coenzyme transport and metabolism",BioY
+non_transporter,COG0788,F,Formyltetrahydrofolate hydrolase,PurU,Purine biosynthesis,,3O1L,"F, Nucleotide transport and metabolism",PurU
+non_transporter,COG1165,H,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase,MenD,Menaquinone biosynthesis,,5Z2P,"H, Coenzyme transport and metabolism",MenD
+transporter,COG4664,Q,"TRAP-type mannitol/chloroaromatic compound transport system, large permease component",FcbT3,,,,"Q, Secondary metabolites biosynthesis, transport and catabolism",FcbT3
+non_transporter,COG1211,I,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,IspD,Isoprenoid biosynthesis,,1H3M,"I, Lipid transport and metabolism",IspD
+non_transporter,COG0396,O,Fe-S cluster assembly ATPase SufC,SufC,,,2D3W,"O, Posttranslational modification, protein turnover, chaperones",SufC
+non_transporter,COG0719,O,Fe-S cluster assembly scaffold protein SufB,SufB,,,1VH4,"O, Posttranslational modification, protein turnover, chaperones",SufB
+non_transporter,COG2094,L,3-methyladenine DNA glycosylase Mpg,Mpg,,,1BNK,"L, Replication, recombination and repair",Mpg
+non_transporter,COG1169,HQ,Isochorismate synthase EntC,MenF,Menaquinone biosynthesis,,5JXZ,"H, Coenzyme transport and metabolism;Q, Secondary metabolites biosynthesis, transport and catabolism",MenF
+non_transporter,COG0605,P,Superoxide dismutase,SodA,,,1AP5,"P, Inorganic ion transport and metabolism",SodA
+non_transporter,COG2377,M,"1,6-Anhydro-N-acetylmuramate kinase",AnmK,,15901686,3CQY,"M, Cell wall/membrane/envelope biogenesis",AnmK
+non_transporter,COG0075,EF,"Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG",PucG,Serine biosynthesis,,3NNK,"E, Amino acid transport and metabolism;F, Nucleotide transport and metabolism",PucG
+non_transporter,COG2947,R,"Predicted RNA-binding protein, contains EVE domain",EVE,,32652237,1ZCE,"R, General function prediction only",EVE
+non_transporter,COG0017,J,Aspartyl/asparaginyl-tRNA synthetase,AsnS,Aminoacyl-tRNA synthetases,,3KFU,"J, Translation, ribosomal structure and biogenesis",AsnS
+non_transporter,COG0447,H,"1,4-Dihydroxy-2-naphthoyl-CoA synthase",MenB,Menaquinone biosynthesis,,4ELS,"H, Coenzyme transport and metabolism",MenB
+transporter,COG1738,J,"Queuosine precursor transporter YhhQ, DUF165 family",YhhQ,,31481610,,"J, Translation, ribosomal structure and biogenesis",YhhQ
+non_transporter,COG1947,I,4-diphosphocytidyl-2C-methyl-D-erythritol kinase,IspE,Isoprenoid biosynthesis,,1OJ4,"I, Lipid transport and metabolism",IspE
+non_transporter,COG2166,O,"Sulfur transfer protein SufE, Fe-S cluster assembly",SufE,,,1MZG,"O, Posttranslational modification, protein turnover, chaperones",SufE
+non_transporter,COG2301,G,Citrate lyase beta subunit,CitE,,,4ROQ,"G, Carbohydrate transport and metabolism",CitE
+transporter,COG4665,Q,"TRAP-type mannitol/chloroaromatic compound transport system, small permease component",FcbT2,,,,"Q, Secondary metabolites biosynthesis, transport and catabolism",FcbT2
+non_transporter,COG0505,EF,Carbamoylphosphate synthase small subunit,CarA,Arginine biosynthesis,,1C30,"E, Amino acid transport and metabolism;F, Nucleotide transport and metabolism",CarA
+non_transporter,COG0783,PV,DNA-binding ferritin-like protein (oxidative damage protectant),Dps,,,1DPS,"P, Inorganic ion transport and metabolism;V, Defense mechanisms",Dps
+non_transporter,COG0698,G,Ribose 5-phosphate isomerase RpiB,RpiB,Pentose phosphate pathway,,1NN4,"G, Carbohydrate transport and metabolism",RpiB
+non_transporter,COG0708,L,Exonuclease III,XthA,,,1AKO,"L, Replication, recombination and repair",XthA
+non_transporter,COG0212,H,5-formyltetrahydrofolate cyclo-ligase,FAU1,,,1SBQ,"H, Coenzyme transport and metabolism",FAU1
+non_transporter,COG0503,F,Adenine/guanine phosphoribosyltransferase or related PRPP-binding protein,Apt,Purine salvage,,1QB7,"F, Nucleotide transport and metabolism",Apt
+non_transporter,COG2022,H,"Thiazole synthase ThiGH, ThiG subunit (thiamin biosynthesis)",ThiG,Thiamine biosynthesis,,1TYG,"H, Coenzyme transport and metabolism",ThiG
+non_transporter,COG0422,H,4-amino-2-methyl-5-hydroxymethylpyrimidine (HMP) synthase ThiC,ThiC,Thiamine biosynthesis,15326535,3EPN,"H, Coenzyme transport and metabolism",ThiC
+non_transporter,COG0665,E,Glycine/D-amino acid oxidase (deaminating),DadA,,,3AWI,"E, Amino acid transport and metabolism",DadA
+non_transporter,COG3857,L,ATP-dependent helicase/DNAse subunit B,AddB,,,3U44,"L, Replication, recombination and repair",AddB
+potential_transporter,COG4393,S,Uncharacterized membrane protein,,,,,"S, Function unknown",COG4393
+non_transporter,COG1916,S,"Pheromone shutdown protein TraB, contains GTxH motif (function unknown)",,,,,"S, Function unknown",COG1916
+non_transporter,COG2185,I,"Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)",Sbm,,,1B1A,"I, Lipid transport and metabolism",Sbm
+transporter,COG0411,E,"ABC-type branched-chain amino acid transport system, ATPase component LivG",LivG,,29514851,1G9X,"E, Amino acid transport and metabolism",LivG
+non_transporter,COG4284,G,UDP-N-acetylglucosamine pyrophosphorylase,QRI1,,,1JV1,"G, Carbohydrate transport and metabolism",QRI1
+transporter,COG4663,Q,"TRAP-type mannitol/chloroaromatic compound transport system, periplasmic component",FcbT1,,,2HZK,"Q, Secondary metabolites biosynthesis, transport and catabolism",FcbT1
+membrane_bound,COG0109,HI,Polyprenyltransferase (heme O synthase),CyoE,,,,"H, Coenzyme transport and metabolism;I, Lipid transport and metabolism",CyoE
+non_transporter,COG0214,H,Pyridoxal 5'-phosphate synthase subunit PdxS,PdxS,Pyridoxal phosphate biosynthesis,,2NV2,"H, Coenzyme transport and metabolism",PdxS
+non_transporter,COG0311,H,Pyridoxal 5'-phosphate synthase subunit PdxT (glutamine amidotransferase),PdxT,Pyridoxal phosphate biosynthesis,18801996;24083939,2NV0,"H, Coenzyme transport and metabolism",PdxT
+non_transporter,COG1144,C,"Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, delta subunit",PorD,Pyruvate oxidation,,5C4I,"C, Energy production and conversion",PorD
+non_transporter,COG1145,C,Ferredoxin,NapF,,,6FAH,"C, Energy production and conversion",NapF
+non_transporter,COG0021,G,Transketolase,TktA,Pentose phosphate pathway,,1AY0,"G, Carbohydrate transport and metabolism",TktA
+transporter,COG0428,P,Zinc transporter ZupT,ZupT,,,5TSA,"P, Inorganic ion transport and metabolism",ZupT
+non_transporter,COG0145,EQ,"N-methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit",HyuA,,,,"E, Amino acid transport and metabolism;Q, Secondary metabolites biosynthesis, transport and catabolism",HyuA
+non_transporter,COG0351,H,Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase,ThiD,Thiamine biosynthesis,17351295,1Y9X,"H, Coenzyme transport and metabolism",ThiD
+transporter,COG1119,P,"ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA",ModF,,,2IHY,"P, Inorganic ion transport and metabolism",ModF
+transporter,COG1178,P,"ABC-type Fe3+ transport system, permease component",FbpB,,,,"P, Inorganic ion transport and metabolism",FbpB
+membrane_bound,COG2010,C,"Cytochrome c, mono- and diheme variants",CccA,,,1A2S,"C, Energy production and conversion",CccA
+non_transporter,COG3253,HP,Coproheme decarboxylase/chlorite dismutase,HemQ,,15965735;25602700;27758026;31423350,1T0T,"H, Coenzyme transport and metabolism;P, Inorganic ion transport and metabolism",HemQ
+non_transporter,COG0259,H,Pyridoxine/pyridoxamine 5'-phosphate oxidase,PdxH,Pyridoxal phosphate biosynthesis,,1CI0,"H, Coenzyme transport and metabolism",PdxH
+non_transporter,COG1543,G,"Predicted glycosyl hydrolase, contains GH57 and DUF1957 domains",,,,1UFA,"G, Carbohydrate transport and metabolism",COG1543
+H_transporter,COG0377,C,NADH:ubiquinone oxidoreductase 20 kD subunit (chain B) or related Fe-S oxidoreductase,NuoB,NADH dehydrogenase,25941396,2FUG,"C, Energy production and conversion",NuoB
+H_transporter,COG0713,C,NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K),NuoK,NADH dehydrogenase,,4HE8,"C, Energy production and conversion",NuoK
+H_transporter,COG1005,C,NADH:ubiquinone oxidoreductase subunit 1 (chain H),NuoH,NADH dehydrogenase,,6HUM,"C, Energy production and conversion",NuoH
+H_transporter,COG1034,C,NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit (chain G),NuoG,NADH dehydrogenase,,1C4A,"C, Energy production and conversion",NuoG
+non_transporter,COG1330,L,Scaffold subunit RecC of the DNA repair enzyme RecBCD (exonuclease V),RecC,,30601118,1W36,"L, Replication, recombination and repair",RecC
+non_transporter,COG2873,E,"O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent",MET17,Methionine biosynthesis,,2CTZ,"E, Amino acid transport and metabolism",MET17
+non_transporter,COG0010,E,Arginase/agmatinase family enzyme,SpeB,Urea cycle,,1CEV,"E, Amino acid transport and metabolism",SpeB
+non_transporter,COG0372,C,Citrate synthase,GltA,TCA cycle,25211225,3TQG,"C, Energy production and conversion",GltA
+non_transporter,COG1607,I,Acyl-CoA hydrolase,YciA,,,5DM5,"I, Lipid transport and metabolism",YciA
+non_transporter,COG2103,M,N-acetylmuramic acid 6-phosphate (MurNAc-6-P) etherase,MurQ,,10095793,4S12,"M, Cell wall/membrane/envelope biogenesis",MurQ
+non_transporter,COG4487,S,"Uncharacterized conserved protein, contains DUF2130 domain",,,,,"S, Function unknown",COG4487
+transporter,COG0672,P,High-affinity Fe2+/Pb2+ permease,FTR1,,,,"P, Inorganic ion transport and metabolism",FTR1
+putative_transporter,COG4327,S,"Uncharacterized membrane protein, DUF4212 domain",,,,,"S, Function unknown",COG4327
+H_Na_antiporter,COG2212,P,"Multisubunit Na+/H+ antiporter, MnhF subunit",MnhF,,,6CFW,"P, Inorganic ion transport and metabolism",MnhF
+Na_transporter,COG1115,E,Na+/alanine symporter,AlsT,,,6CSE,"E, Amino acid transport and metabolism",AlsT
+non_transporter,COG0146,EQ,"N-methylhydantoinase B/oxoprolinase/acetone carboxylase, alpha subunit",HyuB,,,5L9W,"E, Amino acid transport and metabolism;Q, Secondary metabolites biosynthesis, transport and catabolism",HyuB
+non_transporter,COG4394,J,Elongation factor P Arg32-rhamnosyltransferase EarP,EarP,,28951478;29440735,5NV8,"J, Translation, ribosomal structure and biogenesis",EarP
+non_transporter,COG0213,F,Thymidine phosphorylase,DeoA,Pyrimidine salvage,,1AZY,"F, Nucleotide transport and metabolism",DeoA
+non_transporter,COG0330,O,"Regulator of protease activity HflC, stomatin/prohibitin superfamily",HflC,,,,"O, Posttranslational modification, protein turnover, chaperones",HflC
+transporter,COG0725,P,"ABC-type molybdate transport system, periplasmic Mo-binding protein ModA",ModA,Molybdopterin biosynthesis,,1AMF,"P, Inorganic ion transport and metabolism",ModA
+transporter,COG0803,P,"ABC-type Zn uptake system ZnuABC, Zn-binding component ZnuA",ZnuA,,,1K0F,"P, Inorganic ion transport and metabolism",ZnuA
+non_transporter,COG1830,G,"Fructose-bisphosphate aldolase class Ia, DhnA family",FbaB,Glycolysis,,1OJX,"G, Carbohydrate transport and metabolism",FbaB
+non_transporter,COG1912,HV,"Stereoselective (R,S)-S-adenosylmethionine hydrolase (adenosine-forming)",,,32776704,2F4N,"H, Coenzyme transport and metabolism;V, Defense mechanisms",COG1912
+non_transporter,COG2346,P,Truncated hemoglobin YjbI,YjbI,,,1DLW,"P, Inorganic ion transport and metabolism",YjbI
+non_transporter,COG3823,O,Glutamine cyclotransferase,,,,2FAW,"O, Posttranslational modification, protein turnover, chaperones",COG3823
+non_transporter,COG3894,S,"Uncharacterized 2Fe-2S and 4Fe-4S clusters-containing protein, contains DUF4445 domain",,,,4C1N,"S, Function unknown",COG3894
+transporter,COG4149,P,"ABC-type molybdate transport system, permease component ModB",ModB,Molybdopterin biosynthesis,,,"P, Inorganic ion transport and metabolism",ModB
+non_transporter,COG1605,E,Chorismate mutase,PheA,Aromatic amino acid biosynthesis,,1ECM,"E, Amino acid transport and metabolism",PheA
+non_transporter,COG1832,R,Predicted CoA-binding protein,YccU,,,1IUK,"R, General function prediction only",YccU
+non_transporter,COG3460,Q,"1,2-phenylacetyl-CoA epoxidase, PaaB subunit",PaaB,,,3EGR,"Q, Secondary metabolites biosynthesis, transport and catabolism",PaaB
+non_transporter,COG1453,R,Predicted oxidoreductase of the aldo/keto reductase family,,,,,"R, General function prediction only",COG1453
+non_transporter,COG2352,C,Phosphoenolpyruvate carboxylase,Ppc,Urea cycle,,1FIY,"C, Energy production and conversion",Ppc
+non_transporter,COG3659,M,Carbohydrate-selective porin OprB,OprB,,,4GEY,"M, Cell wall/membrane/envelope biogenesis",OprB
+non_transporter,COG0674,C,"Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, alpha subunit",PorA,Pyruvate oxidation,,5C4I,"C, Energy production and conversion",PorA
+non_transporter,COG1014,C,"Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, gamma subunit",PorG,Pyruvate oxidation,,1B0P,"C, Energy production and conversion",PorG
+non_transporter,COG1324,P,Divalent cation tolerance protein CutA,CutA1,,,1NAQ,"P, Inorganic ion transport and metabolism",CutA1
+H_transporter,COG0649,C,NADH:ubiquinone oxidoreductase 49 kD subunit (chain D),NuoD,NADH dehydrogenase,,2FUG,"C, Energy production and conversion",NuoD
+H_transporter,COG0838,C,NADH:ubiquinone oxidoreductase subunit 3 (chain A),NuoA,NADH dehydrogenase,,3RKO,"C, Energy production and conversion",NuoA
+H_transporter,COG0839,C,NADH:ubiquinone oxidoreductase subunit 6 (chain J),NuoJ,NADH dehydrogenase,,4HE8,"C, Energy production and conversion",NuoJ
+H_transporter,COG1007,C,NADH:ubiquinone oxidoreductase subunit 2 (chain N),NuoN,NADH dehydrogenase,,4HE8,"C, Energy production and conversion",NuoN
+H_transporter,COG1008,C,NADH:ubiquinone oxidoreductase subunit 4 (chain M),NuoM,NADH dehydrogenase,,6HUM,"C, Energy production and conversion",NuoM
+non_transporter,COG1494,G,"Fructose-1,6-bisphosphatase/sedoheptulose 1,7-bisphosphatase or related protein",GlpX,,,1NI9,"G, Carbohydrate transport and metabolism",GlpX
+non_transporter,COG1788,I,"Acyl CoA:acetate/3-ketoacid CoA transferase, alpha subunit",AtoD,,,1K6D,"I, Lipid transport and metabolism",AtoD
+non_transporter,COG2001,J,"MraZ, DNA-binding transcriptional regulator and inhibitor of RsmH methyltransferase activity",MraZ,,,1N0E,"J, Translation, ribosomal structure and biogenesis",MraZ
+non_transporter,COG2057,I,"Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit",AtoA,,,5DBN,"I, Lipid transport and metabolism",AtoA
+non_transporter,COG2124,QV,Cytochrome P450,CypX,Biotin biosynthesis,,3A4Z,"Q, Secondary metabolites biosynthesis, transport and catabolism;V, Defense mechanisms",CypX
+non_transporter,COG2154,H,Pterin-4a-carbinolamine dehydratase,PhhB,,,1DCH,"H, Coenzyme transport and metabolism",PhhB
+H_Na_antiporter,COG3004,CP,Na+/H+ antiporter NhaA,NhaA,,25746996,1ZCD,"C, Energy production and conversion;P, Inorganic ion transport and metabolism",NhaA
+non_transporter,COG1398,I,Fatty-acid desaturase,OLE1,,,4YMK,"I, Lipid transport and metabolism",OLE1
+non_transporter,COG1704,M,"Magnetosome formation protein MamQ, lipoprotein antigen LemA family",LemA,,14638756;20212111;26884433,2ETD,"M, Cell wall/membrane/envelope biogenesis",LemA
+non_transporter,COG2818,L,3-methyladenine DNA glycosylase Tag,Tag,,,1LMZ,"L, Replication, recombination and repair",Tag
+non_transporter,COG0045,C,"Succinyl-CoA synthetase, beta subunit",SucC,TCA cycle,,1SCU,"C, Energy production and conversion",SucC
+non_transporter,COG0192,H,S-adenosylmethionine synthetase,MetK,Methionine biosynthesis,,1FUG,"H, Coenzyme transport and metabolism",MetK
+non_transporter,COG0316,O,Fe-S cluster assembly iron-binding protein IscA,IscA,,,1R94,"O, Posttranslational modification, protein turnover, chaperones",IscA
+transporter,COG0474,P,Magnesium-transporting ATPase (P-type),MgtA,,,1IWO,"P, Inorganic ion transport and metabolism",MgtA
+non_transporter,COG0723,C,Rieske Fe-S protein,QcrA/PetC,,27663073,5CXM,"C, Energy production and conversion",QcrA/PetC
+non_transporter,COG0843,C,"Heme/copper-type cytochrome/quinol oxidase, subunit 1",CyoB,,,1AR1,"C, Energy production and conversion",CyoB
+transporter,COG1290,C,Cytochrome b subunit of the bc complex,QcrB/PetB,,,1VF5,"C, Energy production and conversion",QcrB/PetB
+H_Na_antiporter,COG1320,P,"Multisubunit Na+/H+ antiporter, MnhG subunit",MnhG,,,6CFW,"P, Inorganic ion transport and metabolism",MnhG
+non_transporter,COG1428,F,Deoxyadenosine/deoxycytidine kinase,Dck,,,1J90,"F, Nucleotide transport and metabolism",Dck
+non_transporter,COG1622,C,"Heme/copper-type cytochrome/quinol oxidase, subunit 2",CyoA,,,1CYW,"C, Energy production and conversion",CyoA
+non_transporter,COG1664,Z,"Cytoskeletal protein CcmA, bactofilin family",CcmA,,,2N3D,"Z, Cytoskeleton",CcmA
+non_transporter,COG1748,E,"Saccharopine dehydrogenase, NADP-dependent",Lys9,Lysine biosynthesis,,1E5L,"E, Amino acid transport and metabolism",Lys9
+non_transporter,COG1845,C,"Heme/copper-type cytochrome/quinol oxidase, subunit 3",CyoC,,,1QLE,"C, Energy production and conversion",CyoC
+non_transporter,COG1509,E,"L-lysine 2,3-aminomutase (EF-P beta-lysylation pathway)",EpmB,,,2A5H,"E, Amino acid transport and metabolism",EpmB
+non_transporter,COG0621,J,tRNA A37 methylthiotransferase MiaB,MiaB,tRNA modification,17407324;20472640;20584901,4JC0,"J, Translation, ribosomal structure and biogenesis",MiaB
+non_transporter,COG1064,G,"D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family",AdhP,,,5O8Q,"G, Carbohydrate transport and metabolism",AdhP
+non_transporter,COG0157,H,Nicotinate-nucleotide pyrophosphorylase,NadC,NAD biosynthesis,,1O4U,"H, Coenzyme transport and metabolism",NadC
+H_Na_antiporter,COG1863,P,"Multisubunit Na+/H+ antiporter, MnhE subunit",MnhE,,,6CFW,"P, Inorganic ion transport and metabolism",MnhE
+non_transporter,COG3663,L,G:T/U-mismatch repair DNA glycosylase,Mug,,,1MTL,"L, Replication, recombination and repair",Mug
+non_transporter,COG0022,C,"Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit",AcoB,Pyruvate oxidation,,2OZL,"C, Energy production and conversion",AcoB
+non_transporter,COG0661,HT,"Predicted protein kinase regulating ubiquinone biosynthesis, AarF/ABC1/UbiB family",AarF,Ubiquinone biosynthesis,,4PED,"H, Coenzyme transport and metabolism;T, Signal transduction mechanisms",AarF
+non_transporter,COG1071,C,TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha,AcoA,Pyruvate oxidation,,1DTW,"C, Energy production and conversion",AcoA
+non_transporter,COG1524,T,"c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily",AtaC,,32188788,1EI6,"T, Signal transduction mechanisms",AtaC
+non_transporter,COG1570,L,"Exonuclease VII, large subunit",XseA,,,,"L, Replication, recombination and repair",XseA
+non_transporter,COG0054,H,"6,7-dimethyl-8-ribityllumazine synthase (Riboflavin synthase beta chain)",RibE,Riboflavin/FAD biosynthesis,,1C2Y,"H, Coenzyme transport and metabolism",RibE
+non_transporter,COG0083,E,Homoserine kinase,ThrB,Threonine biosynthesis,,1FWK,"E, Amino acid transport and metabolism",ThrB
+non_transporter,COG0545,O,FKBP-type peptidyl-prolyl cis-trans isomerase,FkpA,,,1A7X,"O, Posttranslational modification, protein turnover, chaperones",FkpA
+non_transporter,COG1274,C,"Phosphoenolpyruvate carboxykinase, GTP-dependent",PepCK,Gluconeogenesis,,4R43,"C, Energy production and conversion",PepCK
+non_transporter,COG2309,E,Leucyl aminopeptidase (aminopeptidase T),AmpS,,,1ZJC,"E, Amino acid transport and metabolism",AmpS
+non_transporter,COG2872,J,Ser-tRNA(Ala) deacylase AlaX (editing enzyme),AlaX,,,2E1B,"J, Translation, ribosomal structure and biogenesis",AlaX
+membrane_bound,COG0705,O,"Membrane-associated serine protease, rhomboid family",GlpG,,,2IC8,"O, Posttranslational modification, protein turnover, chaperones",GlpG
+non_transporter,COG0026,F,Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase),PurK,Purine biosynthesis,,1B6R,"F, Nucleotide transport and metabolism",PurK
+non_transporter,COG0288,P,Carbonic anhydrase,CynT,,22081392,1EKJ,"P, Inorganic ion transport and metabolism",CynT
+non_transporter,COG0493,ER,NADPH-dependent glutamate synthase beta chain or related oxidoreductase,GltD,Glutamine biosynthesis,,1H7X,"E, Amino acid transport and metabolism;R, General function prediction only",GltD
+non_transporter,COG1027,E,Aspartate ammonia-lyase,AspA,,,6WNG,"E, Amino acid transport and metabolism",AspA
+non_transporter,COG1074,L,3-5 helicase subunit RecB of the DNA repair enzyme RecBCD (exonuclease V),RecB,,29901759;30601118,3U44,"L, Replication, recombination and repair",RecB
+transporter,COG1814,P,"Predicted Fe2+/Mn2+ transporter, VIT1/CCC1 family",Ccc1,,,6IU3,"P, Inorganic ion transport and metabolism",Ccc1
+non_transporter,COG2104,H,Sulfur carrier protein ThiS (thiamine biosynthesis),ThiS,Thiamine biosynthesis,,1F0Z,"H, Coenzyme transport and metabolism",ThiS
+potential_transporter,COG2259,S,"Uncharacterized membrane protein YphA, DoxX/SURF4 family",DoxX,,,,"S, Function unknown",DoxX
+non_transporter,COG2514,Q,"Catechol-2,3-dioxygenase",CatE,,,,"Q, Secondary metabolites biosynthesis, transport and catabolism",CatE
+non_transporter,COG3166,NW,Type IV pilus assembly protein PilN,PilN,,,,"N, Cell motility;W, Extracellular structures",PilN
+non_transporter,COG1013,C,"Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, beta subunit",PorB,Pyruvate oxidation,,1B0P,"C, Energy production and conversion",PorB
+non_transporter,COG1166,E,Arginine decarboxylase (spermidine biosynthesis),SpeA,,,3N2O,"E, Amino acid transport and metabolism",SpeA
+non_transporter,COG1703,O,GTPase of the G3E family (not a periplasmic protein kinase),ArgK,,18950999,2QM7,"O, Posttranslational modification, protein turnover, chaperones",ArgK
+non_transporter,COG2013,C,"AIM24 protein, required for mitochondrial respiration",AIM24,,24928273;24714493,1YOX,"C, Energy production and conversion",AIM24
+transporter,COG3225,N,"ABC-type uncharacterized transport system involved in gliding motility, auxiliary component",GldG,,,,"N, Cell motility",GldG
+non_transporter,COG0122,L,3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase,AlkA,,,1DIZ,"L, Replication, recombination and repair",AlkA
+non_transporter,COG0132,H,Dethiobiotin synthetase,BioD,Biotin biosynthesis,,1DTS,"H, Coenzyme transport and metabolism",BioD
+non_transporter,COG0648,L,Endonuclease IV,Nfo,,,2NQH,"L, Replication, recombination and repair",Nfo
+non_transporter,COG1060,H,2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE,ThiH,Thiamine biosynthesis,18801996,4WCX,"H, Coenzyme transport and metabolism",ThiH
+transporter,COG1079,F,"ABC-type guanosine uptake system NupNOPQ, permease subunit NupQ",NupQ,,21926227,,"F, Nucleotide transport and metabolism",NupQ
+non_transporter,COG1739,R,"Putative translation regulator, IMPACT (imprinted ancient) protein family",YIH1,,15126500,1VI7,"R, General function prediction only",YIH1
+non_transporter,COG2986,E,Histidine ammonia-lyase,HutH,,,1B8F,"E, Amino acid transport and metabolism",HutH
+non_transporter,COG3590,O,Predicted metalloendopeptidase,PepO,,,1DMT,"O, Posttranslational modification, protein turnover, chaperones",PepO
+non_transporter,COG3695,K,"Alkylated DNA nucleotide flippase Atl1, participates in nucleotide excision repair, Ada-like DNA-binding domain",Atl1,,19516334,2KIF,"K, Transcription",Atl1
+transporter,COG3845,F,"ABC-type guanosine uptake system NupNOPQ, ATPase component NupO",NupO,,21926227,,"F, Nucleotide transport and metabolism",NupO
+transporter,COG4603,F,"ABC-type guanosine uptake system NupNOPQ, permease component NupP",NupP,,21926227,,"F, Nucleotide transport and metabolism",NupP
+non_transporter,COG4805,S,"Uncharacterized conserved protein, DUF885 family",,,,3IUK,"S, Function unknown",COG4805
+non_transporter,COG1899,OJ,Deoxyhypusine synthase,DYS1,,,1DHS,"O, Posttranslational modification, protein turnover, chaperones;J, Translation, ribosomal structure and biogenesis",DYS1
+transporter,COG1176,E,"ABC-type spermidine/putrescine transport system, permease component I",PotB,,,,"E, Amino acid transport and metabolism",PotB
+transporter,COG1177,E,"ABC-type spermidine/putrescine transport system, permease component II",PotC,,,,"E, Amino acid transport and metabolism",PotC
+transporter,COG0053,P,Divalent metal cation (Fe/Co/Zn/Cd) efflux pump,FieF,,,2QFI,"P, Inorganic ion transport and metabolism",FieF
+non_transporter,COG0074,C,"Succinyl-CoA synthetase, alpha subunit",SucD,TCA cycle,,1CQI,"C, Energy production and conversion",SucD
+non_transporter,COG0114,C,Fumarate hydratase class II,FumC,TCA cycle,,1KQ7,"C, Energy production and conversion",FumC
+non_transporter,COG0263,E,Glutamate 5-kinase,ProB,Proline biosynthesis,,2W21,"E, Amino acid transport and metabolism",ProB
+non_transporter,COG0296,G,"1,4-alpha-glucan branching enzyme",GlgB,,25871919,4LPC,"G, Carbohydrate transport and metabolism",GlgB
+non_transporter,COG0506,E,Proline dehydrogenase,PutA,Proline degradation,,5KF6,"E, Amino acid transport and metabolism",PutA
+H_Na_antiporter,COG1006,P,"Multisubunit Na+/H+ antiporter, MnhC subunit",MnhC,,,6CFW,"P, Inorganic ion transport and metabolism",MnhC
+non_transporter,COG1024,I,Enoyl-CoA hydratase/carnithine racemase,CaiD,Fatty acid biosynthesis,,1DCI,"I, Lipid transport and metabolism",CaiD
+non_transporter,COG1048,C,Aconitase A,AcnA,Lysine biosynthesisTCA cycle,,1ACO,"C, Energy production and conversion",AcnA
+non_transporter,COG1057,H,Nicotinate-nucleotide adenylyltransferase NadD,NadD,NAD biosynthesis,,1YUM,"H, Coenzyme transport and metabolism",NadD
+non_transporter,COG1138,CO,Cytochrome c biogenesis protein CcmF,CcmF,,,,"C, Energy production and conversion;O, Posttranslational modification, protein turnover, chaperones",CcmF
+non_transporter,COG1139,C,"L-lactate utilization protein LutB, contains a ferredoxin-type domain",LutB,,,,"C, Energy production and conversion",LutB
+non_transporter,COG1250,I,3-hydroxyacyl-CoA dehydrogenase,FadB,Fatty acid biosynthesis,,5ZQZ,"I, Lipid transport and metabolism",FadB
+non_transporter,COG1254,C,Acylphosphatase,AcyP,,,1APS,"C, Energy production and conversion",AcyP
+non_transporter,COG1556,C,"L-lactate utilization protein LutC, contains LUD domain",LutC,,,2G40,"C, Energy production and conversion",LutC
+non_transporter,COG1612,H,Heme A synthase,CtaA,,,6A2J,"H, Coenzyme transport and metabolism",CtaA
+H_Na_antiporter,COG2111,P,"Multisubunit Na+/H+ antiporter, MnhB subunit",MnhB,,,,"P, Inorganic ion transport and metabolism",MnhB
+non_transporter,COG2146,PQ,Ferredoxin subunit of nitrite reductase or a ring-hydroxylating dioxygenase,NirD,,23844911,1FQT,"P, Inorganic ion transport and metabolism;Q, Secondary metabolites biosynthesis, transport and catabolism",NirD
+non_transporter,COG2332,CO,Cytochrome c biogenesis protein CcmE,CcmE,,,1J6Q,"C, Energy production and conversion;O, Posttranslational modification, protein turnover, chaperones",CcmE
+transporter,COG2386,O,"ABC-type transport system involved in cytochrome c biogenesis, permease component",CcmB,,,,"O, Posttranslational modification, protein turnover, chaperones",CcmB
+non_transporter,COG2876,E,3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase,AroGA,Aromatic amino acid biosynthesis,,5J6F,"E, Amino acid transport and metabolism",AroGA
+non_transporter,COG2975,O,Fe-S-cluster formation regulator IscX/YfhJ,IscX,,16698547,1UJ8,"O, Posttranslational modification, protein turnover, chaperones",IscX
+non_transporter,COG3467,V,"Nitroimidazole reductase NimA or a related FMN-containing flavoprotein, pyridoxamine 5'-phosphate oxidase superfamily",NimA,,,1W3O,"V, Defense mechanisms",NimA
+non_transporter,COG0131,E,Imidazoleglycerol phosphate dehydratase HisB,HisB2,Histidine biosynthesis,,1RHY,"E, Amino acid transport and metabolism",HisB2
+non_transporter,COG0427,C,Propionyl CoA:succinate CoA transferase,ACH1,,10769117,2G39,"C, Energy production and conversion",ACH1
+non_transporter,COG0549,E,Carbamate kinase,ArcC,,,2E9Y,"E, Amino acid transport and metabolism",ArcC
+non_transporter,COG1148,C,"Heterodisulfide reductase, subunit A (polyferredoxin)",HdrA,,,5ODC,"C, Energy production and conversion",HdrA
+non_transporter,COG1355,R,"Predicted class III extradiol dioxygenase, MEMO1 family",Mho1,,,3BCZ,"R, General function prediction only",Mho1
+non_transporter,COG1592,C,Rubrerythrin,YotD,,,1B71,"C, Energy production and conversion",YotD
+non_transporter,COG2759,F,Formyltetrahydrofolate synthetase,MIS1,,,1EG7,"F, Nucleotide transport and metabolism",MIS1
+non_transporter,COG2987,E,Urocanate hydratase,HutU,,,1UWK,"E, Amino acid transport and metabolism",HutU
+non_transporter,COG0514,L,Superfamily II DNA helicase RecQ,RecQ,,,1OYW,"L, Replication, recombination and repair",RecQ
+transporter,COG3601,H,Riboflavin transporter FmnP,FmnP,,,3P5N,"H, Coenzyme transport and metabolism",FmnP
+non_transporter,COG1577,I,Mevalonate kinase,ERG12,Isoprenoid biosynthesis,,,"I, Lipid transport and metabolism",ERG12
+non_transporter,COG2171,E,Tetrahydrodipicolinate N-succinyltransferase,DapD,Lysine biosynthesis,,3BXY,"E, Amino acid transport and metabolism",DapD
+Na_transporter,COG0733,R,"Na+-dependent transporter, SNF family",YocR,,,2A65,"R, General function prediction only",YocR
+non_transporter,COG1420,K,Transcriptional regulator of heat shock response,HrcA,,,1STZ,"K, Transcription",HrcA
+non_transporter,COG1666,T,"Cyclic di-GMP-binding protein YajQ, UPF0234 family",YajQ,,25329577,1IN0,"T, Signal transduction mechanisms",YajQ
+non_transporter,COG2518,O,Protein-L-isoaspartate O-methyltransferase,Pcm,,24909784,3LBF,"O, Posttranslational modification, protein turnover, chaperones",Pcm
+transporter,COG3470,MI,Uncharacterized conserved protein probably involved in high-affinity Fe2+ transport,Tpd,,18456808,2O6C,"M, Cell wall/membrane/envelope biogenesis;I, Lipid transport and metabolism",Tpd
+transporter,COG0370,P,Fe2+ transporter FeoB,FeoB,,32095817,3TAH,"P, Inorganic ion transport and metabolism",FeoB
+non_transporter,COG0189,EHJQ,"Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily",LysX,Lysine biosynthesis,,1GLV,"E, Amino acid transport and metabolism;H, Coenzyme transport and metabolism;J, Translation, ribosomal structure and biogenesis;Q, Secondary metabolites biosynthesis, transport and catabolism",LysX
+non_transporter,COG2073,H,Cobalamin biosynthesis protein CbiG,CbiG,Cobalamine/B12 biosynthesis,,,"H, Coenzyme transport and metabolism",CbiG
+non_transporter,COG0504,F,CTP synthase (UTP-ammonia lyase),PyrG,Pyrimidine biosynthesis,,1S1M,"F, Nucleotide transport and metabolism",PyrG
+non_transporter,COG0517,T,CBS domain,CBS,,,1B3O,"T, Signal transduction mechanisms",CBS
+non_transporter,COG0287,E,Prephenate dehydrogenase,TyrA,Aromatic amino acid biosynthesis,,2F1K,"E, Amino acid transport and metabolism",TyrA
+transporter,COG5006,E,Threonine/homoserine efflux transporter RhtA,RhtA,,,,"E, Amino acid transport and metabolism",RhtA
+non_transporter,COG4399,S,"Uncharacterized membrane protein YheB, UPF0754 family",YheB,,,,"S, Function unknown",YheB
+non_transporter,COG3634,V,Alkyl hydroperoxide reductase subunit AhpF,AhpF,,,4YKG,"V, Defense mechanisms",AhpF
+non_transporter,COG1351,F,"Thymidylate synthase ThyX, FAD-dependent family",ThyX,Thymidylate biosynthesis,,1KQ4,"F, Nucleotide transport and metabolism",ThyX
+non_transporter,COG2838,C,Monomeric isocitrate dehydrogenase,IcdM,TCA cycle,,1ITW,"C, Energy production and conversion",IcdM
+non_transporter,COG0710,E,3-dehydroquinate dehydratase,AroD,Aromatic amino acid biosynthesis,,1GQN,"E, Amino acid transport and metabolism",AroD
+non_transporter,COG0717,F,dCTP deaminase,Dcd,Thymidylate biosynthesis,,1XS1,"F, Nucleotide transport and metabolism",Dcd
+non_transporter,COG0588,G,Phosphoglycerate mutase (BPG-dependent),GpmA,Glycolysis,,1.00E+58,"G, Carbohydrate transport and metabolism",GpmA
+non_transporter,COG1384,J,"Lysyl-tRNA synthetase, class I",LysS,Aminoacyl-tRNA synthetases,,1IRX,"J, Translation, ribosomal structure and biogenesis",LysS
+non_transporter,COG1854,T,"S-ribosylhomocysteine lyase LuxS, autoinducer biosynthesis",LuxS,,,5.00E+68,"T, Signal transduction mechanisms",LuxS
+non_transporter,COG1227,C,Inorganic pyrophosphatase/exopolyphosphatase,PPX1,,,1I74,"C, Energy production and conversion",PPX1
+non_transporter,COG0328,L,Ribonuclease HI,RnhA,,,1LAW,"L, Replication, recombination and repair",RnhA
+membrane_bound,COG1585,O,Membrane protein implicated in regulation of membrane protease activity,YbbJ,,,2EXD,"O, Posttranslational modification, protein turnover, chaperones",YbbJ
+non_transporter,COG1636,J,Epoxyqueuosine reductase QueH (tRNA modification),QueH,,28128549,,"J, Translation, ribosomal structure and biogenesis",QueH
+non_transporter,COG3588,G,Fructose-bisphosphate aldolase class 1,Fba1,Glycolysis,,,"G, Carbohydrate transport and metabolism",Fba1
+non_transporter,COG1257,I,Hydroxymethylglutaryl-CoA reductase,HMG1,Isoprenoid biosynthesis,,1DQ8,"I, Lipid transport and metabolism",HMG1
+non_transporter,COG0397,O,Protein adenylyltransferase (AMPylase) SelO/YdiU (selenoprotein O),SelO,,30270044,6EAC,"O, Posttranslational modification, protein turnover, chaperones",SelO
+non_transporter,COG4508,F,"Dimeric dUTPase, all-alpha-NTP-PPase (MazG) superfamily",Dut2,Thymidylate biosynthesis,,,"F, Nucleotide transport and metabolism",Dut2
+non_transporter,COG3007,I,Trans-2-enoyl-CoA reductase,,,,3S8M,"I, Lipid transport and metabolism",COG3007
+non_transporter,COG1897,E,Homoserine O-succinyltransferase,MetA,Methionine biosynthesis,,2GHR,"E, Amino acid transport and metabolism",MetA
+non_transporter,COG4953,M,Membrane carboxypeptidase/penicillin-binding protein PbpC,PbpC,,,,"M, Cell wall/membrane/envelope biogenesis",PbpC
+non_transporter,COG1573,L,Uracil-DNA glycosylase,Udg4,,,3IKB,"L, Replication, recombination and repair",Udg4
+transporter,COG1971,P,Putative Mn2+ efflux pump MntP,MntP,,,,"P, Inorganic ion transport and metabolism",MntP
+non_transporter,COG3425,I,3-hydroxy-3-methylglutaryl CoA synthase,PksG,Isoprenoid biosynthesis,,1TVZ,"I, Lipid transport and metabolism",PksG
+non_transporter,COG0611,H,Thiamine monophosphate kinase,ThiL,Thiamine biosynthesis,,5CC8,"H, Coenzyme transport and metabolism",ThiL
+putative_transporter,COG2426,S,Uncharacterized membrane protein,,,,,"S, Function unknown",COG2426
+non_transporter,COG0403,E,"Glycine cleavage system protein P (pyridoxal-binding), N-terminal domain",GcvP1,Glycine cleavage,,4LGL,"E, Amino acid transport and metabolism",GcvP1
+non_transporter,COG1003,E,"Glycine cleavage system protein P (pyridoxal-binding), C-terminal domain",GcvP2,Glycine cleavage,,4LGL,"E, Amino acid transport and metabolism",GcvP2
+non_transporter,COG2046,P,ATP sulfurylase (sulfate adenylyltransferase),MET3,Cysteine biosynthesis,,1G8F,"P, Inorganic ion transport and metabolism",MET3
+non_transporter,COG0043,H,3-polyprenyl-4-hydroxybenzoate decarboxylase,UbiD,Ubiquinone biosynthesis,28057757,2IDB,"H, Coenzyme transport and metabolism",UbiD
+non_transporter,COG0751,J,"Glycyl-tRNA synthetase, beta subunit",GlyS,Aminoacyl-tRNA synthetases,,,"J, Translation, ribosomal structure and biogenesis",GlyS
+non_transporter,COG0752,J,"Glycyl-tRNA synthetase, alpha subunit",GlyQ,Aminoacyl-tRNA synthetases,,1J5W,"J, Translation, ribosomal structure and biogenesis",GlyQ
+non_transporter,COG1469,H,GTP cyclohydrolase FolE2,FolE2,Folate biosynthesis,19767425,2R5R,"H, Coenzyme transport and metabolism",FolE2
+non_transporter,COG2379,G,Glycerate-2-kinase,GckA,Non-phosphorylated Entner-Doudoroff pathway,18156253,1X3L,"G, Carbohydrate transport and metabolism",GckA
+non_transporter,COG2107,H,"1,4-dihydroxy-6-naphtoate synthase (menaquinone biosynthesis, futalosine pathway)",MqnD,Menaquinone biosynthesis,,2CZL,"H, Coenzyme transport and metabolism",MqnD
+non_transporter,COG1427,H,"Chorismate dehydratase (menaquinone biosynthesis, futalosine pathway)",MqnA,Menaquinone biosynthesis,,2I6E,"H, Coenzyme transport and metabolism",MqnA
+Na_transporter,COG2869,C,"Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC",NqrC,Na+-translocating NADH dehydrogenase,,4P6V,"C, Energy production and conversion",NqrC
+transporter,COG4590,R,"ABC-type uncharacterized transport system, permease component",,,,,"R, General function prediction only",COG4590
+non_transporter,COG1072,H,Panthothenate kinase,CoaA,Pantothenate/CoA biosynthesis,,2GA8,"H, Coenzyme transport and metabolism",CoaA
+non_transporter,COG0420,L,DNA repair exonuclease SbcCD nuclease subunit,SbcD,,,6S85,"L, Replication, recombination and repair",SbcD
+non_transporter,COG0163,H,Flavin prenyltransferase UbiX,UbiX,Ubiquinone biosynthesis,28754323;26083743,1SBZ,"H, Coenzyme transport and metabolism",UbiX
+Na_transporter,COG1347,C,"Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD",NqrD,Na+-translocating NADH dehydrogenase,,4P6V,"C, Energy production and conversion",NqrD
+Na_transporter,COG1726,C,"Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA",NqrA,Na+-translocating NADH dehydrogenase,,4P6V,"C, Energy production and conversion",NqrA
+Na_transporter,COG2209,C,"Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE",NqrE,Na+-translocating NADH dehydrogenase,,4P6V,"C, Energy production and conversion",NqrE
+non_transporter,COG1754,S,Uncharacterized C-terminal domain of topoisomerase IA,,,,,"S, Function unknown",COG1754
+non_transporter,COG0156,H,7-keto-8-aminopelargonate synthetase or related enzyme,BioF,Biotin biosynthesis,,1BS0,"H, Coenzyme transport and metabolism",BioF
+non_transporter,COG2109,H,ATP:corrinoid adenosyltransferase,BtuR,Cobalamine/B12 biosynthesis,,4HUT,"H, Coenzyme transport and metabolism",BtuR
+transporter,COG4985,P,"ABC-type phosphate transport system, auxiliary component PstA",PstA,,,,"P, Inorganic ion transport and metabolism",PstA
+non_transporter,COG1966,CE,Carbon starvation protein CstA (peptide/pyruvate transporter),CstA,,26497384;29358499,,"C, Energy production and conversion;E, Amino acid transport and metabolism",CstA
+Na_transporter,COG1805,C,"Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB",NqrB,Na+-translocating NADH dehydrogenase,,4P6V,"C, Energy production and conversion",NqrB
+H_Na_antiporter,COG1757,C,Na+/H+ antiporter NhaC/MleN,NhaC,,,,"C, Energy production and conversion",NhaC
+non_transporter,COG2033,C,"Desulfoferrodoxin, superoxide reductase-like (SORL) domain",SORL,,,1DFX,"C, Energy production and conversion",SORL
+non_transporter,COG3876,S,"Uncharacterized conserved protein YbbC, DUF1343 family",YbbC,,,4JJA,"S, Function unknown",YbbC
+non_transporter,COG1932,HE,Phosphoserine aminotransferase,SerC,Serine biosynthesis,,1BJN,"H, Coenzyme transport and metabolism;E, Amino acid transport and metabolism",SerC
+non_transporter,COG3022,L,DNA-binding protein YaaA associated with the oxidative stress response,YaaA,,21378183;32796037,5CAJ,"L, Replication, recombination and repair",YaaA
+non_transporter,COG0404,E,Glycine cleavage system protein T (aminomethyltransferase),GcvT,Glycine cleavage,25433025;25505271,2GAH,"E, Amino acid transport and metabolism",GcvT
+non_transporter,COG0822,O,"Fe-S cluster assembly scaffold protein IscU, NifU family",IscU,,,1Q48,"O, Posttranslational modification, protein turnover, chaperones",IscU
+non_transporter,COG0173,J,Aspartyl-tRNA synthetase,AspS,Aminoacyl-tRNA synthetases,,1C0A,"J, Translation, ribosomal structure and biogenesis",AspS
+transporter,COG4708,FJ,"ECF-type transporter of queuosine precursor, membrane (S) component",QueT,,21135102;31481610,,"F, Nucleotide transport and metabolism;J, Translation, ribosomal structure and biogenesis",QueT
+non_transporter,COG0775,FH,"Nucleoside phosphorylase/nucleosidase, includes 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase MtnN and futalosine hydrolase MqnB",MtnN,Menaquinone biosynthesis,18801996,1T8R,"F, Nucleotide transport and metabolism;H, Coenzyme transport and metabolism",MtnN
+non_transporter,COG0602,H,Organic radical activating enzyme NrdG/QueE,QueE,tRNA modification,14660578;17384645,,"H, Coenzyme transport and metabolism",QueE
+transporter,COG4208,P,"ABC-type sulfate transport system, permease component",CysW,,,,"P, Inorganic ion transport and metabolism",CysW
+non_transporter,COG1433,O,"Predicted Fe-Mo cluster-binding protein, NifX family",NifX,,,1EO1,"O, Posttranslational modification, protein turnover, chaperones",NifX
+non_transporter,COG0120,G,Ribose 5-phosphate isomerase,RpiA,Pentose phosphate pathway,,1KS2,"G, Carbohydrate transport and metabolism",RpiA
+non_transporter,COG3643,E,Glutamate formiminotransferase,GluFT,,,1QD1,"E, Amino acid transport and metabolism",GluFT
+non_transporter,COG1001,F,Adenine deaminase,AdeC,,,3NQB,"F, Nucleotide transport and metabolism",AdeC
+transporter,COG3201,H,Nicotinamide riboside transporter PnuC,PnuC,,,4QTN,"H, Coenzyme transport and metabolism",PnuC
+K_transporter,COG2060,P,"K+-transporting ATPase, KdpA subunit",KdpA,,,5MRW,"P, Inorganic ion transport and metabolism",KdpA
+K_transporter,COG2156,P,"K+-transporting ATPase, KdpC subunit",KdpC,,,5MRW,"P, Inorganic ion transport and metabolism",KdpC
+non_transporter,COG0509,E,Glycine cleavage system protein H (lipoate-binding),GcvH,Glycine cleavage,,1DXM,"E, Amino acid transport and metabolism",GcvH
+non_transporter,COG1924,I,Activator of 2-hydroxyglutaryl-CoA dehydratase (HSP70-class ATPase domain),YjiL,,,1HUX,"I, Lipid transport and metabolism",YjiL
+non_transporter,COG2887,L,RecB family exonuclease,Slr0479,,,,"L, Replication, recombination and repair",Slr0479
+non_transporter,COG3872,S,"Uncharacterized conserved protein YqhQ, DUF1385 family",YqhQ,,,,"S, Function unknown",YqhQ
+non_transporter,COG1210,M,UTP-glucose-1-phosphate uridylyltransferase,GalU,,,2E3D,"M, Cell wall/membrane/envelope biogenesis",GalU
+transporter,COG1613,P,"ABC-type sulfate transport system, periplasmic component",Sbp,,,5UM2,"P, Inorganic ion transport and metabolism",Sbp
+Na_transporter,COG2871,C,"Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrF",NqrF,Na+-translocating NADH dehydrogenase,,4P6V,"C, Energy production and conversion",NqrF
+non_transporter,COG2768,S,Uncharacterized Fe-S cluster protein,,,,,"S, Function unknown",COG2768
+non_transporter,COG0854,H,Pyridoxine 5'-phosphate synthase PdxJ,PdxJ,Pyridoxal phosphate biosynthesis,,1HO1,"H, Coenzyme transport and metabolism",PdxJ
+non_transporter,COG0431,C,NAD(P)H-dependent FMN reductase,SsuE,,,6DQI,"C, Energy production and conversion",SsuE
+non_transporter,COG3958,G,"Transketolase, C-terminal subunit",TktA2,,,,"G, Carbohydrate transport and metabolism",TktA2
+non_transporter,COG3959,G,"Transketolase, N-terminal subunit",TktA1,,,,"G, Carbohydrate transport and metabolism",TktA1
+transporter,COG1914,P,"Mn2+ or Fe2+ transporter, NRAMP family",MntH,,,5KTE,"P, Inorganic ion transport and metabolism",MntH
+non_transporter,COG1540,E,5-oxoprolinase subunit A,PxpA,,28830929,1V6T,"E, Amino acid transport and metabolism",PxpA
+non_transporter,COG2607,R,"Predicted ATPase, AAA+ superfamily",Atu1564,,,,"R, General function prediction only",Atu1564
+non_transporter,COG1328,F,Anaerobic ribonucleoside-triphosphate reductase,NrdD,Thymidylate biosynthesis,,4COI,"F, Nucleotide transport and metabolism",NrdD
+K_transporter,COG2216,P,"K+ transport ATPase, ATPase subunit KdpB",KdpB,,,5MRW,"P, Inorganic ion transport and metabolism",KdpB
+non_transporter,COG0731,J,"Wyosine [tRNA(Phe)-imidazoG37] synthetase, radical SAM superfamily",Tyw1,tRNA modification,,2YX0,"J, Translation, ribosomal structure and biogenesis",Tyw1
+non_transporter,COG1965,P,"Fe-S cluster assembly protein CyaY, frataxin homolog",CyaY,Cobalamine/B12 biosynthesis,,1EKG,"P, Inorganic ion transport and metabolism",CyaY
+non_transporter,COG0847,L,"DNA polymerase III, epsilon subunit or related 3'-5' exonuclease",DnaQ,,,1J53,"L, Replication, recombination and repair",DnaQ
+non_transporter,COG2957,E,Agmatine/peptidylarginine deiminase,AguA,,,1VKP,"E, Amino acid transport and metabolism",AguA
+non_transporter,COG5016,C,Pyruvate/oxaloacetate carboxyltransferase,OadA1,Urea cycle,18681940,2NX9,"C, Energy production and conversion",OadA1
+transporter,COG1288,R,"Predicted membrane transporter YfcC, affects glyoxylate shunt",YfcC,,24513124,,"R, General function prediction only",YfcC
+non_transporter,COG0426,C,Flavorubredoxin,NorV,,,4JHC,"C, Energy production and conversion",NorV
+non_transporter,COG3178,R,"Predicted phosphotransferase, aminoglycoside/choline kinase (APH/ChoK) family",,,,,"R, General function prediction only",COG3178
+non_transporter,COG0419,L,DNA repair exonuclease SbcCD ATPase subunit,SbcC,,,3QKR,"L, Replication, recombination and repair",SbcC
+non_transporter,COG2235,E,Arginine deiminase,ArcA,,,2A9G,"E, Amino acid transport and metabolism",ArcA
+putative_transporter,COG3162,S,"Uncharacterized membrane protein, DUF485 family",YjcH,,,,"S, Function unknown",YjcH
+H_Na_antiporter,COG0387,P,Cation (Ca2+/Na+/K+)/H+ antiporter ChaA,ChaA,,18801996,4KJS,"P, Inorganic ion transport and metabolism",ChaA
+transporter,COG1392,P,"Phosphate transport regulator YkaA, distantly related to PhoU, UPF0111/DUF47 family",YkaA,,,2IIU,"P, Inorganic ion transport and metabolism",YkaA
+non_transporter,COG2269,J,Elongation factor P--beta-lysine ligase (EF-P beta-lysylation pathway),EpmA,,20729861,3A5Z,"J, Translation, ribosomal structure and biogenesis",EpmA
+non_transporter,COG2820,F,Uridine phosphorylase,Udp,Pyrimidine salvage,,1K3F,"F, Nucleotide transport and metabolism",Udp
+transporter,COG2998,P,"ABC-type tungstate transport system, permease component TupA",TupB,,,,"P, Inorganic ion transport and metabolism",TupB
+transporter,COG4662,P,"ABC-type tungstate transport system, periplasmic component",TupA,,,,"P, Inorganic ion transport and metabolism",TupA
+non_transporter,COG1881,R,"Uncharacterized conserved protein, phosphatidylethanolamine-binding protein (PEBP) family",PEBP,,,1A44,"R, General function prediction only",PEBP
+non_transporter,COG1297,R,"Predicted oligopeptide transporter, OPT family",OPT,,,,"R, General function prediction only",OPT
+transporter,COG1918,P,Fe2+ transport protein FeoA,FeoA,,,2GCX,"P, Inorganic ion transport and metabolism",FeoA
+putative_transporter,COG3439,S,"Uncharacterized conserved protein, DUF302 family",,,,1J3M,"S, Function unknown",COG3439
+H_transporter,COG0852,C,NADH:ubiquinone oxidoreductase 27 kD subunit (chain C),NuoC,NADH dehydrogenase,,,"C, Energy production and conversion",NuoC
+transporter,COG0306,P,Phosphate/sulfate permease,PitA,,31358606,,"P, Inorganic ion transport and metabolism",PitA
+non_transporter,COG1180,O,Pyruvate-formate lyase-activating enzyme,PflA,,,3CAN,"O, Posttranslational modification, protein turnover, chaperones",PflA
+non_transporter,COG1430,S,"Uncharacterized conserved membrane protein, UPF0127 family",,,,3M7A,"S, Function unknown",COG1430
+non_transporter,COG3276,J,Selenocysteine-specific translation elongation factor SelB,SelB,Translation factors,,4ZU9,"J, Translation, ribosomal structure and biogenesis",SelB
+transporter,COG0555,P,"ABC-type sulfate transport system, permease component",CysU,,,3D31,"P, Inorganic ion transport and metabolism",CysU
+non_transporter,COG0826,J,"23S rRNA C2501 and tRNA U34 5'-hydroxylation protein RlhA/YrrN/YrrO, U32 peptidase family",RlhA,23S rRNA modification,31253794;31358606,5D88,"J, Translation, ribosomal structure and biogenesis",RlhA
+non_transporter,COG3186,E,Phenylalanine-4-hydroxylase,PhhA,,,1PHZ,"E, Amino acid transport and metabolism",PhhA
+non_transporter,COG4696,F,"NTP pyrophosphatase, MazG superfamily",MazG2,,,3NL9,"F, Nucleotide transport and metabolism",MazG2
+non_transporter,COG1038,C,Pyruvate carboxylase,PycA,Urea cycle,,5VYW,"C, Energy production and conversion",PycA
+non_transporter,COG1054,J,"tRNA U34 5'-hydroxylase TrhO, rhodanese family",TrhO,,31253794,4F67,"J, Translation, ribosomal structure and biogenesis",TrhO
+non_transporter,COG3323,S,"PII-like insert in the uncharacterized protein YqfO, YbgI/NIF3 family",YqfO,,17187687;29625546;31118925,2GX8,"S, Function unknown",YqfO
+transporter,COG1593,G,"TRAP-type C4-dicarboxylate transport system, large permease component",DctQ,,,,"G, Carbohydrate transport and metabolism",DctQ
+transporter,COG1638,G,"TRAP-type C4-dicarboxylate transport system, periplasmic component",DctP,,,2CEX,"G, Carbohydrate transport and metabolism",DctP
+transporter,COG3090,G,"TRAP-type C4-dicarboxylate transport system, small permease component YiaM",DctM,,,,"G, Carbohydrate transport and metabolism",DctM
+non_transporter,COG3448,T,CBS-domain-containing membrane protein,,,,,"T, Signal transduction mechanisms",COG3448
+non_transporter,COG3893,L,Inactivated superfamily I helicase,,,,,"L, Replication, recombination and repair",COG3893
+non_transporter,COG0011,H,"Thiamin-binding stress-response protein YqgV, UPF0045 family",YqgV,,20471400,1LXJ,"H, Coenzyme transport and metabolism",YqgV
+putative_transporter,COG1272,U,"Predicted membrane channel-forming protein YqfA, hemolysin III family",YqfA,,,3WXV,"U, Intracellular trafficking, secretion, and vesicular transport",YqfA
+H_Na_antiporter,COG0651,CP,"Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit",HyfB,,,6CFW,"C, Energy production and conversion;P, Inorganic ion transport and metabolism",HyfB
+non_transporter,COG0603,J,7-cyano-7-deazaguanine synthase (queuosine biosynthesis),QueC,tRNA modification,14660578;17384645,2PG3,"J, Translation, ribosomal structure and biogenesis",QueC
+non_transporter,COG4260,O,"Membrane protease subunit, stomatin/prohibitin family, contains C-terminal Zn-ribbon domain",YdjI,,,,"O, Posttranslational modification, protein turnover, chaperones",YdjI
+non_transporter,COG4912,L,3-methyladenine DNA glycosylase AlkD,AlkD,,,3JX7,"L, Replication, recombination and repair",AlkD
+non_transporter,COG1812,H,Archaeal S-adenosylmethionine synthetase,MetK2,Methionine biosynthesis,,4HPV,"H, Coenzyme transport and metabolism",MetK2
+non_transporter,COG0819,H,Aminopyrimidine aminohydrolase TenA (thiamine salvage pathway),TenA,,17618314,2QCX,"H, Coenzyme transport and metabolism",TenA
+non_transporter,COG1523,G,Pullulanase/glycogen debranching enzyme,PulA,,,2WSK,"G, Carbohydrate transport and metabolism",PulA
+non_transporter,COG1586,E,S-adenosylmethionine decarboxylase,SpeD,,,1TLU,"E, Amino acid transport and metabolism",SpeD
+non_transporter,COG1237,R,"Metal-dependent hydrolase, beta-lactamase superfamily II",,,,2P4Z,"R, General function prediction only",COG1237
+non_transporter,COG1039,L,Ribonuclease HIII,RnhC,,,2D0A,"L, Replication, recombination and repair",RnhC
+non_transporter,COG2079,G,2-methylcitrate dehydratase PrpD,PrpD,,,1SZQ,"G, Carbohydrate transport and metabolism",PrpD
+non_transporter,COG1489,GT,"DNA-binding protein, stimulates sugar fermentation",SfsA,,,4DA2,"G, Carbohydrate transport and metabolism;T, Signal transduction mechanisms",SfsA
+non_transporter,COG1773,P,Flavorubredoxin,NorV,,,4D02,"P, Inorganic ion transport and metabolism",NorV
+non_transporter,COG4868,S,"Uncharacterized conserved protein, UPF0371 family",,,,3BH1,"S, Function unknown",COG4868
+non_transporter,COG0039,C,Malate/lactate dehydrogenase,Mdh,TCA cycle,,4WLO,"C, Energy production and conversion",Mdh
+non_transporter,COG3404,E,Formiminotetrahydrofolate cyclodeaminase,FtcD,,,1O5H,"E, Amino acid transport and metabolism",FtcD
+non_transporter,COG0618,FT,"nanoRNase/pAp phosphatase, hydrolyzes c-di-AMP and oligoRNAs",NrnA,,,5O4Z,"F, Nucleotide transport and metabolism;T, Signal transduction mechanisms",NrnA
+non_transporter,COG4299,R,"Predicted acyltransferase, DUF1624 domain",,,,,"R, General function prediction only",COG4299
+non_transporter,COG1633,P,"Rubrerythrin, includes spore coat protein YhjR",YhjR,,,2E0Z,"P, Inorganic ion transport and metabolism",YhjR
+non_transporter,COG1839,F,Adenosine/AMP kinase,,,,1RLH,"F, Nucleotide transport and metabolism",COG1839
+non_transporter,COG3264,M,Small-conductance mechanosensitive channel MscK,MscK,,,,"M, Cell wall/membrane/envelope biogenesis",MscK
+Na_transporter,COG4659,C,"Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfG subunit",RnfG,Na+-translocating Fd:NADH oxidoreductase,,,"C, Energy production and conversion",RnfG
+non_transporter,COG2813,J,16S rRNA G1207 methylase RsmC,RsmC,16S rRNA modification,,1DUS,"J, Translation, ribosomal structure and biogenesis",RsmC
+H_Na_antiporter,COG1055,P,Na+/H+ antiporter NhaD or related arsenite permease,ArsB,,,,"P, Inorganic ion transport and metabolism",ArsB
+non_transporter,COG3757,M,"Lyzozyme M1 (1,4-beta-N-acetylmuramidase), GH25 family",Acm,,,1H09,"M, Cell wall/membrane/envelope biogenesis",Acm
+non_transporter,COG1313,R,Radical SAM superfamily enzyme PflX,PflX,,,,"R, General function prediction only",PflX
+non_transporter,COG1760,E,L-serine deaminase,SdaA,,,4RQO,"E, Amino acid transport and metabolism",SdaA
+non_transporter,COG0721,J,Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit,GatC,Aminoacyl-tRNA synthetases,,3H0L,"J, Translation, ribosomal structure and biogenesis",GatC
+non_transporter,COG1994,O,Zn-dependent protease (includes sporulation protein SpoIVFB),SpoIVFB,,,3B4R,"O, Posttranslational modification, protein turnover, chaperones",SpoIVFB
+transporter,COG0410,E,"ABC-type branched-chain amino acid transport system, ATPase component LivF",LivF,,26527648;32250026,1JI0,"E, Amino acid transport and metabolism",LivF
+transporter,COG0559,E,"Branched-chain amino acid ABC-type transport system, permease component",LivH,,,,"E, Amino acid transport and metabolism",LivH
+non_transporter,COG1076,O,DnaJ domain-containing protein,DjlA,,15489435;11106641,,"O, Posttranslational modification, protein turnover, chaperones",DjlA
+potential_transporter,COG3216,S,"Uncharacterized conserved protein, DUF2062 family",,,,,"S, Function unknown",COG3216
+non_transporter,COG2373,R,"Uncharacterized conserved protein YfaS, alpha-2-macroglobulin family",YfaS,,,2A73,"R, General function prediction only",YfaS
+non_transporter,COG1945,E,Pyruvoyl-dependent arginine decarboxylase,PdaD,,,1MT1,"E, Amino acid transport and metabolism",PdaD
+non_transporter,COG0069,E,Glutamate synthase domain 2,GltB2,Glutamine biosynthesis,,1EA0,"E, Amino acid transport and metabolism",GltB2
+non_transporter,COG1780,F,"Flavodoxin NrdI, NrdF-interacting activator of class Ib ribonucleotide reductase",NrdI,,20688982,1RLJ,"F, Nucleotide transport and metabolism",NrdI
+non_transporter,COG1643,J,HrpA-like RNA helicase,HrpA,,,5N8R,"J, Translation, ribosomal structure and biogenesis",HrpA
+non_transporter,COG1640,G,4-alpha-glucanotransferase,MalQ,,,1CWY,"G, Carbohydrate transport and metabolism",MalQ
+non_transporter,COG4231,C,"TPP-dependent indolepyruvate ferredoxin oxidoreductase, alpha subunit",IorA,,,,"C, Energy production and conversion",IorA
+non_transporter,COG0095,H,Lipoate-protein ligase A,LplA,Lipoate biosynthesis,,4TVW,"H, Coenzyme transport and metabolism",LplA
+non_transporter,COG2138,H,Sirohydrochlorin ferrochelatase,SirB,Cobalamine/B12 biosynthesis,,1TJN,"H, Coenzyme transport and metabolism",SirB
+non_transporter,COG5496,R,Predicted thioesterase,,,,,"R, General function prediction only",COG5496
+non_transporter,COG3576,R,"Predicted flavin-nucleotide-binding protein, pyridoxine 5'-phosphate oxidase superfamily",,,,5ESC,"R, General function prediction only",COG3576
+non_transporter,COG0139,E,Phosphoribosyl-AMP cyclohydrolase,HisI1,Histidine biosynthesis,,1ZPS,"E, Amino acid transport and metabolism",HisI1
+membrane_bound,COG2928,S,Uncharacterized membrane protein,,,19363116,,"S, Function unknown",COG2928
+non_transporter,COG0350,L,DNA repair enzyme Ada (O6-methylguanine-DNA--protein-cysteine methyltransferase),AdaB,,29061663,6RLA,"L, Replication, recombination and repair",AdaB
+transporter,COG1108,P,"ABC-type Mn2+/Zn2+ transport system, permease component",ZnuB,,,,"P, Inorganic ion transport and metabolism",ZnuB
+transporter,COG1121,P,"ABC-type Mn2+/Zn2+ transport system, ATPase component",ZnuC,,,,"P, Inorganic ion transport and metabolism",ZnuC
+transporter,COG3781,P,"Predicted membrane chloride channel, bestrophin family",YneE,,,4RDQ,"P, Inorganic ion transport and metabolism",YneE
+non_transporter,COG2350,QR,"YciI superfamily enzyme, includes 5-CHQ dehydrochlorinase, contains active-site pHis",YciI,,15779043;23955343,1MWQ,"Q, Secondary metabolites biosynthesis, transport and catabolism;R, General function prediction only",YciI
+non_transporter,COG1151,C,Hydroxylamine reductase (hybrid-cluster protein),Hcp,,,1E1D,"C, Energy production and conversion",Hcp
+non_transporter,COG2385,M,Peptidoglycan hydrolase (amidase) enhancer domain SpoIID,SpoIID,,,,"M, Cell wall/membrane/envelope biogenesis",SpoIID
+non_transporter,COG2240,H,Pyridoxal/pyridoxine/pyridoxamine kinase,PdxK,Pyridoxal phosphate biosynthesis,19096365;23189126,5ZW9,"H, Coenzyme transport and metabolism",PdxK
+membrane_bound,COG5010,UW,"Flp pilus assembly protein TadD, contains TPR repeats",TadD,,,3WXX,"U, Intracellular trafficking, secretion, and vesicular transport;W, Extracellular structures",TadD
+non_transporter,COG0183,I,Acetyl-CoA acetyltransferase,PaaJ,Fatty acid biosynthesis,,1AFW,"I, Lipid transport and metabolism",PaaJ
+non_transporter,COG0543,HC,NAD(P)H-flavin reductase,Mcr1,,,3A1F,"H, Coenzyme transport and metabolism;C, Energy production and conversion",Mcr1
+non_transporter,COG0301,HJ,Adenylyl- and sulfurtransferase ThiI (thiamine and tRNA 4-thiouridine biosynthesis),ThiI,Thiamine biosynthesis,22773787,1VBK,"H, Coenzyme transport and metabolism;J, Translation, ribosomal structure and biogenesis",ThiI
+non_transporter,COG1056,H,Nicotinamide mononucleotide adenylyltransferase,NadR,NAD biosynthesis,,1LW7,"H, Coenzyme transport and metabolism",NadR
+non_transporter,COG1333,CO,Cytochrome c biogenesis protein ResB,ResB,,,,"C, Energy production and conversion;O, Posttranslational modification, protein turnover, chaperones",ResB
+non_transporter,COG1304,CIR,"FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase",LldD,Isoprenoid biosynthesis,,6AI7,"C, Energy production and conversion;I, Lipid transport and metabolism;R, General function prediction only",LldD
+non_transporter,COG1547,S,Predicted metal-dependent hydrolase,YpuF,,,2CWY,"S, Function unknown",YpuF
+non_transporter,COG0627,V,S-formylglutathione hydrolase FrmB,FrmB,,,1DQY,"V, Defense mechanisms",FrmB
+non_transporter,COG4717,S,"Uncharacterized conserved protein YhaN, contains AAA domain",YhaN,,,,"S, Function unknown",YhaN
+non_transporter,COG0650,C,Formate hydrogenlyase subunit HyfC,HyfC,,,6CFW,"C, Energy production and conversion",HyfC
+non_transporter,COG3260,C,"Ni,Fe-hydrogenase III small subunit",HycG,,,6CFW,"C, Energy production and conversion",HycG
+non_transporter,COG3261,C,"Ni,Fe-hydrogenase III large subunit",HycE2,,,6CFW,"C, Energy production and conversion",HycE2
+non_transporter,COG0722,E,3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase,AroG1,Aromatic amino acid biosynthesis,,6U8J,"E, Amino acid transport and metabolism",AroG1
+non_transporter,COG2039,O,Pyrrolidone-carboxylate peptidase (N-terminal pyroglutamyl peptidase),Pcp,,,1-Aug,"O, Posttranslational modification, protein turnover, chaperones",Pcp
+non_transporter,COG0282,C,Acetate kinase,AckA,,,3SK3,"C, Energy production and conversion",AckA
+non_transporter,COG1649,S,"Uncharacterized lipoprotein YddW, UPF0748 family",YddW,,,5OQ2,"S, Function unknown",YddW
+non_transporter,COG0115,EH,Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase,IlvE,"Isoleucine, leucine, valine biosynthesis",,1A3G,"E, Amino acid transport and metabolism;H, Coenzyme transport and metabolism",IlvE
+non_transporter,COG0508,C,"Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component",AceF,Pyruvate oxidation,,1B5S,"C, Energy production and conversion",AceF
+non_transporter,COG1995,H,4-hydroxy-L-threonine phosphate dehydrogenase PdxA,PdxA,Pyridoxal phosphate biosynthesis,,1PS6,"H, Coenzyme transport and metabolism",PdxA
+non_transporter,COG0108,H,"3,4-dihydroxy-2-butanone 4-phosphate synthase",RibB,Riboflavin/FAD biosynthesis,,1G57,"H, Coenzyme transport and metabolism",RibB
+non_transporter,COG3804,S,Uncharacterized conserved protein,,,,6IAQ,"S, Function unknown",COG3804
+non_transporter,COG1716,T,"Forkhead associated (FHA) domain, binds pSer, pThr, pTyr",FHA,,,2FEZ,"T, Signal transduction mechanisms",FHA
+non_transporter,COG0857,R,BioD-like N-terminal domain of phosphotransacetylase,PtaN,,,2IOJ,"R, General function prediction only",PtaN
+potential_transporter,COG5505,S,Uncharacterized membrane protein YjcL,,,,,"S, Function unknown",COG5505
+non_transporter,COG2183,K,Transcriptional accessory protein Tex/SPT6,Tex,,,2OCE,"K, Transcription",Tex
+non_transporter,COG0435,C,Glutathionyl-hydroquinone reductase,ECM4,,,6GCA,"C, Energy production and conversion",ECM4
+non_transporter,COG4797,R,Predicted regulatory domain of a methyltransferase,,,,5DNK,"R, General function prediction only",COG4797
+transporter,COG4536,P,"Mg2+ and Co2+ transporter CorB, contains DUF21, CBS pair, and CorC-HlyC domains",CorB,,1779764,,"P, Inorganic ion transport and metabolism",CorB
+non_transporter,COG3613,F,Nucleoside 2-deoxyribosyltransferase,RCL,,,1F8X,"F, Nucleotide transport and metabolism",RCL
+non_transporter,COG0489,D,"Fe-S cluster carrier ATPase, Mrp/ApbC/NBP35 family",Mrp,,18616280;19114487;31709520,2PH1,"D, Cell cycle control, cell division, chromosome partitioning",Mrp
+membrane_bound,COG2733,S,"Uncharacterized membrane-anchored protein YjiN, DUF445 family",YjiN,,,,"S, Function unknown",YjiN

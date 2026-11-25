@@ -1,0 +1,3 @@
+#cat <(cat db/cog2020/cog-20.fa | grep '^>' | sed 's/^>//;s/ .*//' | sort | uniq) <(cat db/cog2020/cog-20.cog.csv | cut -d "," -f 3 | sort | uniq) | sort | uniq -u | cat - <(cat db/cog2020/cog-20.cog.csv | cut -d "," -f 3 | sort | uniq) | sort | uniq -d | awk -F "\t" -v OFS="\t" '{print $1,$1}' | sed 's/\./_/' > db/cog2020_fixed/cog-20.wrong_names.seq_csv.tsv
+
+cat <(cat db/cog2020/cog-20.fa | grep '^>' | sed 's/^>//;s/ .*//' | sort | uniq) <(cat db/cog2020/cog-20.cog.csv | cut -d "," -f 3 | sort | uniq) | sort | uniq -d | cat - <(cat db/cog2020/cog-20.cog.csv | cut -d "," -f 3 | sort | uniq) | sort | uniq -u | awk -F "\t" -v OFS="\t" '{print $1,$1}' | sed 's/\./_/' > db/cog2020_fixed/cog-20.wrong_names.seq_csv.tsv

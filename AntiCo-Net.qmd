@@ -1,0 +1,124 @@
+---
+title: "anticonet_r202"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-location: right
+    toc-title: Table of Contents
+execute: 
+  echo: false
+  message: false
+  warning: false
+---
+
+```{r}
+library(data.table)
+library(DT)
+library(tidyverse)
+library(reactable)
+```
+
+## AntiCo-Net (≥4 taxa)
+
+### COG
+
+Source: `suppl/anticonet_cog_ntax4.tsv`
+
+```{r}
+df_edge_whole <- fread("suppl/anticonet_cog_ntax4.tsv", header = TRUE, sep = "\t", quote = "", na.strings=c("", "NULL")) %>% as_tibble() 
+df_edge_whole %>% datatable(filter = "top", escape = FALSE)
+```
+
+### KEGG
+
+Source: `suppl/anticonet_kegg_ntax4.tsv`
+
+```{r}
+df_edge_whole <- fread("suppl/anticonet_kegg_ntax4.tsv", header = TRUE, sep = "\t", quote = "", na.strings=c("", "NULL")) %>% as_tibble() 
+df_edge_whole %>% datatable(filter = "top", escape = FALSE)
+```
+
+## Taxa analyzed (≥50 genomes)
+
+Source: `suppl/anticonet_r202_taxon.tsv`
+
+```{r}
+df_taxon <- fread("suppl/anticonet_r202_taxon.tsv", header = TRUE, sep = "\t", quote = "", na.strings=c("", "NULL")) %>% as_tibble() 
+df_taxon %>% datatable(filter = "top", escape = FALSE)
+```
+
+## GMGC habitat difference (Bray-Curtis dissimilarity)
+
+### COG
+
+Source: `suppl/anticonet_cog_ntax4_bray.tsv`
+
+```{r}
+df_edge_whole <- fread("suppl/anticonet_cog_ntax4_bray.tsv", header = TRUE, sep = "\t", quote = "", na.strings=c("", "NULL", "NA")) %>% as_tibble() 
+df_edge_whole %>% datatable(filter = "top", escape = FALSE)
+```
+
+### KEGG
+
+Source: `suppl/anticonet_kegg_ntax4_bray.tsv`
+
+```{r}
+df_edge_whole <- fread("suppl/anticonet_kegg_ntax4_bray.tsv", header = TRUE, sep = "\t", quote = "", na.strings=c("", "NULL", "NA")) %>% as_tibble() 
+df_edge_whole %>% datatable(filter = "top", escape = FALSE)
+```
+
+## Environmental distribution (GMGC)
+
+### COG
+
+Source: `suppl/gmgc10_cog_norm.tsv`
+
+```{r}
+df_gmgc10_cog_norm <- read.csv("suppl/gmgc10_cog_norm.tsv", header = TRUE, sep = "\t", quote = "", na.strings=c("", "NULL"), row.names = NULL) %>% as_tibble()
+bind_cols(
+    df_gmgc10_cog_norm[,1:2],
+    df_gmgc10_cog_norm[,3:16] %>% as.data.frame() %>% round(3) %>% as_tibble()
+  ) %>% datatable(filter = "top")
+```
+
+### KEGG
+
+Source: `suppl/gmgc10_kegg_norm.tsv`
+
+```{r}
+df_gmgc10_kegg_norm <- read.csv("suppl/gmgc10_kegg_norm.tsv", header = TRUE, sep = "\t", quote = "", na.strings=c("", "NULL"), row.names = NULL) %>% as_tibble()
+bind_cols(
+    df_gmgc10_kegg_norm[,1:2],
+    df_gmgc10_kegg_norm[,3:16] %>% as.data.frame() %>% round(3) %>% as_tibble()
+  ) %>% datatable(filter = "top")
+```
+
+## Genome feature difference (KL divergence)
+
+### COG
+
+Source: `ms/gfeat_cog_kl.tsv`
+
+```{r}
+df_gfeat_cog_kl <- read.csv("ms/gfeat_cog_kl.tsv", header = TRUE, sep = "\t", quote = "", na.strings=c("", "NULL"), row.names = NULL) %>% as_tibble()
+df_gfeat_cog_kl_tsv <- df_gfeat_cog_kl %>% 
+  mutate(KL = round(KL.divergence, 3)) %>% 
+  select(Genomic.features, KL, n_tax, OG.A, Name.A, OG.B, Name.B)
+colnames(df_gfeat_cog_kl_tsv) <- c("Genomic feature", "KL", "Taxa", "OG A", "Name A", "OG B", "Name B")
+df_gfeat_cog_kl_tsv %>% datatable(filter = "top")
+```
+
+### KEGG
+
+Source: `ms/gfeat_kegg_kl.tsv`
+
+```{r}
+df_gfeat_kegg_kl <- read.csv("ms/gfeat_kegg_kl.tsv", header = TRUE, sep = "\t", quote = "", na.strings=c("", "NULL"), row.names = NULL) %>% as_tibble()
+df_gfeat_kegg_kl_tsv <- df_gfeat_kegg_kl %>% 
+  mutate(KL = round(KL.divergence, 3)) %>% 
+  select(Genomic.features, KL, n_tax, OG.A, Name.A, OG.B, Name.B)
+colnames(df_gfeat_kegg_kl_tsv) <- c("Genomic feature", "KL", "Taxa", "OG A", "Name A", "OG B", "Name B")
+df_gfeat_kegg_kl_tsv %>% datatable(filter = "top")
+```
+

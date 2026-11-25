@@ -1,0 +1,1 @@
+zcat db/kegg/genes/fasta/prokaryotes.dat.gz | awk -F "\t" -v OFS="\t" '$2 != "" {print $1}' | sort | uniq

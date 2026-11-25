@@ -1,0 +1,1087 @@
+OG	Genomic features	KL divergence	n_tax	OG A	Name A	OG B	Name B
+COG	Genome size	1.8124622953025	8	COG1071	C; AcoA; TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	COG4868	S; NA; Uncharacterized conserved protein, UPF0371 family
+COG	Genome size	1.80929929327215	8	COG0022	C; AcoB; Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit	COG4868	S; NA; Uncharacterized conserved protein, UPF0371 family
+COG	Genome size	1.54739376406241	8	COG0311	H; PdxT; Pyridoxal 5'-phosphate synthase subunit PdxT (glutamine amidotransferase)	COG4708	FJ; QueT; ECF-type transporter of queuosine precursor, membrane (S) component
+COG	Genome size	1.4383420278702	8	COG0214	H; PdxS; Pyridoxal 5'-phosphate synthase subunit PdxS	COG4708	FJ; QueT; ECF-type transporter of queuosine precursor, membrane (S) component
+COG	Genome size	1.40330705291131	9	COG1064	G; AdhP; D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	COG2033	C; SORL; Desulfoferrodoxin, superoxide reductase-like (SORL) domain
+COG	Genome size	1.38731705464959	9	COG0109	HI; CyoE; Polyprenyltransferase (heme O synthase)	COG2033	C; SORL; Desulfoferrodoxin, superoxide reductase-like (SORL) domain
+COG	Genome size	1.28290729084393	10	COG2235	E; ArcA; Arginine deiminase	COG2848	D; NA; Uncharacterized conserved protein, UPF0210 family
+COG	Genome size	1.27824034123481	8	COG0504	F; PyrG; CTP synthase (UTP-ammonia lyase)	COG4868	S; NA; Uncharacterized conserved protein, UPF0371 family
+COG	Genome size	1.21677317205468	8	COG0108	H; RibB; 3,4-dihydroxy-2-butanone 4-phosphate synthase	COG3601	H; FmnP; Riboflavin transporter FmnP
+COG	Genome size	1.20747228115745	8	COG0054	H; RibE; 6,7-dimethyl-8-ribityllumazine synthase (Riboflavin synthase beta chain)	COG3601	H; FmnP; Riboflavin transporter FmnP
+COG	Genome size	1.19555973362783	8	COG1250	I; FadB; 3-hydroxyacyl-CoA dehydrogenase	COG2033	C; SORL; Desulfoferrodoxin, superoxide reductase-like (SORL) domain
+COG	Genome size	1.15051083627018	9	COG1607	I; YciA; Acyl-CoA hydrolase	COG2033	C; SORL; Desulfoferrodoxin, superoxide reductase-like (SORL) domain
+COG	Genome size	1.10929659610128	13	COG0788	F; PurU; Formyltetrahydrofolate hydrolase	COG2848	D; NA; Uncharacterized conserved protein, UPF0210 family
+COG	Genome size	1.01009449034025	15	COG0573	P; PstC; ABC-type phosphate transport system, permease component	COG4985	P; PstA; ABC-type phosphate transport system, auxiliary component PstA
+COG	Genome size	1.00571740225882	8	COG1313	R; PflX; Radical SAM superfamily enzyme PflX	COG3253	HP; HemQ; Coproheme decarboxylase/chlorite dismutase
+COG	Genome size	1.00375437685331	9	COG2033	C; SORL; Desulfoferrodoxin, superoxide reductase-like (SORL) domain	COG2096	H; PduO; Cob(II)alamin adenosyltransferase
+COG	Genome size	1.00132349122519	8	COG1313	R; PflX; Radical SAM superfamily enzyme PflX	COG2259	S; DoxX; Uncharacterized membrane protein YphA, DoxX/SURF4 family
+COG	Genome size	0.980619427951663	8	COG0122	L; AlkA; 3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase	COG2848	D; NA; Uncharacterized conserved protein, UPF0210 family
+COG	Genome size	0.9781342917739	13	COG1738	J; YhhQ; Queuosine precursor transporter YhhQ, DUF165 family	COG4708	FJ; QueT; ECF-type transporter of queuosine precursor, membrane (S) component
+COG	Genome size	0.945949809485061	14	COG0605	P; SodA; Superoxide dismutase	COG2033	C; SORL; Desulfoferrodoxin, superoxide reductase-like (SORL) domain
+COG	Genome size	0.918091263643275	30	COG0499	H; SAM1; S-adenosylhomocysteine hydrolase	COG1854	T; LuxS; S-ribosylhomocysteine lyase LuxS, autoinducer biosynthesis
+COG	Genome size	0.900548607307793	9	COG0045	C; SucC; Succinyl-CoA synthetase, beta subunit	COG2848	D; NA; Uncharacterized conserved protein, UPF0210 family
+COG	Genome size	0.887397390997755	11	COG1636	J; QueH; Epoxyqueuosine reductase QueH (tRNA modification)	COG2185	I; Sbm; Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)
+COG	Genome size	0.879686308917472	13	COG1003	E; GcvP2; Glycine cleavage system protein P (pyridoxal-binding), C-terminal domain	COG2848	D; NA; Uncharacterized conserved protein, UPF0210 family
+COG	Genome size	0.878332298441233	14	COG0403	E; GcvP1; Glycine cleavage system protein P (pyridoxal-binding), N-terminal domain	COG2848	D; NA; Uncharacterized conserved protein, UPF0210 family
+COG	Genome size	0.877410440698232	8	COG0074	C; SucD; Succinyl-CoA synthetase, alpha subunit	COG2848	D; NA; Uncharacterized conserved protein, UPF0210 family
+COG	Genome size	0.873205239136369	8	COG1180	O; PflA; Pyruvate-formate lyase-activating enzyme	COG2124	QV; CypX; Cytochrome P450
+COG	Genome size	0.853874016433991	11	COG1636	J; QueH; Epoxyqueuosine reductase QueH (tRNA modification)	COG2096	H; PduO; Cob(II)alamin adenosyltransferase
+COG	Genome size	0.853564262670562	11	COG0404	E; GcvT; Glycine cleavage system protein T (aminomethyltransferase)	COG2848	D; NA; Uncharacterized conserved protein, UPF0210 family
+COG	Genome size	0.849978910794101	16	COG0573	P; PstC; ABC-type phosphate transport system, permease component	COG4590	R; NA; ABC-type uncharacterized transport system, permease component
+COG	Genome size	0.843030898683011	9	COG0674	C; PorA; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, alpha subunit	COG3186	E; PhhA; Phenylalanine-4-hydroxylase
+COG	Genome size	0.839780600297167	16	COG0156	H; BioF; 7-keto-8-aminopelargonate synthetase or related enzyme	COG2848	D; NA; Uncharacterized conserved protein, UPF0210 family
+COG	Genome size	0.836118662511296	8	COG0708	L; XthA; Exonuclease III	COG2426	S; NA; Uncharacterized membrane protein
+COG	Genome size	0.83454844292919	8	COG1013	C; PorB; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, beta subunit	COG3186	E; PhhA; Phenylalanine-4-hydroxylase
+COG	Genome size	0.832207642076928	8	COG0551	L; YrdD; DNA topoisomerase I, ssDNA-binding Zn-finger and Zn-ribbon domains	COG2138	H; SirB; Sirohydrochlorin ferrochelatase
+COG	Genome size	0.832041910042847	8	COG0843	C; CyoB; Heme/copper-type cytochrome/quinol oxidase, subunit 1	COG1924	I; YjiL; Activator of 2-hydroxyglutaryl-CoA dehydratase (HSP70-class ATPase domain)
+COG	Genome size	0.830799134985127	8	COG1622	C; CyoA; Heme/copper-type cytochrome/quinol oxidase, subunit 2	COG1924	I; YjiL; Activator of 2-hydroxyglutaryl-CoA dehydratase (HSP70-class ATPase domain)
+COG	Genome size	0.82124898661894	8	COG0109	HI; CyoE; Polyprenyltransferase (heme O synthase)	COG1924	I; YjiL; Activator of 2-hydroxyglutaryl-CoA dehydratase (HSP70-class ATPase domain)
+COG	Genome size	0.817259855948969	11	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family	COG2060	P; KdpA; K+-transporting ATPase, KdpA subunit
+COG	Genome size	0.810510402451765	10	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family	COG2216	P; KdpB; K+ transport ATPase, ATPase subunit KdpB
+COG	Genome size	0.800600386333663	11	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family	COG2156	P; KdpC; K+-transporting ATPase, KdpC subunit
+COG	Genome size	0.794913942123086	8	COG2373	R; YfaS; Uncharacterized conserved protein YfaS, alpha-2-macroglobulin family	COG2859	M; SIMPL; Outer membrane channel-forming protein BP26/OMP28, SIMPL family
+COG	Genome size	0.78570895684873	10	COG0509	E; GcvH; Glycine cleavage system protein H (lipoate-binding)	COG2848	D; NA; Uncharacterized conserved protein, UPF0210 family
+COG	Genome size	0.780761472276205	8	COG0847	L; DnaQ; DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	COG4393	S; NA; Uncharacterized membrane protein
+COG	Genome size	0.714285992105285	24	COG1600	J; QueG; Epoxyqueuosine reductase QueG (queuosine biosynthesis)	COG1636	J; QueH; Epoxyqueuosine reductase QueH (tRNA modification)
+COG	Genome size	0.706216386360476	9	COG1180	O; PflA; Pyruvate-formate lyase-activating enzyme	COG1398	I; OLE1; Fatty-acid desaturase
+COG	Genome size	0.697398555661971	8	COG1592	C; YotD; Rubrerythrin	COG1612	H; CtaA; Heme A synthase
+COG	Genome size	0.69202309607968	9	COG1180	O; PflA; Pyruvate-formate lyase-activating enzyme	COG2346	P; YjbI; Truncated hemoglobin YjbI
+COG	Genome size	0.690737732822305	8	COG0168	P; TrkG; Trk-type K+ transport system, membrane component	COG2060	P; KdpA; K+-transporting ATPase, KdpA subunit
+COG	Genome size	0.683046969929646	8	COG1071	C; AcoA; TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	COG1924	I; YjiL; Activator of 2-hydroxyglutaryl-CoA dehydratase (HSP70-class ATPase domain)
+COG	Genome size	0.68204463579439	8	COG1328	F; NrdD; Anaerobic ribonucleoside-triphosphate reductase	COG2146	PQ; NirD; Ferredoxin subunit of nitrite reductase or a ring-hydroxylating dioxygenase
+COG	Genome size	0.681481731598951	8	COG0022	C; AcoB; Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit	COG1924	I; YjiL; Activator of 2-hydroxyglutaryl-CoA dehydratase (HSP70-class ATPase domain)
+COG	Genome size	0.664538994986592	10	COG0259	H; PdxH; Pyridoxine/pyridoxamine 5'-phosphate oxidase	COG0731	J; Tyw1; Wyosine [tRNA(Phe)-imidazoG37] synthetase, radical SAM superfamily
+COG	Genome size	0.653940604682325	21	COG2859	M; SIMPL; Outer membrane channel-forming protein BP26/OMP28, SIMPL family	COG4953	M; PbpC; Membrane carboxypeptidase/penicillin-binding protein PbpC
+COG	Genome size	0.641637508962216	8	COG0301	HJ; ThiI; Adenylyl- and sulfurtransferase ThiI (thiamine and tRNA 4-thiouridine biosynthesis)	COG2987	E; HutU; Urocanate hydratase
+COG	Genome size	0.61453686036078	8	COG1592	C; YotD; Rubrerythrin	COG1622	C; CyoA; Heme/copper-type cytochrome/quinol oxidase, subunit 2
+COG	Genome size	0.603041380111433	11	COG0530	P; ECM27; Ca2+/Na+ antiporter	COG1613	P; Sbp; ABC-type sulfate transport system, periplasmic component
+COG	Genome size	0.597900861808331	8	COG0514	L; RecQ; Superfamily II DNA helicase RecQ	COG1839	F; NA; Adenosine/AMP kinase
+COG	Genome size	0.581435011026625	9	COG1144	C; PorD; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, delta subunit	COG2124	QV; CypX; Cytochrome P450
+COG	Genome size	0.57752610464632	11	COG0665	E; DadA; Glycine/D-amino acid oxidase (deaminating)	COG1924	I; YjiL; Activator of 2-hydroxyglutaryl-CoA dehydratase (HSP70-class ATPase domain)
+COG	Genome size	0.576234623750587	12	COG0530	P; ECM27; Ca2+/Na+ antiporter	COG4208	P; CysW; ABC-type sulfate transport system, permease component
+COG	Genome size	0.559796609975929	8	COG1166	E; SpeA; Arginine decarboxylase (spermidine biosynthesis)	COG1945	E; PdaD; Pyruvoyl-dependent arginine decarboxylase
+COG	Genome size	0.549192066022606	9	COG0530	P; ECM27; Ca2+/Na+ antiporter	COG3162	S; YjcH; Uncharacterized membrane protein, DUF485 family
+COG	Genome size	0.529270478425611	10	COG1328	F; NrdD; Anaerobic ribonucleoside-triphosphate reductase	COG2010	C; CccA; Cytochrome c, mono- and diheme variants
+COG	Genome size	0.520492557963348	15	COG0788	F; PurU; Formyltetrahydrofolate hydrolase	COG2759	F; MIS1; Formyltetrahydrofolate synthetase
+COG	Genome size	0.51715036570522	8	COG0803	P; ZnuA; ABC-type Zn uptake system ZnuABC, Zn-binding component ZnuA	COG4299	R; NA; Predicted acyltransferase, DUF1624 domain
+COG	Genome size	0.511319601581471	8	COG0843	C; CyoB; Heme/copper-type cytochrome/quinol oxidase, subunit 1	COG1592	C; YotD; Rubrerythrin
+COG	Genome size	0.508157056312922	8	COG1328	F; NrdD; Anaerobic ribonucleoside-triphosphate reductase	COG1845	C; CyoC; Heme/copper-type cytochrome/quinol oxidase, subunit 3
+COG	Genome size	0.506013831525374	9	COG1005	C; NuoH; NADH:ubiquinone oxidoreductase subunit 1 (chain H)	COG1726	C; NqrA; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA
+COG	Genome size	0.505025228068193	8	COG0843	C; CyoB; Heme/copper-type cytochrome/quinol oxidase, subunit 1	COG5016	C; OadA1; Pyruvate/oxaloacetate carboxyltransferase
+COG	Genome size	0.503143946876234	8	COG0649	C; NuoD; NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	COG1726	C; NqrA; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA
+COG	Genome size	0.502758554779679	8	COG0377	C; NuoB; NADH:ubiquinone oxidoreductase 20 kD subunit (chain B) or related Fe-S oxidoreductase	COG1726	C; NqrA; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA
+COG	Genome size	0.502284009491901	9	COG1430	S; NA; Uncharacterized conserved membrane protein, UPF0127 family	COG3823	O; NA; Glutamine cyclotransferase
+COG	Genome size	0.500857164379222	8	COG1008	C; NuoM; NADH:ubiquinone oxidoreductase subunit 4 (chain M)	COG1726	C; NqrA; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA
+COG	Genome size	0.498077830193639	10	COG0109	HI; CyoE; Polyprenyltransferase (heme O synthase)	COG5016	C; OadA1; Pyruvate/oxaloacetate carboxyltransferase
+COG	Genome size	0.497511667918937	8	COG0713	C; NuoK; NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	COG1726	C; NqrA; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA
+COG	Genome size	0.497010869697331	8	COG0838	C; NuoA; NADH:ubiquinone oxidoreductase subunit 3 (chain A)	COG1726	C; NqrA; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA
+COG	Genome size	0.496985792555287	10	COG1034	C; NuoG; NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit (chain G)	COG1726	C; NqrA; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA
+COG	Genome size	0.496961820754628	8	COG0839	C; NuoJ; NADH:ubiquinone oxidoreductase subunit 6 (chain J)	COG1726	C; NqrA; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA
+COG	Genome size	0.496506889192167	8	COG1007	C; NuoN; NADH:ubiquinone oxidoreductase subunit 2 (chain N)	COG1726	C; NqrA; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA
+COG	Genome size	0.483963939934457	8	COG1145	C; NapF; Ferredoxin	COG1547	S; YpuF; Predicted metal-dependent hydrolase
+COG	Genome size	0.473926909148952	8	COG0370	P; FeoB; Fe2+ transporter FeoB	COG0435	C; ECM4; Glutathionyl-hydroquinone reductase
+COG	Genome size	0.470023703330127	9	COG1433	O; NifX; Predicted Fe-Mo cluster-binding protein, NifX family	COG2154	H; PhhB; Pterin-4a-carbinolamine dehydratase
+COG	Genome size	0.46731599069637	9	COG1008	C; NuoM; NADH:ubiquinone oxidoreductase subunit 4 (chain M)	COG1347	C; NqrD; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD
+COG	Genome size	0.467065111086518	8	COG1008	C; NuoM; NADH:ubiquinone oxidoreductase subunit 4 (chain M)	COG2209	C; NqrE; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE
+COG	Genome size	0.465804473591714	10	COG1005	C; NuoH; NADH:ubiquinone oxidoreductase subunit 1 (chain H)	COG2209	C; NqrE; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE
+COG	Genome size	0.46567677382191	10	COG1005	C; NuoH; NADH:ubiquinone oxidoreductase subunit 1 (chain H)	COG1347	C; NqrD; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD
+COG	Genome size	0.465134664103601	10	COG1034	C; NuoG; NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit (chain G)	COG2209	C; NqrE; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE
+COG	Genome size	0.464501288122615	10	COG1034	C; NuoG; NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit (chain G)	COG1347	C; NqrD; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD
+COG	Genome size	0.464316388173546	9	COG0377	C; NuoB; NADH:ubiquinone oxidoreductase 20 kD subunit (chain B) or related Fe-S oxidoreductase	COG2209	C; NqrE; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE
+COG	Genome size	0.464143573641633	9	COG0649	C; NuoD; NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	COG2209	C; NqrE; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE
+COG	Genome size	0.464141300560112	9	COG0839	C; NuoJ; NADH:ubiquinone oxidoreductase subunit 6 (chain J)	COG1347	C; NqrD; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD
+COG	Genome size	0.463979512694326	9	COG0839	C; NuoJ; NADH:ubiquinone oxidoreductase subunit 6 (chain J)	COG2209	C; NqrE; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE
+COG	Genome size	0.46385079635495	10	COG0377	C; NuoB; NADH:ubiquinone oxidoreductase 20 kD subunit (chain B) or related Fe-S oxidoreductase	COG1347	C; NqrD; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD
+COG	Genome size	0.463591592511418	9	COG0649	C; NuoD; NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	COG1347	C; NqrD; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD
+COG	Genome size	0.463145114989047	9	COG0838	C; NuoA; NADH:ubiquinone oxidoreductase subunit 3 (chain A)	COG1347	C; NqrD; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD
+COG	Genome size	0.463115994572995	10	COG0713	C; NuoK; NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	COG1347	C; NqrD; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD
+COG	Genome size	0.463089097813111	9	COG0838	C; NuoA; NADH:ubiquinone oxidoreductase subunit 3 (chain A)	COG2209	C; NqrE; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE
+COG	Genome size	0.46300249438902	10	COG0713	C; NuoK; NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	COG2209	C; NqrE; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE
+COG	Genome size	0.461177208562217	9	COG1007	C; NuoN; NADH:ubiquinone oxidoreductase subunit 2 (chain N)	COG2209	C; NqrE; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE
+COG	Genome size	0.461157501680136	9	COG1007	C; NuoN; NADH:ubiquinone oxidoreductase subunit 2 (chain N)	COG1347	C; NqrD; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD
+COG	Genome size	0.458148054878787	8	COG1570	L; XseA; Exonuclease VII, large subunit	COG1839	F; NA; Adenosine/AMP kinase
+COG	Genome size	0.456040055114098	8	COG0838	C; NuoA; NADH:ubiquinone oxidoreductase subunit 3 (chain A)	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family
+COG	Genome size	0.448921327624186	8	COG1005	C; NuoH; NADH:ubiquinone oxidoreductase subunit 1 (chain H)	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family
+COG	Genome size	0.447488471721335	9	COG0377	C; NuoB; NADH:ubiquinone oxidoreductase 20 kD subunit (chain B) or related Fe-S oxidoreductase	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family
+COG	Genome size	0.445573264150736	9	COG0649	C; NuoD; NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family
+COG	Genome size	0.441781923220253	8	COG3166	NW; PilN; Type IV pilus assembly protein PilN	COG3872	S; YqhQ; Uncharacterized conserved protein YqhQ, DUF1385 family
+COG	Genome size	0.43333460636268	9	COG0838	C; NuoA; NADH:ubiquinone oxidoreductase subunit 3 (chain A)	COG5016	C; OadA1; Pyruvate/oxaloacetate carboxyltransferase
+COG	Genome size	0.431807955886102	13	COG1165	H; MenD; 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase	COG2107	H; MqnD; 1,4-dihydroxy-6-naphtoate synthase (menaquinone biosynthesis, futalosine pathway)
+COG	Genome size	0.430622081194135	29	COG1274	C; PepCK; Phosphoenolpyruvate carboxykinase, GTP-dependent	COG1866	C; PckA; Phosphoenolpyruvate carboxykinase, ATP-dependent
+COG	Genome size	0.429538171417678	8	COG1433	O; NifX; Predicted Fe-Mo cluster-binding protein, NifX family	COG1612	H; CtaA; Heme A synthase
+COG	Genome size	0.426784764512963	10	COG0420	L; SbcD; DNA repair exonuclease SbcCD nuclease subunit	COG4487	S; NA; Uncharacterized conserved protein, contains DUF2130 domain
+COG	Genome size	0.420252060771841	9	COG0474	P; MgtA; Magnesium-transporting ATPase (P-type)	COG0733	R; YocR; Na+-dependent transporter, SNF family
+COG	Genome size	0.419398934656636	8	COG0109	HI; CyoE; Polyprenyltransferase (heme O synthase)	COG1151	C; Hcp; Hydroxylamine reductase (hybrid-cluster protein)
+COG	Genome size	0.414567887927096	10	COG0419	L; SbcC; DNA repair exonuclease SbcCD ATPase subunit	COG4487	S; NA; Uncharacterized conserved protein, contains DUF2130 domain
+COG	Genome size	0.410951571947984	9	COG0192	H; MetK; S-adenosylmethionine synthetase	COG1812	H; MetK2; Archaeal S-adenosylmethionine synthetase
+COG	Genome size	0.408950908559604	11	COG0109	HI; CyoE; Polyprenyltransferase (heme O synthase)	COG2768	S; NA; Uncharacterized Fe-S cluster protein
+COG	Genome size	0.406516823479242	9	COG0852	C; NuoC; NADH:ubiquinone oxidoreductase 27 kD subunit (chain C)	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family
+COG	Genome size	0.402843268096533	11	COG0447	H; MenB; 1,4-Dihydroxy-2-naphthoyl-CoA synthase	COG2107	H; MqnD; 1,4-dihydroxy-6-naphtoate synthase (menaquinone biosynthesis, futalosine pathway)
+COG	Genome size	0.39761775167123	8	COG1008	C; NuoM; NADH:ubiquinone oxidoreductase subunit 4 (chain M)	COG2869	C; NqrC; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC
+COG	Genome size	0.397057816310871	8	COG1005	C; NuoH; NADH:ubiquinone oxidoreductase subunit 1 (chain H)	COG2869	C; NqrC; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC
+COG	Genome size	0.395297704046582	8	COG0377	C; NuoB; NADH:ubiquinone oxidoreductase 20 kD subunit (chain B) or related Fe-S oxidoreductase	COG2869	C; NqrC; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC
+COG	Genome size	0.395211657636991	8	COG0649	C; NuoD; NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	COG2869	C; NqrC; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC
+COG	Genome size	0.394603823819876	9	COG1034	C; NuoG; NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit (chain G)	COG2869	C; NqrC; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC
+COG	Genome size	0.39438071540268	9	COG0839	C; NuoJ; NADH:ubiquinone oxidoreductase subunit 6 (chain J)	COG2869	C; NqrC; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC
+COG	Genome size	0.394263877547754	9	COG0713	C; NuoK; NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	COG2869	C; NqrC; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC
+COG	Genome size	0.39394223833031	10	COG0719	O; SufB; Fe-S cluster assembly scaffold protein SufB	COG1965	P; CyaY; Fe-S cluster assembly protein CyaY, frataxin homolog
+COG	Genome size	0.393636143112084	9	COG0838	C; NuoA; NADH:ubiquinone oxidoreductase subunit 3 (chain A)	COG2869	C; NqrC; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC
+COG	Genome size	0.392915313209019	10	COG0396	O; SufC; Fe-S cluster assembly ATPase SufC	COG1965	P; CyaY; Fe-S cluster assembly protein CyaY, frataxin homolog
+COG	Genome size	0.392745562212391	8	COG1433	O; NifX; Predicted Fe-Mo cluster-binding protein, NifX family	COG1622	C; CyoA; Heme/copper-type cytochrome/quinol oxidase, subunit 2
+COG	Genome size	0.392370297627814	9	COG1007	C; NuoN; NADH:ubiquinone oxidoreductase subunit 2 (chain N)	COG2869	C; NqrC; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC
+COG	Genome size	0.390151898352052	8	COG2010	C; CccA; Cytochrome c, mono- and diheme variants	COG4659	C; RnfG; Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfG subunit
+COG	Genome size	0.389904438240739	8	COG2096	H; PduO; Cob(II)alamin adenosyltransferase	COG2768	S; NA; Uncharacterized Fe-S cluster protein
+COG	Genome size	0.388136895009737	9	COG1838	C; FumA; Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family
+COG	Genome size	0.387135976066815	9	COG1951	C; TtdA; Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family
+COG	Genome size	0.385158530729571	8	COG0426	C; NorV; Flavorubredoxin	COG1612	H; CtaA; Heme A synthase
+COG	Genome size	0.38498852489144	17	COG1575	H; MenA; 1,4-dihydroxy-2-naphthoate polyprenyltransferase	COG2107	H; MqnD; 1,4-dihydroxy-6-naphtoate synthase (menaquinone biosynthesis, futalosine pathway)
+COG	Genome size	0.38062649279481	8	COG0426	C; NorV; Flavorubredoxin	COG1845	C; CyoC; Heme/copper-type cytochrome/quinol oxidase, subunit 3
+COG	Genome size	0.38018817386462	17	COG1427	H; MqnA; Chorismate dehydratase (menaquinone biosynthesis, futalosine pathway)	COG1575	H; MenA; 1,4-dihydroxy-2-naphthoate polyprenyltransferase
+COG	Genome size	0.372896722954249	11	COG1165	H; MenD; 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase	COG1427	H; MqnA; Chorismate dehydratase (menaquinone biosynthesis, futalosine pathway)
+COG	Genome size	0.371969908646583	16	COG0586	M; DedA; Membrane integrity protein DedA, putative transporter, DedA/Tvp38 family	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family
+COG	Genome size	0.371008241270713	28	COG0221	C; Ppa; Inorganic pyrophosphatase	COG1227	C; PPX1; Inorganic pyrophosphatase/exopolyphosphatase
+COG	Genome size	0.370346786529663	13	COG1169	HQ; MenF; Isochorismate synthase EntC	COG2107	H; MqnD; 1,4-dihydroxy-6-naphtoate synthase (menaquinone biosynthesis, futalosine pathway)
+COG	Genome size	0.369404541722387	19	COG1971	P; MntP; Putative Mn2+ efflux pump MntP	COG2119	R; Gdt1; Putative Ca2+/H+ antiporter, TMEM165/GDT1 family
+COG	Genome size	0.365284290133998	8	COG2138	H; SirB; Sirohydrochlorin ferrochelatase	COG3634	V; AhpF; Alkyl hydroperoxide reductase subunit AhpF
+COG	Genome size	0.36393226989999	11	COG0411	E; LivG; ABC-type branched-chain amino acid transport system, ATPase component LivG	COG0733	R; YocR; Na+-dependent transporter, SNF family
+COG	Genome size	0.361826239374774	16	COG0551	L; YrdD; DNA topoisomerase I, ssDNA-binding Zn-finger and Zn-ribbon domains	COG1754	S; NA; Uncharacterized C-terminal domain of topoisomerase IA
+COG	Genome size	0.359717375159492	8	COG0370	P; FeoB; Fe2+ transporter FeoB	COG4797	R; NA; Predicted regulatory domain of a methyltransferase
+COG	Genome size	0.3576921752205	10	COG2269	J; EpmA; Elongation factor P--beta-lysine ligase (EF-P beta-lysylation pathway)	COG4394	J; EarP; Elongation factor P Arg32-rhamnosyltransferase EarP
+COG	Genome size	0.356006630281253	10	COG0109	HI; CyoE; Polyprenyltransferase (heme O synthase)	COG1328	F; NrdD; Anaerobic ribonucleoside-triphosphate reductase
+COG	Genome size	0.35501030740104	9	COG0426	C; NorV; Flavorubredoxin	COG0843	C; CyoB; Heme/copper-type cytochrome/quinol oxidase, subunit 1
+COG	Genome size	0.354378847621595	9	COG0387	P; ChaA; Cation (Ca2+/Na+/K+)/H+ antiporter ChaA	COG1320	P; MnhG; Multisubunit Na+/H+ antiporter, MnhG subunit
+COG	Genome size	0.353947716610848	9	COG0306	P; PitA; Phosphate/sulfate permease	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family
+COG	Genome size	0.353192103611308	9	COG0426	C; NorV; Flavorubredoxin	COG1622	C; CyoA; Heme/copper-type cytochrome/quinol oxidase, subunit 2
+COG	Genome size	0.352884404930088	8	COG0259	H; PdxH; Pyridoxine/pyridoxamine 5'-phosphate oxidase	COG1180	O; PflA; Pyruvate-formate lyase-activating enzyme
+COG	Genome size	0.351070631804799	8	COG1739	R; YIH1; Putative translation regulator, IMPACT (imprinted ancient) protein family	COG3576	R; NA; Predicted flavin-nucleotide-binding protein, pyridoxine 5'-phosphate oxidase superfamily
+COG	Genome size	0.34745347591591	10	COG1330	L; RecC; Scaffold subunit RecC of the DNA repair enzyme RecBCD (exonuclease V)	COG3857	L; AddB; ATP-dependent helicase/DNAse subunit B
+COG	Genome size	0.346979843476222	11	COG0447	H; MenB; 1,4-Dihydroxy-2-naphthoyl-CoA synthase	COG1427	H; MqnA; Chorismate dehydratase (menaquinone biosynthesis, futalosine pathway)
+COG	Genome size	0.345287601624165	10	COG0387	P; ChaA; Cation (Ca2+/Na+/K+)/H+ antiporter ChaA	COG2212	P; MnhF; Multisubunit Na+/H+ antiporter, MnhF subunit
+COG	Genome size	0.342680969578883	8	COG1121	P; ZnuC; ABC-type Mn2+/Zn2+ transport system, ATPase component	COG4805	S; NA; Uncharacterized conserved protein, DUF885 family
+COG	Genome size	0.340583135392601	22	COG0743	I; Dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	Genome size	0.340364320675434	8	COG1055	P; ArsB; Na+/H+ antiporter NhaD or related arsenite permease	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family
+COG	Genome size	0.339640449014652	10	COG0370	P; FeoB; Fe2+ transporter FeoB	COG3253	HP; HemQ; Coproheme decarboxylase/chlorite dismutase
+COG	Genome size	0.339432581502061	22	COG0245	I; IspF; 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	Genome size	0.33867845449813	22	COG0761	I; IspH; 4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	Genome size	0.337720909697567	10	COG3162	S; YjcH; Uncharacterized membrane protein, DUF485 family	COG4327	S; NA; Uncharacterized membrane protein, DUF4212 domain
+COG	Genome size	0.335606889556167	9	COG1144	C; PorD; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, delta subunit	COG3253	HP; HemQ; Coproheme decarboxylase/chlorite dismutase
+COG	Genome size	0.335272099144125	9	COG0387	P; ChaA; Cation (Ca2+/Na+/K+)/H+ antiporter ChaA	COG1863	P; MnhE; Multisubunit Na+/H+ antiporter, MnhE subunit
+COG	Genome size	0.333653400962077	22	COG0756	FV; Dut; dUTP pyrophosphatase (dUTPase)	COG4508	F; Dut2; Dimeric dUTPase, all-alpha-NTP-PPase (MazG) superfamily
+COG	Genome size	0.333333939123708	12	COG1154	HI; Dxs; Deoxyxylulose-5-phosphate synthase	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	Genome size	0.332897352404875	22	COG0821	I; IspG; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	Genome size	0.332435655668943	11	COG0212	H; FAU1; 5-formyltetrahydrofolate cyclo-ligase	COG3643	E; GluFT; Glutamate formiminotransferase
+COG	Genome size	0.330559335327154	8	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family	COG2109	H; BtuR; ATP:corrinoid adenosyltransferase
+COG	Genome size	0.329674647242027	38	COG0710	E; AroD; 3-dehydroquinate dehydratase	COG0757	E; AroQ; 3-dehydroquinate dehydratase
+COG	Genome size	0.329617055775494	18	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family	COG2426	S; NA; Uncharacterized membrane protein
+COG	Genome size	0.327600391542777	9	COG0530	P; ECM27; Ca2+/Na+ antiporter	COG0555	P; CysU; ABC-type sulfate transport system, permease component
+COG	Genome size	0.32711195176951	8	COG0506	E; PutA; Proline dehydrogenase	COG1433	O; NifX; Predicted Fe-Mo cluster-binding protein, NifX family
+COG	Genome size	0.325465254714347	9	COG1237	R; NA; Metal-dependent hydrolase, beta-lactamase superfamily II	COG1845	C; CyoC; Heme/copper-type cytochrome/quinol oxidase, subunit 3
+COG	Genome size	0.319641808123979	15	COG1211	I; IspD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	Genome size	0.319527923914926	12	COG1947	I; IspE; 4-diphosphocytidyl-2C-methyl-D-erythritol kinase	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	Genome size	0.317853134731505	11	COG1169	HQ; MenF; Isochorismate synthase EntC	COG1427	H; MqnA; Chorismate dehydratase (menaquinone biosynthesis, futalosine pathway)
+COG	Genome size	0.315032485299712	8	COG0083	E; ThrB; Homoserine kinase	COG5016	C; OadA1; Pyruvate/oxaloacetate carboxyltransferase
+COG	Genome size	0.314604873015331	9	COG0783	PV; Dps; DNA-binding ferritin-like protein (oxidative damage protectant)	COG2768	S; NA; Uncharacterized Fe-S cluster protein
+COG	Genome size	0.312571008592431	8	COG0843	C; CyoB; Heme/copper-type cytochrome/quinol oxidase, subunit 1	COG1433	O; NifX; Predicted Fe-Mo cluster-binding protein, NifX family
+COG	Genome size	0.312445471954635	9	COG0605	P; SodA; Superoxide dismutase	COG0733	R; YocR; Na+-dependent transporter, SNF family
+COG	Genome size	0.312401763431747	18	COG0611	H; ThiL; Thiamine monophosphate kinase	COG1564	H; ThiN; Thiamine pyrophosphokinase
+COG	Genome size	0.312339914190735	8	COG0508	C; AceF; Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	COG1592	C; YotD; Rubrerythrin
+COG	Genome size	0.310418179896914	8	COG1108	P; ZnuB; ABC-type Mn2+/Zn2+ transport system, permease component	COG4805	S; NA; Uncharacterized conserved protein, DUF885 family
+COG	Genome size	0.307051350119657	11	COG0370	P; FeoB; Fe2+ transporter FeoB	COG4393	S; NA; Uncharacterized membrane protein
+COG	Genome size	0.306883057917149	8	COG1788	I; AtoD; Acyl CoA:acetate/3-ketoacid CoA transferase, alpha subunit	COG1897	E; MetA; Homoserine O-succinyltransferase
+COG	Genome size	0.299572673973534	9	COG0330	O; HflC; Regulator of protease activity HflC, stomatin/prohibitin superfamily	COG4864	S; YqfA; Uncharacterized conserved protein YqfA, UPF0365 family
+COG	Genome size	0.295227739520475	8	COG1897	E; MetA; Homoserine O-succinyltransferase	COG2057	I; AtoA; Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit
+COG	Genome size	0.293845217542207	8	COG1666	T; YajQ; Cyclic di-GMP-binding protein YajQ, UPF0234 family	COG5505	S; NA; Uncharacterized membrane protein YjcL
+COG	Genome size	0.288588838685212	9	COG1607	I; YciA; Acyl-CoA hydrolase	COG2768	S; NA; Uncharacterized Fe-S cluster protein
+COG	Genome size	0.287812037784141	10	COG0370	P; FeoB; Fe2+ transporter FeoB	COG0672	P; FTR1; High-affinity Fe2+/Pb2+ permease
+COG	Genome size	0.287564013580389	8	COG0053	P; FieF; Divalent metal cation (Fe/Co/Zn/Cd) efflux pump	COG4327	S; NA; Uncharacterized membrane protein, DUF4212 domain
+COG	Genome size	0.287241272149983	8	COG1780	F; NrdI; Flavodoxin NrdI, NrdF-interacting activator of class Ib ribonucleotide reductase	COG2185	I; Sbm; Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)
+COG	Genome size	0.287000278797438	8	COG0618	FT; NrnA; nanoRNase/pAp phosphatase, hydrolyzes c-di-AMP and oligoRNAs	COG0661	HT; AarF; Predicted protein kinase regulating ubiquinone biosynthesis, AarF/ABC1/UbiB family
+COG	Genome size	0.28656330799122	10	COG0733	R; YocR; Na+-dependent transporter, SNF family	COG1331	R; YyaL; Uncharacterized conserved protein YyaL, SSP411 family, contains thoiredoxin and six-hairpin glycosidase-like domains
+COG	Genome size	0.285565735685712	14	COG0396	O; SufC; Fe-S cluster assembly ATPase SufC	COG2975	O; IscX; Fe-S-cluster formation regulator IscX/YfhJ
+COG	Genome size	0.285295331937501	14	COG0719	O; SufB; Fe-S cluster assembly scaffold protein SufB	COG2975	O; IscX; Fe-S-cluster formation regulator IscX/YfhJ
+COG	Genome size	0.283970338405237	8	COG1430	S; NA; Uncharacterized conserved membrane protein, UPF0127 family	COG3158	P; Kup; K+ uptake protein Kup
+COG	Genome size	0.283831802467299	8	COG0506	E; PutA; Proline dehydrogenase	COG3830	T; ACT; ACT domain, binds amino acids and other small ligands
+COG	Genome size	0.283417002028584	8	COG1048	C; AcnA; Aconitase A	COG5016	C; OadA1; Pyruvate/oxaloacetate carboxyltransferase
+COG	Genome size	0.282341678279102	22	COG0743	I; Dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase	COG1577	I; ERG12; Mevalonate kinase
+COG	Genome size	0.282098730783263	8	COG0387	P; ChaA; Cation (Ca2+/Na+/K+)/H+ antiporter ChaA	COG2111	P; MnhB; Multisubunit Na+/H+ antiporter, MnhB subunit
+COG	Genome size	0.280278439747011	9	COG0370	P; FeoB; Fe2+ transporter FeoB	COG0843	C; CyoB; Heme/copper-type cytochrome/quinol oxidase, subunit 1
+COG	Genome size	0.280042112316769	11	COG0214	H; PdxS; Pyridoxal 5'-phosphate synthase subunit PdxS	COG0854	H; PdxJ; Pyridoxine 5'-phosphate synthase PdxJ
+COG	Genome size	0.279827482215827	12	COG1154	HI; Dxs; Deoxyxylulose-5-phosphate synthase	COG1577	I; ERG12; Mevalonate kinase
+COG	Genome size	0.279463499357904	8	COG0370	P; FeoB; Fe2+ transporter FeoB	COG1622	C; CyoA; Heme/copper-type cytochrome/quinol oxidase, subunit 2
+COG	Genome size	0.277977732810546	8	COG1333	CO; ResB; Cytochrome c biogenesis protein ResB	COG2332	CO; CcmE; Cytochrome c biogenesis protein CcmE
+COG	Genome size	0.277412380513781	8	COG0370	P; FeoB; Fe2+ transporter FeoB	COG2514	Q; CatE; Catechol-2,3-dioxygenase
+COG	Genome size	0.277341071494732	22	COG0245	I; IspF; 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	COG1577	I; ERG12; Mevalonate kinase
+COG	Genome size	0.276883733421707	17	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family	COG3158	P; Kup; K+ uptake protein Kup
+COG	Genome size	0.276440726057771	22	COG0761	I; IspH; 4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH	COG1577	I; ERG12; Mevalonate kinase
+COG	Genome size	0.274954035036766	15	COG1757	C; NhaC; Na+/H+ antiporter NhaC/MleN	COG3158	P; Kup; K+ uptake protein Kup
+COG	Genome size	0.274689057385362	9	COG0621	J; MiaB; tRNA A37 methylthiotransferase MiaB	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	Genome size	0.273374077364762	8	COG1333	CO; ResB; Cytochrome c biogenesis protein ResB	COG2386	O; CcmB; ABC-type transport system involved in cytochrome c biogenesis, permease component
+COG	Genome size	0.273352543261325	8	COG2096	H; PduO; Cob(II)alamin adenosyltransferase	COG3894	S; NA; Uncharacterized 2Fe-2S and 4Fe-4S clusters-containing protein, contains DUF4445 domain
+COG	Genome size	0.272167938628197	22	COG0821	I; IspG; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE	COG1577	I; ERG12; Mevalonate kinase
+COG	Genome size	0.27177160582003	8	COG0756	FV; Dut; dUTP pyrophosphatase (dUTPase)	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	Genome size	0.271469341755299	8	COG0387	P; ChaA; Cation (Ca2+/Na+/K+)/H+ antiporter ChaA	COG1006	P; MnhC; Multisubunit Na+/H+ antiporter, MnhC subunit
+COG	Genome size	0.27061087185094	8	COG0650	C; HyfC; Formate hydrogenlyase subunit HyfC	COG2212	P; MnhF; Multisubunit Na+/H+ antiporter, MnhF subunit
+COG	Genome size	0.268022765895547	8	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family	COG3757	M; Acm; Lyzozyme M1 (1,4-beta-N-acetylmuramidase), GH25 family
+COG	Genome size	0.262262704885818	8	COG0648	L; Nfo; Endonuclease IV	COG1054	J; TrhO; tRNA U34 5'-hydroxylase TrhO, rhodanese family
+COG	Genome size	0.262261331049324	9	COG0788	F; PurU; Formyltetrahydrofolate hydrolase	COG3830	T; ACT; ACT domain, binds amino acids and other small ligands
+COG	Genome size	0.262161056360582	9	COG0109	HI; CyoE; Polyprenyltransferase (heme O synthase)	COG0426	C; NorV; Flavorubredoxin
+COG	Genome size	0.262002275939211	18	COG0423	J; GRS1; Glycyl-tRNA synthetase, class II	COG0751	J; GlyS; Glycyl-tRNA synthetase, beta subunit
+COG	Genome size	0.261259175757665	11	COG0311	H; PdxT; Pyridoxal 5'-phosphate synthase subunit PdxT (glutamine amidotransferase)	COG0854	H; PdxJ; Pyridoxine 5'-phosphate synthase PdxJ
+COG	Genome size	0.260402550444107	18	COG0423	J; GRS1; Glycyl-tRNA synthetase, class II	COG0752	J; GlyQ; Glycyl-tRNA synthetase, alpha subunit
+COG	Genome size	0.258836286850745	8	COG0733	R; YocR; Na+-dependent transporter, SNF family	COG1716	T; FHA; Forkhead associated (FHA) domain, binds pSer, pThr, pTyr
+COG	Genome size	0.257265945585971	15	COG1211	I; IspD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	COG1577	I; ERG12; Mevalonate kinase
+COG	Genome size	0.257078889727419	9	COG2235	E; ArcA; Arginine deiminase	COG3830	T; ACT; ACT domain, binds amino acids and other small ligands
+COG	Genome size	0.256770348717245	11	COG2887	L; Slr0479; RecB family exonuclease	COG3857	L; AddB; ATP-dependent helicase/DNAse subunit B
+COG	Genome size	0.256315720312575	12	COG1577	I; ERG12; Mevalonate kinase	COG1947	I; IspE; 4-diphosphocytidyl-2C-methyl-D-erythritol kinase
+COG	Genome size	0.255069088460621	10	COG0733	R; YocR; Na+-dependent transporter, SNF family	COG3158	P; Kup; K+ uptake protein Kup
+COG	Genome size	0.254070687790153	8	COG0489	D; Mrp; Fe-S cluster carrier ATPase, Mrp/ApbC/NBP35 family	COG5006	E; RhtA; Threonine/homoserine efflux transporter RhtA
+COG	Genome size	0.253224032540881	8	COG1027	E; AspA; Aspartate ammonia-lyase	COG3216	S; NA; Uncharacterized conserved protein, DUF2062 family
+COG	Genome size	0.252808778478225	8	COG1995	H; PdxA; 4-hydroxy-L-threonine phosphate dehydrogenase PdxA	COG2759	F; MIS1; Formyltetrahydrofolate synthetase
+COG	Genome size	0.25198002857225	8	COG1115	E; AlsT; Na+/alanine symporter	COG2094	L; Mpg; 3-methyladenine DNA glycosylase Mpg
+COG	Genome size	0.251447085350315	8	COG0109	HI; CyoE; Polyprenyltransferase (heme O synthase)	COG0370	P; FeoB; Fe2+ transporter FeoB
+COG	Genome size	0.249147449950316	9	COG1704	M; LemA; Magnetosome formation protein MamQ, lipoprotein antigen LemA family	COG4260	O; YdjI; Membrane protease subunit, stomatin/prohibitin family, contains C-terminal Zn-ribbon domain
+COG	Genome size	0.248147102787655	8	COG0665	E; DadA; Glycine/D-amino acid oxidase (deaminating)	COG2768	S; NA; Uncharacterized Fe-S cluster protein
+COG	Genome size	0.245821898963291	9	COG0316	O; IscA; Fe-S cluster assembly iron-binding protein IscA	COG1433	O; NifX; Predicted Fe-Mo cluster-binding protein, NifX family
+COG	Genome size	0.241725793936787	13	COG0822	O; IscU; Fe-S cluster assembly scaffold protein IscU, NifU family	COG2166	O; SufE; Sulfur transfer protein SufE, Fe-S cluster assembly
+COG	Genome size	0.238628332069011	12	COG0370	P; FeoB; Fe2+ transporter FeoB	COG2301	G; CitE; Citrate lyase beta subunit
+COG	Genome size	0.23662434603875	8	COG0650	C; HyfC; Formate hydrogenlyase subunit HyfC	COG1320	P; MnhG; Multisubunit Na+/H+ antiporter, MnhG subunit
+COG	Genome size	0.235858097459661	37	COG0717	F; Dcd; dCTP deaminase	COG2131	F; ComEB; Deoxycytidylate deaminase
+COG	Genome size	0.235437334307267	8	COG0370	P; FeoB; Fe2+ transporter FeoB	COG1703	O; ArgK; GTPase of the G3E family (not a periplasmic protein kinase)
+COG	Genome size	0.234435063965893	8	COG0627	V; FrmB; S-formylglutathione hydrolase FrmB	COG1145	C; NapF; Ferredoxin
+COG	Genome size	0.233108872217293	8	COG0721	J; GatC; Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit	COG2872	J; AlaX; Ser-tRNA(Ala) deacylase AlaX (editing enzyme)
+COG	Genome size	0.232841042720764	10	COG0847	L; DnaQ; DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	COG1543	G; NA; Predicted glycosyl hydrolase, contains GH57 and DUF1957 domains
+COG	Genome size	0.232808776898412	8	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family	COG2813	J; RsmC; 16S rRNA G1207 methylase RsmC
+COG	Genome size	0.232807391218895	16	COG1605	E; PheA; Chorismate mutase	COG4401	E; AroH; Chorismate mutase AroH
+COG	Genome size	0.228873738597303	9	COG3643	E; GluFT; Glutamate formiminotransferase	COG3830	T; ACT; ACT domain, binds amino acids and other small ligands
+COG	Genome size	0.228720444357627	11	COG1210	M; GalU; UTP-glucose-1-phosphate uridylyltransferase	COG4284	G; QRI1; UDP-N-acetylglucosamine pyrophosphorylase
+COG	Genome size	0.228208628437005	8	COG1430	S; NA; Uncharacterized conserved membrane protein, UPF0127 family	COG1524	T; AtaC; c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily
+COG	Genome size	0.227554497007014	8	COG0733	R; YocR; Na+-dependent transporter, SNF family	COG1814	P; Ccc1; Predicted Fe2+/Mn2+ transporter, VIT1/CCC1 family
+COG	Genome size	0.227454091501633	9	COG1039	L; RnhC; Ribonuclease HIII	COG3341	R; Rnh1; Ribonuclease HI-related protein, contains viroplasmin and RNaseH domains
+COG	Genome size	0.225864103427457	8	COG2733	S; YjiN; Uncharacterized membrane-anchored protein YjiN, DUF445 family	COG4399	S; YheB; Uncharacterized membrane protein YheB, UPF0754 family
+COG	Genome size	0.223782842187036	8	COG0650	C; HyfC; Formate hydrogenlyase subunit HyfC	COG1863	P; MnhE; Multisubunit Na+/H+ antiporter, MnhE subunit
+COG	Genome size	0.221479665134711	9	COG0621	J; MiaB; tRNA A37 methylthiotransferase MiaB	COG1577	I; ERG12; Mevalonate kinase
+COG	Genome size	0.219666339280145	8	COG1148	C; HdrA; Heterodisulfide reductase, subunit A (polyferredoxin)	COG3634	V; AhpF; Alkyl hydroperoxide reductase subunit AhpF
+COG	Genome size	0.217274219633823	16	COG1154	HI; Dxs; Deoxyxylulose-5-phosphate synthase	COG3425	I; PksG; 3-hydroxy-3-methylglutaryl CoA synthase
+COG	Genome size	0.216834072139285	8	COG0221	C; Ppa; Inorganic pyrophosphatase	COG2131	F; ComEB; Deoxycytidylate deaminase
+COG	Genome size	0.215765662418351	9	COG1523	G; PulA; Pullulanase/glycogen debranching enzyme	COG1664	Z; CcmA; Cytoskeletal protein CcmA, bactofilin family
+COG	Genome size	0.215727794701332	8	COG0847	L; DnaQ; DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	COG3470	MI; Tpd; Uncharacterized conserved protein probably involved in high-affinity Fe2+ transport
+COG	Genome size	0.214697749825876	8	COG1145	C; NapF; Ferredoxin	COG2096	H; PduO; Cob(II)alamin adenosyltransferase
+COG	Genome size	0.214121143909866	16	COG1726	C; NqrA; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA	COG3158	P; Kup; K+ uptake protein Kup
+COG	Genome size	0.213941438232409	8	COG1144	C; PorD; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, delta subunit	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	Genome size	0.213783399104598	19	COG0743	I; Dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase	COG3425	I; PksG; 3-hydroxy-3-methylglutaryl CoA synthase
+COG	Genome size	0.21270382968073	8	COG0545	O; FkpA; FKBP-type peptidyl-prolyl cis-trans isomerase	COG1180	O; PflA; Pyruvate-formate lyase-activating enzyme
+COG	Genome size	0.211920110421107	8	COG0109	HI; CyoE; Polyprenyltransferase (heme O synthase)	COG3894	S; NA; Uncharacterized 2Fe-2S and 4Fe-4S clusters-containing protein, contains DUF4445 domain
+COG	Genome size	0.211229744147214	18	COG1003	E; GcvP2; Glycine cleavage system protein P (pyridoxal-binding), C-terminal domain	COG3830	T; ACT; ACT domain, binds amino acids and other small ligands
+COG	Genome size	0.211013748195998	15	COG0163	H; UbiX; Flavin prenyltransferase UbiX	COG1165	H; MenD; 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+COG	Genome size	0.210365413986517	22	COG1897	E; MetA; Homoserine O-succinyltransferase	COG2021	E; MET2; Homoserine O-acetyltransferase
+COG	Genome size	0.210298201832048	8	COG1290	C; QcrB/PetB; Cytochrome b subunit of the bc complex	COG1918	P; FeoA; Fe2+ transport protein FeoA
+COG	Genome size	0.210198936544732	18	COG0403	E; GcvP1; Glycine cleavage system protein P (pyridoxal-binding), N-terminal domain	COG3830	T; ACT; ACT domain, binds amino acids and other small ligands
+COG	Genome size	0.21007005469002	9	COG0370	P; FeoB; Fe2+ transporter FeoB	COG1290	C; QcrB/PetB; Cytochrome b subunit of the bc complex
+COG	Genome size	0.209877821389644	8	COG1138	CO; CcmF; Cytochrome c biogenesis protein CcmF	COG1333	CO; ResB; Cytochrome c biogenesis protein ResB
+COG	Genome size	0.20881441444777	18	COG2046	P; MET3; ATP sulfurylase (sulfate adenylyltransferase)	COG2895	P; CysN; Sulfate adenylyltransferase subunit 1, EFTu-like GTPase family
+COG	Genome size	0.208537773040369	9	COG0045	C; SucC; Succinyl-CoA synthetase, beta subunit	COG1453	R; NA; Predicted oxidoreductase of the aldo/keto reductase family
+COG	Genome size	0.208017320932467	17	COG1929	G; GlxK; Glycerate kinase	COG2379	G; GckA; Glycerate-2-kinase
+COG	Genome size	0.207239119982259	8	COG0719	O; SufB; Fe-S cluster assembly scaffold protein SufB	COG1076	O; DjlA; DnaJ domain-containing protein
+COG	Genome size	0.207101965715878	8	COG0396	O; SufC; Fe-S cluster assembly ATPase SufC	COG1076	O; DjlA; DnaJ domain-containing protein
+COG	Genome size	0.207099227166191	16	COG2209	C; NqrE; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE	COG3158	P; Kup; K+ uptake protein Kup
+COG	Genome size	0.206830429585784	33	COG0588	G; GpmA; Phosphoglycerate mutase (BPG-dependent)	COG0696	G; GpmI; Phosphoglycerate mutase (BPG-independent), AlkP superfamily
+COG	Genome size	0.206506748682315	8	COG0517	T; CBS; CBS domain	COG1577	I; ERG12; Mevalonate kinase
+COG	Genome size	0.206249109021985	19	COG0245	I; IspF; 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	COG3425	I; PksG; 3-hydroxy-3-methylglutaryl CoA synthase
+COG	Genome size	0.205706409309464	16	COG1347	C; NqrD; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD	COG3158	P; Kup; K+ uptake protein Kup
+COG	Genome size	0.205585569000447	14	COG0043	H; UbiD; 3-polyprenyl-4-hydroxybenzoate decarboxylase	COG1165	H; MenD; 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+COG	Genome size	0.204724862825099	12	COG0783	PV; Dps; DNA-binding ferritin-like protein (oxidative damage protectant)	COG1433	O; NifX; Predicted Fe-Mo cluster-binding protein, NifX family
+COG	Genome size	0.204716494948227	9	COG1509	E; EpmB; L-lysine 2,3-aminomutase (EF-P beta-lysylation pathway)	COG4394	J; EarP; Elongation factor P Arg32-rhamnosyltransferase EarP
+COG	Genome size	0.204406539381204	19	COG0761	I; IspH; 4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH	COG3425	I; PksG; 3-hydroxy-3-methylglutaryl CoA synthase
+COG	Genome size	0.204075648481288	13	COG0404	E; GcvT; Glycine cleavage system protein T (aminomethyltransferase)	COG3830	T; ACT; ACT domain, binds amino acids and other small ligands
+COG	Genome size	0.203962662506276	19	COG0821	I; IspG; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE	COG3425	I; PksG; 3-hydroxy-3-methylglutaryl CoA synthase
+COG	Genome size	0.200987185974224	11	COG1916	S; NA; Pheromone shutdown protein TraB, contains GTxH motif (function unknown)	COG3872	S; YqhQ; Uncharacterized conserved protein YqhQ, DUF1385 family
+COG	Genome size	0.199987167117149	9	COG0370	P; FeoB; Fe2+ transporter FeoB	COG0723	C; QcrA/PetC; Rieske Fe-S protein
+COG	Genome size	0.199731149028405	8	COG0549	E; ArcC; Carbamate kinase	COG1897	E; MetA; Homoserine O-succinyltransferase
+COG	Genome size	0.198701493733207	23	COG0168	P; TrkG; Trk-type K+ transport system, membrane component	COG3158	P; Kup; K+ uptake protein Kup
+COG	Genome size	0.196864390111564	17	COG0530	P; ECM27; Ca2+/Na+ antiporter	COG3158	P; Kup; K+ uptake protein Kup
+COG	Genome size	0.194581579672845	9	COG1489	GT; SfsA; DNA-binding protein, stimulates sugar fermentation	COG3663	L; Mug; G:T/U-mismatch repair DNA glycosylase
+COG	Genome size	0.194058485308737	8	COG0723	C; QcrA/PetC; Rieske Fe-S protein	COG1918	P; FeoA; Fe2+ transport protein FeoA
+COG	Genome size	0.192330489341254	16	COG1585	O; YbbJ; Membrane protein implicated in regulation of membrane protease activity	COG4864	S; YqfA; Uncharacterized conserved protein YqfA, UPF0365 family
+COG	Genome size	0.19214069010206	13	COG0156	H; BioF; 7-keto-8-aminopelargonate synthetase or related enzyme	COG3830	T; ACT; ACT domain, binds amino acids and other small ligands
+COG	Genome size	0.19100074618627	10	COG1947	I; IspE; 4-diphosphocytidyl-2C-methyl-D-erythritol kinase	COG3425	I; PksG; 3-hydroxy-3-methylglutaryl CoA synthase
+COG	Genome size	0.190364757561925	17	COG2869	C; NqrC; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC	COG3158	P; Kup; K+ uptake protein Kup
+COG	Genome size	0.188978892980763	8	COG1034	C; NuoG; NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit (chain G)	COG1805	C; NqrB; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB
+COG	Genome size	0.187553559618545	12	COG1211	I; IspD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	COG3425	I; PksG; 3-hydroxy-3-methylglutaryl CoA synthase
+COG	Genome size	0.187442644977594	10	COG0426	C; NorV; Flavorubredoxin	COG1607	I; YciA; Acyl-CoA hydrolase
+COG	Genome size	0.187056279856123	28	COG0328	L; RnhA; Ribonuclease HI	COG3341	R; Rnh1; Ribonuclease HI-related protein, contains viroplasmin and RNaseH domains
+COG	Genome size	0.185927006243715	9	COG1324	P; CutA1; Divalent cation tolerance protein CutA	COG3323	S; YqfO; PII-like insert in the uncharacterized protein YqfO, YbgI/NIF3 family
+COG	Genome size	0.184796481321337	15	COG1805	C; NqrB; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB	COG3158	P; Kup; K+ uptake protein Kup
+COG	Genome size	0.183041592228545	9	COG1543	G; NA; Predicted glycosyl hydrolase, contains GH57 and DUF1957 domains	COG2057	I; AtoA; Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit
+COG	Genome size	0.182927936643839	8	COG1237	R; NA; Metal-dependent hydrolase, beta-lactamase superfamily II	COG1250	I; FadB; 3-hydroxyacyl-CoA dehydrogenase
+COG	Genome size	0.182699745646796	9	COG1543	G; NA; Predicted glycosyl hydrolase, contains GH57 and DUF1957 domains	COG1788	I; AtoD; Acyl CoA:acetate/3-ketoacid CoA transferase, alpha subunit
+COG	Genome size	0.182487692681613	33	COG1190	J; LysU; Lysyl-tRNA synthetase (class II)	COG1384	J; LysS; Lysyl-tRNA synthetase, class I
+COG	Genome size	0.181725577884583	11	COG0509	E; GcvH; Glycine cleavage system protein H (lipoate-binding)	COG3830	T; ACT; ACT domain, binds amino acids and other small ligands
+COG	Genome size	0.179803902578637	8	COG1586	E; SpeD; S-adenosylmethionine decarboxylase	COG3467	V; NimA; Nitroimidazole reductase NimA or a related FMN-containing flavoprotein, pyridoxamine 5'-phosphate oxidase superfamily
+COG	Genome size	0.179526828828331	8	COG0551	L; YrdD; DNA topoisomerase I, ssDNA-binding Zn-finger and Zn-ribbon domains	COG0605	P; SodA; Superoxide dismutase
+COG	Genome size	0.178198979688452	8	COG2212	P; MnhF; Multisubunit Na+/H+ antiporter, MnhF subunit	COG3261	C; HycE2; Ni,Fe-hydrogenase III large subunit
+COG	Genome size	0.177754178551175	8	COG0783	PV; Dps; DNA-binding ferritin-like protein (oxidative damage protectant)	COG1355	R; Mho1; Predicted class III extradiol dioxygenase, MEMO1 family
+COG	Genome size	0.177272501517478	8	COG1320	P; MnhG; Multisubunit Na+/H+ antiporter, MnhG subunit	COG3260	C; HycG; Ni,Fe-hydrogenase III small subunit
+COG	Genome size	0.176394464071734	8	COG0287	E; TyrA; Prephenate dehydrogenase	COG2235	E; ArcA; Arginine deiminase
+COG	Genome size	0.176222576482871	10	COG1330	L; RecC; Scaffold subunit RecC of the DNA repair enzyme RecBCD (exonuclease V)	COG2887	L; Slr0479; RecB family exonuclease
+COG	Genome size	0.1760610656095	9	COG0621	J; MiaB; tRNA A37 methylthiotransferase MiaB	COG3425	I; PksG; 3-hydroxy-3-methylglutaryl CoA synthase
+COG	Genome size	0.174018878229218	8	COG2013	C; AIM24; AIM24 protein, required for mitochondrial respiration	COG3090	G; DctM; TRAP-type C4-dicarboxylate transport system, small permease component YiaM
+COG	Genome size	0.172578012082062	8	COG0396	O; SufC; Fe-S cluster assembly ATPase SufC	COG0551	L; YrdD; DNA topoisomerase I, ssDNA-binding Zn-finger and Zn-ribbon domains
+COG	Genome size	0.17210690854453	10	COG0370	P; FeoB; Fe2+ transporter FeoB	COG1178	P; FbpB; ABC-type Fe3+ transport system, permease component
+COG	Genome size	0.171653899687938	9	COG1178	P; FbpB; ABC-type Fe3+ transport system, permease component	COG1918	P; FeoA; Fe2+ transport protein FeoA
+COG	Genome size	0.171482600322262	13	COG0163	H; UbiX; Flavin prenyltransferase UbiX	COG0447	H; MenB; 1,4-Dihydroxy-2-naphthoyl-CoA synthase
+COG	Genome size	0.171298669759165	8	COG0311	H; PdxT; Pyridoxal 5'-phosphate synthase subunit PdxT (glutamine amidotransferase)	COG2240	H; PdxK; Pyridoxal/pyridoxine/pyridoxamine kinase
+COG	Genome size	0.168790190696593	8	COG0282	C; AckA; Acetate kinase	COG0427	C; ACH1; Propionyl CoA:succinate CoA transferase
+COG	Genome size	0.168240844940889	8	COG1863	P; MnhE; Multisubunit Na+/H+ antiporter, MnhE subunit	COG3260	C; HycG; Ni,Fe-hydrogenase III small subunit
+COG	Genome size	0.167754066450841	8	COG0045	C; SucC; Succinyl-CoA synthetase, beta subunit	COG3894	S; NA; Uncharacterized 2Fe-2S and 4Fe-4S clusters-containing protein, contains DUF4445 domain
+COG	Genome size	0.167720450981691	8	COG0411	E; LivG; ABC-type branched-chain amino acid transport system, ATPase component LivG	COG1115	E; AlsT; Na+/alanine symporter
+COG	Genome size	0.16708147591405	8	COG0214	H; PdxS; Pyridoxal 5'-phosphate synthase subunit PdxS	COG2240	H; PdxK; Pyridoxal/pyridoxine/pyridoxamine kinase
+COG	Genome size	0.166946968736338	12	COG0043	H; UbiD; 3-polyprenyl-4-hydroxybenzoate decarboxylase	COG0447	H; MenB; 1,4-Dihydroxy-2-naphthoyl-CoA synthase
+COG	Genome size	0.166620109372952	8	COG1320	P; MnhG; Multisubunit Na+/H+ antiporter, MnhG subunit	COG3261	C; HycE2; Ni,Fe-hydrogenase III large subunit
+COG	Genome size	0.166523296458311	9	COG0826	J; RlhA; 23S rRNA C2501 and tRNA U34 5'-hydroxylation protein RlhA/YrrN/YrrO, U32 peptidase family	COG1832	R; YccU; Predicted CoA-binding protein
+COG	Genome size	0.166342009119892	13	COG0163	H; UbiX; Flavin prenyltransferase UbiX	COG1169	HQ; MenF; Isochorismate synthase EntC
+COG	Genome size	0.166173726660031	8	COG0857	R; PtaN; BioD-like N-terminal domain of phosphotransacetylase	COG1420	K; HrcA; Transcriptional regulator of heat shock response
+COG	Genome size	0.165560038478218	8	COG3781	P; YneE; Predicted membrane chloride channel, bestrophin family	COG4663	Q; FcbT1; TRAP-type mannitol/chloroaromatic compound transport system, periplasmic component
+COG	Genome size	0.165010860888873	14	COG3158	P; Kup; K+ uptake protein Kup	COG4327	S; NA; Uncharacterized membrane protein, DUF4212 domain
+COG	Genome size	0.164498876306066	8	COG2171	E; DapD; Tetrahydrodipicolinate N-succinyltransferase	COG3804	S; NA; Uncharacterized conserved protein
+COG	Genome size	0.162779857534337	14	COG0043	H; UbiD; 3-polyprenyl-4-hydroxybenzoate decarboxylase	COG1169	HQ; MenF; Isochorismate synthase EntC
+COG	Genome size	0.16225810951111	11	COG0431	C; SsuE; NAD(P)H-dependent FMN reductase	COG1144	C; PorD; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, delta subunit
+COG	Genome size	0.162178504836359	8	COG1748	E; Lys9; Saccharopine dehydrogenase, NADP-dependent	COG1899	OJ; DYS1; Deoxyhypusine synthase
+COG	Genome size	0.160962906593182	16	COG0163	H; UbiX; Flavin prenyltransferase UbiX	COG1575	H; MenA; 1,4-dihydroxy-2-naphthoate polyprenyltransferase
+COG	Genome size	0.16027989761168	8	COG1071	C; AcoA; TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	COG1144	C; PorD; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, delta subunit
+COG	Genome size	0.160101688083881	9	COG0370	P; FeoB; Fe2+ transporter FeoB	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	Genome size	0.159798550667421	9	COG0074	C; SucD; Succinyl-CoA synthetase, alpha subunit	COG3894	S; NA; Uncharacterized 2Fe-2S and 4Fe-4S clusters-containing protein, contains DUF4445 domain
+COG	Genome size	0.159518269167096	8	COG0022	C; AcoB; Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit	COG1144	C; PorD; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, delta subunit
+COG	Genome size	0.159485258992056	29	COG1739	R; YIH1; Putative translation regulator, IMPACT (imprinted ancient) protein family	COG1872	S; YggU; Uncharacterized conserved protein YggU, UPF0235/DUF167 family
+COG	Genome size	0.15832880888304	8	COG0551	L; YrdD; DNA topoisomerase I, ssDNA-binding Zn-finger and Zn-ribbon domains	COG0719	O; SufB; Fe-S cluster assembly scaffold protein SufB
+COG	Genome size	0.157925055333182	8	COG1863	P; MnhE; Multisubunit Na+/H+ antiporter, MnhE subunit	COG3261	C; HycE2; Ni,Fe-hydrogenase III large subunit
+COG	Genome size	0.157425241984458	8	COG0168	P; TrkG; Trk-type K+ transport system, membrane component	COG1392	P; YkaA; Phosphate transport regulator YkaA, distantly related to PhoU, UPF0111/DUF47 family
+COG	Genome size	0.154436008495927	22	COG0623	I; FabI; Enoyl-[acyl-carrier-protein] reductase FabI	COG3007	I; NA; Trans-2-enoyl-CoA reductase
+COG	Genome size	0.153324135126899	18	COG0043	H; UbiD; 3-polyprenyl-4-hydroxybenzoate decarboxylase	COG1575	H; MenA; 1,4-dihydroxy-2-naphthoate polyprenyltransferase
+COG	Genome size	0.152802841354498	8	COG0370	P; FeoB; Fe2+ transporter FeoB	COG3470	MI; Tpd; Uncharacterized conserved protein probably involved in high-affinity Fe2+ transport
+COG	Genome size	0.151747727046239	9	COG1330	L; RecC; Scaffold subunit RecC of the DNA repair enzyme RecBCD (exonuclease V)	COG3893	L; NA; Inactivated superfamily I helicase
+COG	Genome size	0.150487439661061	8	COG0026	F; PurK; Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)	COG0370	P; FeoB; Fe2+ transporter FeoB
+COG	Genome size	0.149895840668211	8	COG0506	E; PutA; Proline dehydrogenase	COG0543	HC; Mcr1; NAD(P)H-flavin reductase
+COG	Genome size	0.147295936220966	10	COG2103	M; MurQ; N-acetylmuramic acid 6-phosphate (MurNAc-6-P) etherase	COG3178	R; NA; Predicted phosphotransferase, aminoglycoside/choline kinase (APH/ChoK) family
+COG	Genome size	0.146868449699501	8	COG0370	P; FeoB; Fe2+ transporter FeoB	COG1024	I; CaiD; Enoyl-CoA hydratase/carnithine racemase
+COG	Genome size	0.146673664561697	11	COG1966	CE; CstA; Carbon starvation protein CstA (peptide/pyruvate transporter)	COG4663	Q; FcbT1; TRAP-type mannitol/chloroaromatic compound transport system, periplasmic component
+COG	Genome size	0.146047076066332	77	COG0207	F; ThyA; Thymidylate synthase	COG1351	F; ThyX; Thymidylate synthase ThyX, FAD-dependent family
+COG	Genome size	0.145106677804188	8	COG1145	C; NapF; Ferredoxin	COG1607	I; YciA; Acyl-CoA hydrolase
+COG	Genome size	0.143951610260052	10	COG0549	E; ArcC; Carbamate kinase	COG2873	E; MET17; O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent
+COG	Genome size	0.142734686810515	15	COG1966	CE; CstA; Carbon starvation protein CstA (peptide/pyruvate transporter)	COG4664	Q; FcbT3; TRAP-type mannitol/chloroaromatic compound transport system, large permease component
+COG	Genome size	0.141451550126357	9	COG1014	C; PorG; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, gamma subunit	COG1054	J; TrhO; tRNA U34 5'-hydroxylase TrhO, rhodanese family
+COG	Genome size	0.141299153468589	8	COG2166	O; SufE; Sulfur transfer protein SufE, Fe-S cluster assembly	COG2975	O; IscX; Fe-S-cluster formation regulator IscX/YfhJ
+COG	Genome size	0.141044812221847	8	COG2073	H; CbiG; Cobalamin biosynthesis protein CbiG	COG3613	F; RCL; Nucleoside 2-deoxyribosyltransferase
+COG	Genome size	0.14101053468073	8	COG1254	C; AcyP; Acylphosphatase	COG4717	S; YhaN; Uncharacterized conserved protein YhaN, contains AAA domain
+COG	Genome size	0.140846158802001	14	COG2947	R; EVE; Predicted RNA-binding protein, contains EVE domain	COG3022	L; YaaA; DNA-binding protein YaaA associated with the oxidative stress response
+COG	Genome size	0.139363024097523	9	COG0819	H; TenA; Aminopyrimidine aminohydrolase TenA (thiamine salvage pathway)	COG1144	C; PorD; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, delta subunit
+COG	Genome size	0.137516515270737	15	COG0132	H; BioD; Dethiobiotin synthetase	COG1268	H; BioY; Biotin transporter BioY
+COG	Genome size	0.137433070937891	12	COG1966	CE; CstA; Carbon starvation protein CstA (peptide/pyruvate transporter)	COG4665	Q; FcbT2; TRAP-type mannitol/chloroaromatic compound transport system, small permease component
+COG	Genome size	0.137276924824698	8	COG1924	I; YjiL; Activator of 2-hydroxyglutaryl-CoA dehydratase (HSP70-class ATPase domain)	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	Genome size	0.136992466538989	8	COG3845	F; NupO; ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	COG5496	R; NA; Predicted thioesterase
+COG	Genome size	0.135862481981472	8	COG1079	F; NupQ; ABC-type guanosine uptake system NupNOPQ, permease subunit NupQ	COG5496	R; NA; Predicted thioesterase
+COG	Genome size	0.134690861039334	11	COG0783	PV; Dps; DNA-binding ferritin-like protein (oxidative damage protectant)	COG1145	C; NapF; Ferredoxin
+COG	Genome size	0.134667163736734	8	COG1773	P; NorV; Flavorubredoxin	COG2096	H; PduO; Cob(II)alamin adenosyltransferase
+COG	Genome size	0.133331535944431	8	COG0427	C; ACH1; Propionyl CoA:succinate CoA transferase	COG1649	S; YddW; Uncharacterized lipoprotein YddW, UPF0748 family
+COG	Genome size	0.133314985053419	9	COG3659	M; OprB; Carbohydrate-selective porin OprB	COG4664	Q; FcbT3; TRAP-type mannitol/chloroaromatic compound transport system, large permease component
+COG	Genome size	0.132473029103546	8	COG1176	E; PotB; ABC-type spermidine/putrescine transport system, permease component I	COG2350	QR; YciI; YciI superfamily enzyme, includes 5-CHQ dehydrochlorinase, contains active-site pHis
+COG	Genome size	0.13208057903616	10	COG1115	E; AlsT; Na+/alanine symporter	COG1392	P; YkaA; Phosphate transport regulator YkaA, distantly related to PhoU, UPF0111/DUF47 family
+COG	Genome size	0.131491946823495	15	COG1115	E; AlsT; Na+/alanine symporter	COG3158	P; Kup; K+ uptake protein Kup
+COG	Genome size	0.12940663451071	8	COG1177	E; PotC; ABC-type spermidine/putrescine transport system, permease component II	COG2350	QR; YciI; YciI superfamily enzyme, includes 5-CHQ dehydrochlorinase, contains active-site pHis
+COG	Genome size	0.126923808974011	8	COG0026	F; PurK; Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)	COG1144	C; PorD; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, delta subunit
+COG	Genome size	0.125437382413329	8	COG0131	E; HisB2; Imidazoleglycerol phosphate dehydratase HisB	COG2039	O; Pcp; Pyrrolidone-carboxylate peptidase (N-terminal pyroglutamyl peptidase)
+COG	Genome size	0.125291760814338	9	COG3186	E; PhhA; Phenylalanine-4-hydroxylase	COG3460	Q; PaaB; 1,2-phenylacetyl-CoA epoxidase, PaaB subunit
+COG	Genome size	0.125209835902479	9	COG1008	C; NuoM; NADH:ubiquinone oxidoreductase subunit 4 (chain M)	COG3090	G; DctM; TRAP-type C4-dicarboxylate transport system, small permease component YiaM
+COG	Genome size	0.121883172955818	8	COG1250	I; FadB; 3-hydroxyacyl-CoA dehydrogenase	COG3894	S; NA; Uncharacterized 2Fe-2S and 4Fe-4S clusters-containing protein, contains DUF4445 domain
+COG	Genome size	0.121793232818283	10	COG0168	P; TrkG; Trk-type K+ transport system, membrane component	COG1914	P; MntH; Mn2+ or Fe2+ transporter, NRAMP family
+COG	Genome size	0.121451543806547	8	COG3659	M; OprB; Carbohydrate-selective porin OprB	COG4663	Q; FcbT1; TRAP-type mannitol/chloroaromatic compound transport system, periplasmic component
+COG	Genome size	0.120016591296276	10	COG1119	P; ModF; ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	COG2607	R; Atu1564; Predicted ATPase, AAA+ superfamily
+COG	Genome size	0.119614602725316	9	COG0330	O; HflC; Regulator of protease activity HflC, stomatin/prohibitin superfamily	COG1030	O; NfeD; Membrane-bound serine protease NfeD, ClpP class
+COG	Genome size	0.118753798447088	8	COG0114	C; FumC; Fumarate hydratase class II	COG2385	M; SpoIID; Peptidoglycan hydrolase (amidase) enhancer domain SpoIID
+COG	Genome size	0.118661622775547	9	COG1830	G; FbaB; Fructose-bisphosphate aldolase class Ia, DhnA family	COG3588	G; Fba1; Fructose-bisphosphate aldolase class 1
+COG	Genome size	0.117261479698483	8	COG1024	I; CaiD; Enoyl-CoA hydratase/carnithine racemase	COG3894	S; NA; Uncharacterized 2Fe-2S and 4Fe-4S clusters-containing protein, contains DUF4445 domain
+COG	Genome size	0.116596296598627	20	COG0262	H; FolA; Dihydrofolate reductase	COG1351	F; ThyX; Thymidylate synthase ThyX, FAD-dependent family
+COG	Genome size	0.116579977573751	9	COG0725	P; ModA; ABC-type molybdate transport system, periplasmic Mo-binding protein ModA	COG4662	P; TupA; ABC-type tungstate transport system, periplasmic component
+COG	Genome size	0.115691477263342	8	COG0722	E; AroG1; 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase	COG2876	E; AroGA; 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase
+COG	Genome size	0.113531330475234	8	COG1074	L; RecB; 3-5 helicase subunit RecB of the DNA repair enzyme RecBCD (exonuclease V)	COG2887	L; Slr0479; RecB family exonuclease
+COG	Genome size	0.110806274295701	9	COG1008	C; NuoM; NADH:ubiquinone oxidoreductase subunit 4 (chain M)	COG1593	G; DctQ; TRAP-type C4-dicarboxylate transport system, large permease component
+COG	Genome size	0.110524417241285	8	COG1079	F; NupQ; ABC-type guanosine uptake system NupNOPQ, permease subunit NupQ	COG2138	H; SirB; Sirohydrochlorin ferrochelatase
+COG	Genome size	0.109545727863394	8	COG2928	S; NA; Uncharacterized membrane protein	COG3590	O; PepO; Predicted metalloendopeptidase
+COG	Genome size	0.108900618028237	9	COG1008	C; NuoM; NADH:ubiquinone oxidoreductase subunit 4 (chain M)	COG1638	G; DctP; TRAP-type C4-dicarboxylate transport system, periplasmic component
+COG	Genome size	0.108329781001386	8	COG0212	H; FAU1; 5-formyltetrahydrofolate cyclo-ligase	COG3404	E; FtcD; Formiminotetrahydrofolate cyclodeaminase
+COG	Genome size	0.107755491274564	23	COG0743	I; Dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase	COG1257	I; HMG1; Hydroxymethylglutaryl-CoA reductase
+COG	Genome size	0.106791536790335	9	COG1272	U; YqfA; Predicted membrane channel-forming protein YqfA, hemolysin III family	COG2001	J; MraZ; MraZ, DNA-binding transcriptional regulator and inhibitor of RsmH methyltransferase activity
+COG	Genome size	0.106079098797218	9	COG0725	P; ModA; ABC-type molybdate transport system, periplasmic Mo-binding protein ModA	COG2998	P; TupB; ABC-type tungstate transport system, permease component TupA
+COG	Genome size	0.104456320419205	13	COG1154	HI; Dxs; Deoxyxylulose-5-phosphate synthase	COG1257	I; HMG1; Hydroxymethylglutaryl-CoA reductase
+COG	Genome size	0.103190324031828	14	COG2094	L; Mpg; 3-methyladenine DNA glycosylase Mpg	COG3663	L; Mug; G:T/U-mismatch repair DNA glycosylase
+COG	Genome size	0.102529365271494	11	COG0120	G; RpiA; Ribose 5-phosphate isomerase	COG0698	G; RpiB; Ribose 5-phosphate isomerase RpiB
+COG	Genome size	0.102419667965491	9	COG3276	J; SelB; Selenocysteine-specific translation elongation factor SelB	COG3830	T; ACT; ACT domain, binds amino acids and other small ligands
+COG	Genome size	0.101274570100777	8	COG1304	CIR; LldD; FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase	COG1556	C; LutC; L-lactate utilization protein LutC, contains LUD domain
+COG	Genome size	0.101238589988427	23	COG0245	I; IspF; 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	COG1257	I; HMG1; Hydroxymethylglutaryl-CoA reductase
+COG	Genome size	0.100254890368946	22	COG0397	O; SelO; Protein adenylyltransferase (AMPylase) SelO/YdiU (selenoprotein O)	COG1331	R; YyaL; Uncharacterized conserved protein YyaL, SSP411 family, contains thoiredoxin and six-hairpin glycosidase-like domains
+COG	Genome size	0.0998622119283171	23	COG0761	I; IspH; 4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH	COG1257	I; HMG1; Hydroxymethylglutaryl-CoA reductase
+COG	Genome size	0.0996990741022845	8	COG0350	L; AdaB; DNA repair enzyme Ada (O6-methylguanine-DNA--protein-cysteine methyltransferase)	COG3695	K; Atl1; Alkylated DNA nucleotide flippase Atl1, participates in nucleotide excision repair, Ada-like DNA-binding domain
+COG	Genome size	0.099060938795142	9	COG0213	F; DeoA; Thymidine phosphorylase	COG2820	F; Udp; Uridine phosphorylase
+COG	Genome size	0.0985673630450554	9	COG1178	P; FbpB; ABC-type Fe3+ transport system, permease component	COG1297	R; OPT; Predicted oligopeptide transporter, OPT family
+COG	Genome size	0.0980825572288881	13	COG1257	I; HMG1; Hydroxymethylglutaryl-CoA reductase	COG1947	I; IspE; 4-diphosphocytidyl-2C-methyl-D-erythritol kinase
+COG	Genome size	0.0978613589045886	17	COG0302	H; FolE; GTP cyclohydrolase I	COG1469	H; FolE2; GTP cyclohydrolase FolE2
+COG	Genome size	0.0978437723226344	8	COG0705	O; GlpG; Membrane-associated serine protease, rhomboid family	COG1994	O; SpoIVFB; Zn-dependent protease (includes sporulation protein SpoIVFB)
+COG	Genome size	0.0975357044120031	23	COG0821	I; IspG; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE	COG1257	I; HMG1; Hydroxymethylglutaryl-CoA reductase
+COG	Genome size	0.0954595041853203	8	COG1056	H; NadR; Nicotinamide mononucleotide adenylyltransferase	COG1057	H; NadD; Nicotinate-nucleotide adenylyltransferase NadD
+COG	Genome size	0.0940547007141729	10	COG3158	P; Kup; K+ uptake protein Kup	COG4664	Q; FcbT3; TRAP-type mannitol/chloroaromatic compound transport system, large permease component
+COG	Genome size	0.0938878317436982	11	COG2871	C; NqrF; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrF	COG3158	P; Kup; K+ uptake protein Kup
+COG	Genome size	0.0932491360666247	9	COG0549	E; ArcC; Carbamate kinase	COG1605	E; PheA; Chorismate mutase
+COG	Genome size	0.0931866902364641	16	COG0420	L; SbcD; DNA repair exonuclease SbcCD nuclease subunit	COG1322	L; RmuC; DNA anti-recombination protein (rearrangement mutator) RmuC
+COG	Genome size	0.0930214920682743	9	COG2057	I; AtoA; Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit	COG2873	E; MET17; O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent
+COG	Genome size	0.0928240041210979	9	COG0426	C; NorV; Flavorubredoxin	COG1428	F; Dck; Deoxyadenosine/deoxycytidine kinase
+COG	Genome size	0.0928074021280665	9	COG1788	I; AtoD; Acyl CoA:acetate/3-ketoacid CoA transferase, alpha subunit	COG2873	E; MET17; O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent
+COG	Genome size	0.0926942712558636	8	COG1622	C; CyoA; Heme/copper-type cytochrome/quinol oxidase, subunit 2	COG1951	C; TtdA; Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain
+COG	Genome size	0.0922517545477344	8	COG1622	C; CyoA; Heme/copper-type cytochrome/quinol oxidase, subunit 2	COG1838	C; FumA; Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain
+COG	Genome size	0.0915656500992257	11	COG3158	P; Kup; K+ uptake protein Kup	COG4663	Q; FcbT1; TRAP-type mannitol/chloroaromatic compound transport system, periplasmic component
+COG	Genome size	0.0907822810380468	8	COG1643	J; HrpA; HrpA-like RNA helicase	COG3225	N; GldG; ABC-type uncharacterized transport system involved in gliding motility, auxiliary component
+COG	Genome size	0.0906257329451788	8	COG0843	C; CyoB; Heme/copper-type cytochrome/quinol oxidase, subunit 1	COG1951	C; TtdA; Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain
+COG	Genome size	0.0901697300385904	8	COG0843	C; CyoB; Heme/copper-type cytochrome/quinol oxidase, subunit 1	COG1838	C; FumA; Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain
+COG	Genome size	0.0898952319436101	23	COG0191	G; Fba; Fructose/tagatose bisphosphate aldolase	COG3588	G; Fba1; Fructose-bisphosphate aldolase class 1
+COG	Genome size	0.0898431463620504	8	COG1048	C; AcnA; Aconitase A	COG2309	E; AmpS; Leucyl aminopeptidase (aminopeptidase T)
+COG	Genome size	0.0896261995281589	9	COG1951	C; TtdA; Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain	COG3253	HP; HemQ; Coproheme decarboxylase/chlorite dismutase
+COG	Genome size	0.089529465116424	15	COG1211	I; IspD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	COG1257	I; HMG1; Hydroxymethylglutaryl-CoA reductase
+COG	Genome size	0.0894632275991304	11	COG3158	P; Kup; K+ uptake protein Kup	COG4665	Q; FcbT2; TRAP-type mannitol/chloroaromatic compound transport system, small permease component
+COG	Genome size	0.0891550677314289	9	COG1838	C; FumA; Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain	COG3253	HP; HemQ; Coproheme decarboxylase/chlorite dismutase
+COG	Genome size	0.088852906105956	8	COG0263	E; ProB; Glutamate 5-kinase	COG2987	E; HutU; Urocanate hydratase
+COG	Genome size	0.0885387305736806	9	COG0756	FV; Dut; dUTP pyrophosphatase (dUTPase)	COG4696	F; MazG2; NTP pyrophosphatase, MazG superfamily
+COG	Genome size	0.0872525306071665	8	COG1014	C; PorG; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, gamma subunit	COG2094	L; Mpg; 3-methyladenine DNA glycosylase Mpg
+COG	Genome size	0.0869321276296584	9	COG0621	J; MiaB; tRNA A37 methylthiotransferase MiaB	COG1257	I; HMG1; Hydroxymethylglutaryl-CoA reductase
+COG	Genome size	0.0865802513815188	16	COG1072	H; CoaA; Panthothenate kinase	COG1521	H; CoaX; Pantothenate kinase type III
+COG	Genome size	0.0859542151400784	10	COG0372	C; GltA; Citrate synthase	COG1288	R; YfcC; Predicted membrane transporter YfcC, affects glyoxylate shunt
+COG	Genome size	0.0855931527213561	8	COG0109	HI; CyoE; Polyprenyltransferase (heme O synthase)	COG1951	C; TtdA; Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain
+COG	Genome size	0.0854065301024311	8	COG0026	F; PurK; Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)	COG1148	C; HdrA; Heterodisulfide reductase, subunit A (polyferredoxin)
+COG	Genome size	0.0851502394449838	8	COG0109	HI; CyoE; Polyprenyltransferase (heme O synthase)	COG1838	C; FumA; Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain
+COG	Genome size	0.0833467422186225	8	COG1912	HV; NA; Stereoselective (R,S)-S-adenosylmethionine hydrolase (adenosine-forming)	COG2301	G; CitE; Citrate lyase beta subunit
+COG	Genome size	0.0821519895982633	9	COG0011	H; YqgV; Thiamin-binding stress-response protein YqgV, UPF0045 family	COG1494	G; GlpX; Fructose-1,6-bisphosphatase/sedoheptulose 1,7-bisphosphatase or related protein
+COG	Genome size	0.0814826098557741	11	COG0503	F; Apt; Adenine/guanine phosphoribosyltransferase or related PRPP-binding protein	COG1001	F; AdeC; Adenine deaminase
+COG	Genome size	0.0812361851533393	9	COG1322	L; RmuC; DNA anti-recombination protein (rearrangement mutator) RmuC	COG3448	T; NA; CBS-domain-containing membrane protein
+COG	Genome size	0.0781923974483442	9	COG1586	E; SpeD; S-adenosylmethionine decarboxylase	COG1748	E; Lys9; Saccharopine dehydrogenase, NADP-dependent
+COG	Genome size	0.0779797265288922	8	COG0139	E; HisI1; Phosphoribosyl-AMP cyclohydrolase	COG2986	E; HutH; Histidine ammonia-lyase
+COG	Genome size	0.0767264431546529	12	COG0602	H; QueE; Organic radical activating enzyme NrdG/QueE	COG1738	J; YhhQ; Queuosine precursor transporter YhhQ, DUF165 family
+COG	Genome size	0.0746418036179981	8	COG1274	C; PepCK; Phosphoenolpyruvate carboxykinase, GTP-dependent	COG1760	E; SdaA; L-serine deaminase
+COG	Genome size	0.0745276499643715	8	COG2212	P; MnhF; Multisubunit Na+/H+ antiporter, MnhF subunit	COG3004	CP; NhaA; Na+/H+ antiporter NhaA
+COG	Genome size	0.0737924968502845	9	COG1320	P; MnhG; Multisubunit Na+/H+ antiporter, MnhG subunit	COG3004	CP; NhaA; Na+/H+ antiporter NhaA
+COG	Genome size	0.0728174322510855	8	COG0122	L; AlkA; 3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase	COG1640	G; MalQ; 4-alpha-glucanotransferase
+COG	Genome size	0.0722106282336708	8	COG0263	E; ProB; Glutamate 5-kinase	COG2986	E; HutH; Histidine ammonia-lyase
+COG	Genome size	0.0721976550347209	8	COG0095	H; LplA; Lipoate-protein ligase A	COG1060	H; ThiH; 2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE
+COG	Genome size	0.0705211785835702	12	COG0505	EF; CarA; Carbamoylphosphate synthase small subunit	COG0549	E; ArcC; Carbamate kinase
+COG	Genome size	0.0692900866955379	8	COG1838	C; FumA; Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain	COG3264	M; MscK; Small-conductance mechanosensitive channel MscK
+COG	Genome size	0.069260315198248	8	COG1951	C; TtdA; Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain	COG3264	M; MscK; Small-conductance mechanosensitive channel MscK
+COG	Genome size	0.0684477839807414	8	COG0517	T; CBS; CBS domain	COG1257	I; HMG1; Hydroxymethylglutaryl-CoA reductase
+COG	Genome size	0.0683754890394856	8	COG0213	F; DeoA; Thymidine phosphorylase	COG1250	I; FadB; 3-hydroxyacyl-CoA dehydrogenase
+COG	Genome size	0.0659032850800016	9	COG1863	P; MnhE; Multisubunit Na+/H+ antiporter, MnhE subunit	COG3004	CP; NhaA; Na+/H+ antiporter NhaA
+COG	Genome size	0.0642701249910859	9	COG2818	L; Tag; 3-methyladenine DNA glycosylase Tag	COG4912	L; AlkD; 3-methyladenine DNA glycosylase AlkD
+COG	Genome size	0.0636268727909797	8	COG0189	EHJQ; LysX; Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	COG4536	P; CorB; Mg2+ and Co2+ transporter CorB, contains DUF21, CBS pair, and CorC-HlyC domains
+COG	Genome size	0.0628515594989242	8	COG0132	H; BioD; Dethiobiotin synthetase	COG4231	C; IorA; TPP-dependent indolepyruvate ferredoxin oxidoreductase, alpha subunit
+COG	Genome size	0.0627500363161372	8	COG0115	EH; IlvE; Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase	COG0549	E; ArcC; Carbamate kinase
+COG	Genome size	0.0622936118207973	9	COG0803	P; ZnuA; ABC-type Zn uptake system ZnuABC, Zn-binding component ZnuA	COG1881	R; PEBP; Uncharacterized conserved protein, phosphatidylethanolamine-binding protein (PEBP) family
+COG	Genome size	0.0621552468270314	47	COG0538	C; Icd; Isocitrate dehydrogenase	COG2838	C; IcdM; Monomeric isocitrate dehydrogenase
+COG	Genome size	0.0619978571980749	9	COG0213	F; DeoA; Thymidine phosphorylase	COG1024	I; CaiD; Enoyl-CoA hydratase/carnithine racemase
+COG	Genome size	0.0608070512754434	8	COG0555	P; CysU; ABC-type sulfate transport system, permease component	COG1509	E; EpmB; L-lysine 2,3-aminomutase (EF-P beta-lysylation pathway)
+COG	Genome size	0.0597920091142157	8	COG2138	H; SirB; Sirohydrochlorin ferrochelatase	COG4603	F; NupP; ABC-type guanosine uptake system NupNOPQ, permease component NupP
+COG	Genome size	0.0597864716420472	9	COG0431	C; SsuE; NAD(P)H-dependent FMN reductase	COG1912	HV; NA; Stereoselective (R,S)-S-adenosylmethionine hydrolase (adenosine-forming)
+COG	Genome size	0.0594444451483238	9	COG0530	P; ECM27; Ca2+/Na+ antiporter	COG0586	M; DedA; Membrane integrity protein DedA, putative transporter, DedA/Tvp38 family
+COG	Genome size	0.0593440366595166	8	COG2138	H; SirB; Sirohydrochlorin ferrochelatase	COG3845	F; NupO; ABC-type guanosine uptake system NupNOPQ, ATPase component NupO
+COG	Genome size	0.0591760024072152	11	COG0648	L; Nfo; Endonuclease IV	COG0708	L; XthA; Exonuclease III
+COG	Genome size	0.0571532535037584	8	COG0605	P; SodA; Superoxide dismutase	COG1211	I; IspD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+COG	Genome size	0.0570149829410131	8	COG0039	C; Mdh; Malate/lactate dehydrogenase	COG0168	P; TrkG; Trk-type K+ transport system, membrane component
+COG	Genome size	0.0565652524661651	14	COG2377	M; AnmK; 1,6-Anhydro-N-acetylmuramate kinase	COG3876	S; YbbC; Uncharacterized conserved protein YbbC, DUF1343 family
+COG	Genome size	0.0560734408057006	10	COG1951	C; TtdA; Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain	COG2096	H; PduO; Cob(II)alamin adenosyltransferase
+COG	Genome size	0.0556499106664171	9	COG1838	C; FumA; Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain	COG2096	H; PduO; Cob(II)alamin adenosyltransferase
+COG	Genome size	0.0547588448625418	9	COG1951	C; TtdA; Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain	COG3439	S; NA; Uncharacterized conserved protein, DUF302 family
+COG	Genome size	0.0542860916452785	9	COG1838	C; FumA; Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain	COG3439	S; NA; Uncharacterized conserved protein, DUF302 family
+COG	Genome size	0.0524514639258785	24	COG1030	O; NfeD; Membrane-bound serine protease NfeD, ClpP class	COG1585	O; YbbJ; Membrane protein implicated in regulation of membrane protease activity
+COG	Genome size	0.0507189349084575	10	COG2212	P; MnhF; Multisubunit Na+/H+ antiporter, MnhF subunit	COG3158	P; Kup; K+ uptake protein Kup
+COG	Genome size	0.0506836646489837	10	COG0021	G; TktA; Transketolase	COG3959	G; TktA1; Transketolase, N-terminal subunit
+COG	Genome size	0.0505369879189101	10	COG1320	P; MnhG; Multisubunit Na+/H+ antiporter, MnhG subunit	COG3158	P; Kup; K+ uptake protein Kup
+COG	Genome size	0.04929305295177	10	COG0021	G; TktA; Transketolase	COG3958	G; TktA2; Transketolase, C-terminal subunit
+COG	Genome size	0.0481805615427102	9	COG0603	J; QueC; 7-cyano-7-deazaguanine synthase (queuosine biosynthesis)	COG1738	J; YhhQ; Queuosine precursor transporter YhhQ, DUF165 family
+COG	Genome size	0.0469523163311987	9	COG2111	P; MnhB; Multisubunit Na+/H+ antiporter, MnhB subunit	COG3004	CP; NhaA; Na+/H+ antiporter NhaA
+COG	Genome size	0.0457673359541672	8	COG2518	O; Pcm; Protein-L-isoaspartate O-methyltransferase	COG3201	H; PnuC; Nicotinamide riboside transporter PnuC
+COG	Genome size	0.0453629976289004	9	COG0157	H; NadC; Nicotinate-nucleotide pyrophosphorylase	COG2079	G; PrpD; 2-methylcitrate dehydratase PrpD
+COG	Genome size	0.0452922250221746	9	COG0555	P; CysU; ABC-type sulfate transport system, permease component	COG4149	P; ModB; ABC-type molybdate transport system, permease component ModB
+COG	Genome size	0.0450819386131075	10	COG1863	P; MnhE; Multisubunit Na+/H+ antiporter, MnhE subunit	COG3158	P; Kup; K+ uptake protein Kup
+COG	Genome size	0.0428879426895902	9	COG1006	P; MnhC; Multisubunit Na+/H+ antiporter, MnhC subunit	COG3004	CP; NhaA; Na+/H+ antiporter NhaA
+COG	Genome size	0.0427047057102935	10	COG0351	H; ThiD; Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	COG3201	H; PnuC; Nicotinamide riboside transporter PnuC
+COG	Genome size	0.0424475619906285	8	COG0493	ER; GltD; NADPH-dependent glutamate synthase beta chain or related oxidoreductase	COG3439	S; NA; Uncharacterized conserved protein, DUF302 family
+COG	Genome size	0.0419347151650788	10	COG2111	P; MnhB; Multisubunit Na+/H+ antiporter, MnhB subunit	COG3158	P; Kup; K+ uptake protein Kup
+COG	Genome size	0.041663542912944	10	COG0428	P; ZupT; Zinc transporter ZupT	COG1914	P; MntH; Mn2+ or Fe2+ transporter, NRAMP family
+COG	Genome size	0.0409058147823392	8	COG0296	G; GlgB; 1,4-alpha-glucan branching enzyme	COG5010	UW; TadD; Flp pilus assembly protein TadD, contains TPR repeats
+COG	Genome size	0.0400911625454931	8	COG1006	P; MnhC; Multisubunit Na+/H+ antiporter, MnhC subunit	COG3158	P; Kup; K+ uptake protein Kup
+COG	Genome size	0.0388078247882544	9	COG0756	FV; Dut; dUTP pyrophosphatase (dUTPase)	COG1428	F; Dck; Deoxyadenosine/deoxycytidine kinase
+COG	Genome size	0.0376320808990949	8	COG1139	C; LutB; L-lactate utilization protein LutB, contains a ferredoxin-type domain	COG1304	CIR; LldD; FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase
+COG	Genome size	0.0376168468263517	8	COG0301	HJ; ThiI; Adenylyl- and sulfurtransferase ThiI (thiamine and tRNA 4-thiouridine biosynthesis)	COG0551	L; YrdD; DNA topoisomerase I, ssDNA-binding Zn-finger and Zn-ribbon domains
+COG	Genome size	0.0362981634695288	8	COG2183	K; Tex; Transcriptional accessory protein Tex/SPT6	COG2518	O; Pcm; Protein-L-isoaspartate O-methyltransferase
+COG	Genome size	0.0358438554988771	26	COG0114	C; FumC; Fumarate hydratase class II	COG1951	C; TtdA; Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain
+COG	Genome size	0.0357431361072833	25	COG0114	C; FumC; Fumarate hydratase class II	COG1838	C; FumA; Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain
+COG	Genome size	0.0340288930407508	9	COG1038	C; PycA; Pyruvate carboxylase	COG2352	C; Ppc; Phosphoenolpyruvate carboxylase
+COG	Genome size	0.0331225264982235	9	COG0651	CP; HyfB; Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	COG3004	CP; NhaA; Na+/H+ antiporter NhaA
+COG	Genome size	0.0326809815966736	14	COG0075	EF; PucG; Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	COG1932	HE; SerC; Phosphoserine aminotransferase
+COG	Genome size	0.0326701354136136	8	COG1290	C; QcrB/PetB; Cytochrome b subunit of the bc complex	COG1951	C; TtdA; Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain
+COG	Genome size	0.0323935122386754	8	COG1290	C; QcrB/PetB; Cytochrome b subunit of the bc complex	COG1838	C; FumA; Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain
+COG	Genome size	0.0277757591356556	8	COG0069	E; GltB2; Glutamate synthase domain 2	COG1703	O; ArgK; GTPase of the G3E family (not a periplasmic protein kinase)
+COG	Genome size	0.0275492524769061	13	COG0017	J; AsnS; Aspartyl/asparaginyl-tRNA synthetase	COG0173	J; AspS; Aspartyl-tRNA synthetase
+COG	Genome size	0.0262396114092604	8	COG0288	P; CynT; Carbonic anhydrase	COG0411	E; LivG; ABC-type branched-chain amino acid transport system, ATPase component LivG
+COG	Genome size	0.0262100632034011	11	COG0422	H; ThiC; 4-amino-2-methyl-5-hydroxymethylpyrimidine (HMP) synthase ThiC	COG3201	H; PnuC; Nicotinamide riboside transporter PnuC
+COG	Genome size	0.0261490833541073	15	COG2096	H; PduO; Cob(II)alamin adenosyltransferase	COG2109	H; BtuR; ATP:corrinoid adenosyltransferase
+COG	Genome size	0.0256529093502804	12	COG0499	H; SAM1; S-adenosylhomocysteine hydrolase	COG0775	FH; MtnN; Nucleoside phosphorylase/nucleosidase, includes 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase MtnN and futalosine hydrolase MqnB
+COG	Genome size	0.0255584138439175	10	COG0146	EQ; HyuB; N-methylhydantoinase B/oxoprolinase/acetone carboxylase, alpha subunit	COG1540	E; PxpA; 5-oxoprolinase subunit A
+COG	Genome size	0.0222739192037825	11	COG2022	H; ThiG; Thiazole synthase ThiGH, ThiG subunit (thiamin biosynthesis)	COG3201	H; PnuC; Nicotinamide riboside transporter PnuC
+COG	Genome size	0.0220565662848135	8	COG0288	P; CynT; Carbonic anhydrase	COG0559	E; LivH; Branched-chain amino acid ABC-type transport system, permease component
+COG	Genome size	0.0210549767844955	8	COG0288	P; CynT; Carbonic anhydrase	COG0410	E; LivF; ABC-type branched-chain amino acid transport system, ATPase component LivF
+COG	Genome size	0.0195640608136496	8	COG2104	H; ThiS; Sulfur carrier protein ThiS (thiamine biosynthesis)	COG3201	H; PnuC; Nicotinamide riboside transporter PnuC
+COG	Genome size	0.0190499913689102	10	COG0145	EQ; HyuA; N-methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit	COG1540	E; PxpA; 5-oxoprolinase subunit A
+COG	Genome size	0.0178388200748128	8	COG1524	T; AtaC; c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily	COG1633	P; YhjR; Rubrerythrin, includes spore coat protein YhjR
+COG	Genome size	0.0168609322800589	10	COG0010	E; SpeB; Arginase/agmatinase family enzyme	COG2957	E; AguA; Agmatine/peptidylarginine deiminase
+COG	Genome size	0.0159068923646192	13	COG0719	O; SufB; Fe-S cluster assembly scaffold protein SufB	COG0822	O; IscU; Fe-S cluster assembly scaffold protein IscU, NifU family
+COG	Genome size	0.0155453772971225	13	COG0396	O; SufC; Fe-S cluster assembly ATPase SufC	COG0822	O; IscU; Fe-S cluster assembly scaffold protein IscU, NifU family
+COG	Genome size	0.0121604612430517	20	COG0692	L; Ung; Uracil-DNA glycosylase	COG1573	L; Udg4; Uracil-DNA glycosylase
+COG	Genome size	0.00581436653523317	8	COG0183	I; PaaJ; Acetyl-CoA acetyltransferase	COG0372	C; GltA; Citrate synthase
+COG	GC percentage	2.75671148192703	8	COG0311	H; PdxT; Pyridoxal 5'-phosphate synthase subunit PdxT (glutamine amidotransferase)	COG4708	FJ; QueT; ECF-type transporter of queuosine precursor, membrane (S) component
+COG	GC percentage	2.62449052638973	8	COG0214	H; PdxS; Pyridoxal 5'-phosphate synthase subunit PdxS	COG4708	FJ; QueT; ECF-type transporter of queuosine precursor, membrane (S) component
+COG	GC percentage	2.42155065764423	28	COG0328	L; RnhA; Ribonuclease HI	COG3341	R; Rnh1; Ribonuclease HI-related protein, contains viroplasmin and RNaseH domains
+COG	GC percentage	1.78630069299699	9	COG1064	G; AdhP; D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	COG2033	C; SORL; Desulfoferrodoxin, superoxide reductase-like (SORL) domain
+COG	GC percentage	1.67052088303836	9	COG0109	HI; CyoE; Polyprenyltransferase (heme O synthase)	COG2033	C; SORL; Desulfoferrodoxin, superoxide reductase-like (SORL) domain
+COG	GC percentage	1.5747817491055	8	COG0708	L; XthA; Exonuclease III	COG2426	S; NA; Uncharacterized membrane protein
+COG	GC percentage	1.5737761337539	8	COG0108	H; RibB; 3,4-dihydroxy-2-butanone 4-phosphate synthase	COG3601	H; FmnP; Riboflavin transporter FmnP
+COG	GC percentage	1.56119186419911	8	COG0054	H; RibE; 6,7-dimethyl-8-ribityllumazine synthase (Riboflavin synthase beta chain)	COG3601	H; FmnP; Riboflavin transporter FmnP
+COG	GC percentage	1.50523683148712	10	COG2235	E; ArcA; Arginine deiminase	COG2848	D; NA; Uncharacterized conserved protein, UPF0210 family
+COG	GC percentage	1.46333901080407	10	COG1034	C; NuoG; NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit (chain G)	COG1726	C; NqrA; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA
+COG	GC percentage	1.4566862276726	8	COG1250	I; FadB; 3-hydroxyacyl-CoA dehydrogenase	COG2033	C; SORL; Desulfoferrodoxin, superoxide reductase-like (SORL) domain
+COG	GC percentage	1.44803411529272	10	COG1034	C; NuoG; NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit (chain G)	COG1347	C; NqrD; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD
+COG	GC percentage	1.44609687256734	10	COG1034	C; NuoG; NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit (chain G)	COG2209	C; NqrE; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE
+COG	GC percentage	1.41062999489245	8	COG1313	R; PflX; Radical SAM superfamily enzyme PflX	COG3253	HP; HemQ; Coproheme decarboxylase/chlorite dismutase
+COG	GC percentage	1.40794589046074	8	COG0838	C; NuoA; NADH:ubiquinone oxidoreductase subunit 3 (chain A)	COG1726	C; NqrA; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA
+COG	GC percentage	1.4004089612962	8	COG0713	C; NuoK; NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	COG1726	C; NqrA; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA
+COG	GC percentage	1.40031934323045	9	COG0838	C; NuoA; NADH:ubiquinone oxidoreductase subunit 3 (chain A)	COG1347	C; NqrD; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD
+COG	GC percentage	1.39844872772501	9	COG0838	C; NuoA; NADH:ubiquinone oxidoreductase subunit 3 (chain A)	COG2209	C; NqrE; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE
+COG	GC percentage	1.39841581395993	8	COG1007	C; NuoN; NADH:ubiquinone oxidoreductase subunit 2 (chain N)	COG1726	C; NqrA; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA
+COG	GC percentage	1.39653306331415	8	COG0839	C; NuoJ; NADH:ubiquinone oxidoreductase subunit 6 (chain J)	COG1726	C; NqrA; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA
+COG	GC percentage	1.39563418732201	8	COG1008	C; NuoM; NADH:ubiquinone oxidoreductase subunit 4 (chain M)	COG1726	C; NqrA; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA
+COG	GC percentage	1.39271497824519	10	COG0713	C; NuoK; NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	COG1347	C; NqrD; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD
+COG	GC percentage	1.3911116648525	9	COG1005	C; NuoH; NADH:ubiquinone oxidoreductase subunit 1 (chain H)	COG1726	C; NqrA; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA
+COG	GC percentage	1.39084499446067	10	COG0713	C; NuoK; NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	COG2209	C; NqrE; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE
+COG	GC percentage	1.39074245891038	9	COG1007	C; NuoN; NADH:ubiquinone oxidoreductase subunit 2 (chain N)	COG1347	C; NqrD; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD
+COG	GC percentage	1.38888064590192	9	COG1007	C; NuoN; NADH:ubiquinone oxidoreductase subunit 2 (chain N)	COG2209	C; NqrE; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE
+COG	GC percentage	1.38872481858262	9	COG0839	C; NuoJ; NADH:ubiquinone oxidoreductase subunit 6 (chain J)	COG1347	C; NqrD; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD
+COG	GC percentage	1.38809781487341	9	COG1008	C; NuoM; NADH:ubiquinone oxidoreductase subunit 4 (chain M)	COG1347	C; NqrD; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD
+COG	GC percentage	1.3868414618746	9	COG0839	C; NuoJ; NADH:ubiquinone oxidoreductase subunit 6 (chain J)	COG2209	C; NqrE; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE
+COG	GC percentage	1.38619284808987	8	COG1008	C; NuoM; NADH:ubiquinone oxidoreductase subunit 4 (chain M)	COG2209	C; NqrE; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE
+COG	GC percentage	1.38352714591736	10	COG1005	C; NuoH; NADH:ubiquinone oxidoreductase subunit 1 (chain H)	COG1347	C; NqrD; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD
+COG	GC percentage	1.38168724831775	10	COG1005	C; NuoH; NADH:ubiquinone oxidoreductase subunit 1 (chain H)	COG2209	C; NqrE; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE
+COG	GC percentage	1.37857394273884	8	COG0377	C; NuoB; NADH:ubiquinone oxidoreductase 20 kD subunit (chain B) or related Fe-S oxidoreductase	COG1726	C; NqrA; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA
+COG	GC percentage	1.3755523091194	8	COG0649	C; NuoD; NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	COG1726	C; NqrA; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA
+COG	GC percentage	1.36970970017844	10	COG0377	C; NuoB; NADH:ubiquinone oxidoreductase 20 kD subunit (chain B) or related Fe-S oxidoreductase	COG1347	C; NqrD; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD
+COG	GC percentage	1.36871835770036	29	COG1274	C; PepCK; Phosphoenolpyruvate carboxykinase, GTP-dependent	COG1866	C; PckA; Phosphoenolpyruvate carboxykinase, ATP-dependent
+COG	GC percentage	1.36793087510795	9	COG0377	C; NuoB; NADH:ubiquinone oxidoreductase 20 kD subunit (chain B) or related Fe-S oxidoreductase	COG2209	C; NqrE; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE
+COG	GC percentage	1.36665898749452	9	COG0649	C; NuoD; NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	COG1347	C; NqrD; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD
+COG	GC percentage	1.36488667611693	9	COG0649	C; NuoD; NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	COG2209	C; NqrE; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE
+COG	GC percentage	1.28994886110711	9	COG1034	C; NuoG; NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit (chain G)	COG2869	C; NqrC; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC
+COG	GC percentage	1.26597880567168	8	COG2733	S; YjiN; Uncharacterized membrane-anchored protein YjiN, DUF445 family	COG4399	S; YheB; Uncharacterized membrane protein YheB, UPF0754 family
+COG	GC percentage	1.24969337044984	16	COG1585	O; YbbJ; Membrane protein implicated in regulation of membrane protease activity	COG4864	S; YqfA; Uncharacterized conserved protein YqfA, UPF0365 family
+COG	GC percentage	1.24556717379282	9	COG0838	C; NuoA; NADH:ubiquinone oxidoreductase subunit 3 (chain A)	COG2869	C; NqrC; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC
+COG	GC percentage	1.23885424262174	9	COG0713	C; NuoK; NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	COG2869	C; NqrC; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC
+COG	GC percentage	1.23679505426919	9	COG1007	C; NuoN; NADH:ubiquinone oxidoreductase subunit 2 (chain N)	COG2869	C; NqrC; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC
+COG	GC percentage	1.23420067295829	8	COG1008	C; NuoM; NADH:ubiquinone oxidoreductase subunit 4 (chain M)	COG2869	C; NqrC; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC
+COG	GC percentage	1.2341230894237	9	COG0839	C; NuoJ; NADH:ubiquinone oxidoreductase subunit 6 (chain J)	COG2869	C; NqrC; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC
+COG	GC percentage	1.22986984853912	8	COG1005	C; NuoH; NADH:ubiquinone oxidoreductase subunit 1 (chain H)	COG2869	C; NqrC; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC
+COG	GC percentage	1.21694356769481	8	COG0377	C; NuoB; NADH:ubiquinone oxidoreductase 20 kD subunit (chain B) or related Fe-S oxidoreductase	COG2869	C; NqrC; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC
+COG	GC percentage	1.21414503510492	8	COG0649	C; NuoD; NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	COG2869	C; NqrC; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC
+COG	GC percentage	1.16326329009946	9	COG1607	I; YciA; Acyl-CoA hydrolase	COG2033	C; SORL; Desulfoferrodoxin, superoxide reductase-like (SORL) domain
+COG	GC percentage	1.15109770726317	13	COG1738	J; YhhQ; Queuosine precursor transporter YhhQ, DUF165 family	COG4708	FJ; QueT; ECF-type transporter of queuosine precursor, membrane (S) component
+COG	GC percentage	1.13691653687672	13	COG0788	F; PurU; Formyltetrahydrofolate hydrolase	COG2848	D; NA; Uncharacterized conserved protein, UPF0210 family
+COG	GC percentage	1.12392238841242	8	COG0122	L; AlkA; 3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase	COG2848	D; NA; Uncharacterized conserved protein, UPF0210 family
+COG	GC percentage	1.09124804254306	14	COG0605	P; SodA; Superoxide dismutase	COG2033	C; SORL; Desulfoferrodoxin, superoxide reductase-like (SORL) domain
+COG	GC percentage	1.09105493959925	15	COG0573	P; PstC; ABC-type phosphate transport system, permease component	COG4985	P; PstA; ABC-type phosphate transport system, auxiliary component PstA
+COG	GC percentage	1.07888094567867	8	COG0109	HI; CyoE; Polyprenyltransferase (heme O synthase)	COG1151	C; Hcp; Hydroxylamine reductase (hybrid-cluster protein)
+COG	GC percentage	1.06958561466594	22	COG0756	FV; Dut; dUTP pyrophosphatase (dUTPase)	COG4508	F; Dut2; Dimeric dUTPase, all-alpha-NTP-PPase (MazG) superfamily
+COG	GC percentage	1.0412874283994	37	COG0717	F; Dcd; dCTP deaminase	COG2131	F; ComEB; Deoxycytidylate deaminase
+COG	GC percentage	0.991181877264726	8	COG1643	J; HrpA; HrpA-like RNA helicase	COG3225	N; GldG; ABC-type uncharacterized transport system involved in gliding motility, auxiliary component
+COG	GC percentage	0.962137630979004	11	COG0311	H; PdxT; Pyridoxal 5'-phosphate synthase subunit PdxT (glutamine amidotransferase)	COG0854	H; PdxJ; Pyridoxine 5'-phosphate synthase PdxJ
+COG	GC percentage	0.954443578269802	8	COG0370	P; FeoB; Fe2+ transporter FeoB	COG0435	C; ECM4; Glutathionyl-hydroquinone reductase
+COG	GC percentage	0.943212858187423	10	COG1119	P; ModF; ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	COG2607	R; Atu1564; Predicted ATPase, AAA+ superfamily
+COG	GC percentage	0.940078392691421	16	COG0573	P; PstC; ABC-type phosphate transport system, permease component	COG4590	R; NA; ABC-type uncharacterized transport system, permease component
+COG	GC percentage	0.931053005428014	10	COG0370	P; FeoB; Fe2+ transporter FeoB	COG3253	HP; HemQ; Coproheme decarboxylase/chlorite dismutase
+COG	GC percentage	0.927196596650365	11	COG2887	L; Slr0479; RecB family exonuclease	COG3857	L; AddB; ATP-dependent helicase/DNAse subunit B
+COG	GC percentage	0.923573316584187	9	COG1509	E; EpmB; L-lysine 2,3-aminomutase (EF-P beta-lysylation pathway)	COG4394	J; EarP; Elongation factor P Arg32-rhamnosyltransferase EarP
+COG	GC percentage	0.923121049176984	9	COG1144	C; PorD; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, delta subunit	COG3253	HP; HemQ; Coproheme decarboxylase/chlorite dismutase
+COG	GC percentage	0.910841616238901	11	COG0214	H; PdxS; Pyridoxal 5'-phosphate synthase subunit PdxS	COG0854	H; PdxJ; Pyridoxine 5'-phosphate synthase PdxJ
+COG	GC percentage	0.903165770326947	14	COG0403	E; GcvP1; Glycine cleavage system protein P (pyridoxal-binding), N-terminal domain	COG2848	D; NA; Uncharacterized conserved protein, UPF0210 family
+COG	GC percentage	0.902854719091096	9	COG0045	C; SucC; Succinyl-CoA synthetase, beta subunit	COG2848	D; NA; Uncharacterized conserved protein, UPF0210 family
+COG	GC percentage	0.902048903293024	13	COG1003	E; GcvP2; Glycine cleavage system protein P (pyridoxal-binding), C-terminal domain	COG2848	D; NA; Uncharacterized conserved protein, UPF0210 family
+COG	GC percentage	0.897382055661227	11	COG0404	E; GcvT; Glycine cleavage system protein T (aminomethyltransferase)	COG2848	D; NA; Uncharacterized conserved protein, UPF0210 family
+COG	GC percentage	0.894437587387652	8	COG2010	C; CccA; Cytochrome c, mono- and diheme variants	COG4659	C; RnfG; Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfG subunit
+COG	GC percentage	0.888917832891025	28	COG0221	C; Ppa; Inorganic pyrophosphatase	COG1227	C; PPX1; Inorganic pyrophosphatase/exopolyphosphatase
+COG	GC percentage	0.87904332990595	8	COG0074	C; SucD; Succinyl-CoA synthetase, alpha subunit	COG2848	D; NA; Uncharacterized conserved protein, UPF0210 family
+COG	GC percentage	0.824977267189978	10	COG0259	H; PdxH; Pyridoxine/pyridoxamine 5'-phosphate oxidase	COG0731	J; Tyw1; Wyosine [tRNA(Phe)-imidazoG37] synthetase, radical SAM superfamily
+COG	GC percentage	0.820969158835053	10	COG0509	E; GcvH; Glycine cleavage system protein H (lipoate-binding)	COG2848	D; NA; Uncharacterized conserved protein, UPF0210 family
+COG	GC percentage	0.806064262850406	9	COG0756	FV; Dut; dUTP pyrophosphatase (dUTPase)	COG4696	F; MazG2; NTP pyrophosphatase, MazG superfamily
+COG	GC percentage	0.805321427411214	8	COG1034	C; NuoG; NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit (chain G)	COG1805	C; NqrB; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB
+COG	GC percentage	0.796223763856135	33	COG0588	G; GpmA; Phosphoglycerate mutase (BPG-dependent)	COG0696	G; GpmI; Phosphoglycerate mutase (BPG-independent), AlkP superfamily
+COG	GC percentage	0.791089179868796	8	COG1666	T; YajQ; Cyclic di-GMP-binding protein YajQ, UPF0234 family	COG5505	S; NA; Uncharacterized membrane protein YjcL
+COG	GC percentage	0.788780535617703	8	COG0221	C; Ppa; Inorganic pyrophosphatase	COG2131	F; ComEB; Deoxycytidylate deaminase
+COG	GC percentage	0.781048026876702	19	COG1971	P; MntP; Putative Mn2+ efflux pump MntP	COG2119	R; Gdt1; Putative Ca2+/H+ antiporter, TMEM165/GDT1 family
+COG	GC percentage	0.765982899400883	14	COG0396	O; SufC; Fe-S cluster assembly ATPase SufC	COG2975	O; IscX; Fe-S-cluster formation regulator IscX/YfhJ
+COG	GC percentage	0.763090569285231	14	COG0719	O; SufB; Fe-S cluster assembly scaffold protein SufB	COG2975	O; IscX; Fe-S-cluster formation regulator IscX/YfhJ
+COG	GC percentage	0.757024240070861	17	COG1929	G; GlxK; Glycerate kinase	COG2379	G; GckA; Glycerate-2-kinase
+COG	GC percentage	0.746118511180709	8	COG1622	C; CyoA; Heme/copper-type cytochrome/quinol oxidase, subunit 2	COG1924	I; YjiL; Activator of 2-hydroxyglutaryl-CoA dehydratase (HSP70-class ATPase domain)
+COG	GC percentage	0.744764216453322	8	COG0109	HI; CyoE; Polyprenyltransferase (heme O synthase)	COG1924	I; YjiL; Activator of 2-hydroxyglutaryl-CoA dehydratase (HSP70-class ATPase domain)
+COG	GC percentage	0.744072184013761	8	COG0843	C; CyoB; Heme/copper-type cytochrome/quinol oxidase, subunit 1	COG1924	I; YjiL; Activator of 2-hydroxyglutaryl-CoA dehydratase (HSP70-class ATPase domain)
+COG	GC percentage	0.714785264920096	10	COG1330	L; RecC; Scaffold subunit RecC of the DNA repair enzyme RecBCD (exonuclease V)	COG3857	L; AddB; ATP-dependent helicase/DNAse subunit B
+COG	GC percentage	0.71195465465496	18	COG0611	H; ThiL; Thiamine monophosphate kinase	COG1564	H; ThiN; Thiamine pyrophosphokinase
+COG	GC percentage	0.707198633510421	16	COG1347	C; NqrD; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD	COG3158	P; Kup; K+ uptake protein Kup
+COG	GC percentage	0.707061968333426	16	COG2209	C; NqrE; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE	COG3158	P; Kup; K+ uptake protein Kup
+COG	GC percentage	0.706938420126831	9	COG2033	C; SORL; Desulfoferrodoxin, superoxide reductase-like (SORL) domain	COG2096	H; PduO; Cob(II)alamin adenosyltransferase
+COG	GC percentage	0.706065758339946	16	COG1726	C; NqrA; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA	COG3158	P; Kup; K+ uptake protein Kup
+COG	GC percentage	0.704171786753989	8	COG1333	CO; ResB; Cytochrome c biogenesis protein ResB	COG2386	O; CcmB; ABC-type transport system involved in cytochrome c biogenesis, permease component
+COG	GC percentage	0.700760043143008	15	COG1757	C; NhaC; Na+/H+ antiporter NhaC/MleN	COG3158	P; Kup; K+ uptake protein Kup
+COG	GC percentage	0.699569618135693	16	COG0156	H; BioF; 7-keto-8-aminopelargonate synthetase or related enzyme	COG2848	D; NA; Uncharacterized conserved protein, UPF0210 family
+COG	GC percentage	0.69903616799344	10	COG0396	O; SufC; Fe-S cluster assembly ATPase SufC	COG1965	P; CyaY; Fe-S cluster assembly protein CyaY, frataxin homolog
+COG	GC percentage	0.698922372590958	8	COG1788	I; AtoD; Acyl CoA:acetate/3-ketoacid CoA transferase, alpha subunit	COG1897	E; MetA; Homoserine O-succinyltransferase
+COG	GC percentage	0.697186975152346	30	COG0499	H; SAM1; S-adenosylhomocysteine hydrolase	COG1854	T; LuxS; S-ribosylhomocysteine lyase LuxS, autoinducer biosynthesis
+COG	GC percentage	0.697172539080317	10	COG0719	O; SufB; Fe-S cluster assembly scaffold protein SufB	COG1965	P; CyaY; Fe-S cluster assembly protein CyaY, frataxin homolog
+COG	GC percentage	0.691930912031727	10	COG3162	S; YjcH; Uncharacterized membrane protein, DUF485 family	COG4327	S; NA; Uncharacterized membrane protein, DUF4212 domain
+COG	GC percentage	0.683168455288097	8	COG1071	C; AcoA; TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	COG1924	I; YjiL; Activator of 2-hydroxyglutaryl-CoA dehydratase (HSP70-class ATPase domain)
+COG	GC percentage	0.682318654371994	8	COG0022	C; AcoB; Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit	COG1924	I; YjiL; Activator of 2-hydroxyglutaryl-CoA dehydratase (HSP70-class ATPase domain)
+COG	GC percentage	0.665977111606719	22	COG0743	I; Dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	GC percentage	0.665177089495305	17	COG2869	C; NqrC; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC	COG3158	P; Kup; K+ uptake protein Kup
+COG	GC percentage	0.664869186822596	8	COG0551	L; YrdD; DNA topoisomerase I, ssDNA-binding Zn-finger and Zn-ribbon domains	COG2138	H; SirB; Sirohydrochlorin ferrochelatase
+COG	GC percentage	0.663097671124337	8	COG2138	H; SirB; Sirohydrochlorin ferrochelatase	COG3634	V; AhpF; Alkyl hydroperoxide reductase subunit AhpF
+COG	GC percentage	0.661714910933735	22	COG0761	I; IspH; 4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	GC percentage	0.658184873569673	22	COG0821	I; IspG; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	GC percentage	0.657439215976269	22	COG0245	I; IspF; 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	GC percentage	0.654715951652265	8	COG1333	CO; ResB; Cytochrome c biogenesis protein ResB	COG2332	CO; CcmE; Cytochrome c biogenesis protein CcmE
+COG	GC percentage	0.646709953734881	9	COG0330	O; HflC; Regulator of protease activity HflC, stomatin/prohibitin superfamily	COG4864	S; YqfA; Uncharacterized conserved protein YqfA, UPF0365 family
+COG	GC percentage	0.645902282076162	10	COG2103	M; MurQ; N-acetylmuramic acid 6-phosphate (MurNAc-6-P) etherase	COG3178	R; NA; Predicted phosphotransferase, aminoglycoside/choline kinase (APH/ChoK) family
+COG	GC percentage	0.635409338990744	8	COG0083	E; ThrB; Homoserine kinase	COG5016	C; OadA1; Pyruvate/oxaloacetate carboxyltransferase
+COG	GC percentage	0.635310985810921	11	COG1636	J; QueH; Epoxyqueuosine reductase QueH (tRNA modification)	COG2185	I; Sbm; Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)
+COG	GC percentage	0.627641298833483	15	COG1211	I; IspD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	GC percentage	0.626913275906673	8	COG1071	C; AcoA; TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	COG4868	S; NA; Uncharacterized conserved protein, UPF0371 family
+COG	GC percentage	0.626286821425235	8	COG0022	C; AcoB; Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit	COG4868	S; NA; Uncharacterized conserved protein, UPF0371 family
+COG	GC percentage	0.624032296308032	8	COG1912	HV; NA; Stereoselective (R,S)-S-adenosylmethionine hydrolase (adenosine-forming)	COG2301	G; CitE; Citrate lyase beta subunit
+COG	GC percentage	0.622353639180826	12	COG1947	I; IspE; 4-diphosphocytidyl-2C-methyl-D-erythritol kinase	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	GC percentage	0.622063973812187	8	COG1180	O; PflA; Pyruvate-formate lyase-activating enzyme	COG2124	QV; CypX; Cytochrome P450
+COG	GC percentage	0.618270109549469	8	COG0843	C; CyoB; Heme/copper-type cytochrome/quinol oxidase, subunit 1	COG5016	C; OadA1; Pyruvate/oxaloacetate carboxyltransferase
+COG	GC percentage	0.618020946528621	10	COG0109	HI; CyoE; Polyprenyltransferase (heme O synthase)	COG5016	C; OadA1; Pyruvate/oxaloacetate carboxyltransferase
+COG	GC percentage	0.617676217284686	9	COG0838	C; NuoA; NADH:ubiquinone oxidoreductase subunit 3 (chain A)	COG5016	C; OadA1; Pyruvate/oxaloacetate carboxyltransferase
+COG	GC percentage	0.614015956273901	11	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family	COG2060	P; KdpA; K+-transporting ATPase, KdpA subunit
+COG	GC percentage	0.613479173106657	8	COG1145	C; NapF; Ferredoxin	COG1547	S; YpuF; Predicted metal-dependent hydrolase
+COG	GC percentage	0.612512729327917	15	COG1805	C; NqrB; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB	COG3158	P; Kup; K+ uptake protein Kup
+COG	GC percentage	0.609791579519534	10	COG0420	L; SbcD; DNA repair exonuclease SbcCD nuclease subunit	COG4487	S; NA; Uncharacterized conserved protein, contains DUF2130 domain
+COG	GC percentage	0.608406197033283	10	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family	COG2216	P; KdpB; K+ transport ATPase, ATPase subunit KdpB
+COG	GC percentage	0.604535914990214	11	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family	COG2156	P; KdpC; K+-transporting ATPase, KdpC subunit
+COG	GC percentage	0.598316553041378	8	COG0847	L; DnaQ; DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	COG4393	S; NA; Uncharacterized membrane protein
+COG	GC percentage	0.591505751961292	10	COG0419	L; SbcC; DNA repair exonuclease SbcCD ATPase subunit	COG4487	S; NA; Uncharacterized conserved protein, contains DUF2130 domain
+COG	GC percentage	0.585842317782757	8	COG0722	E; AroG1; 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase	COG2876	E; AroGA; 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase
+COG	GC percentage	0.583778473924642	8	COG0506	E; PutA; Proline dehydrogenase	COG1433	O; NifX; Predicted Fe-Mo cluster-binding protein, NifX family
+COG	GC percentage	0.582606934001729	17	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family	COG3158	P; Kup; K+ uptake protein Kup
+COG	GC percentage	0.580505897390848	8	COG1144	C; PorD; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, delta subunit	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	GC percentage	0.579551947771845	8	COG1313	R; PflX; Radical SAM superfamily enzyme PflX	COG2259	S; DoxX; Uncharacterized membrane protein YphA, DoxX/SURF4 family
+COG	GC percentage	0.579468691600637	8	COG0370	P; FeoB; Fe2+ transporter FeoB	COG4797	R; NA; Predicted regulatory domain of a methyltransferase
+COG	GC percentage	0.57616120382721	11	COG1636	J; QueH; Epoxyqueuosine reductase QueH (tRNA modification)	COG2096	H; PduO; Cob(II)alamin adenosyltransferase
+COG	GC percentage	0.575057707087193	12	COG0370	P; FeoB; Fe2+ transporter FeoB	COG2301	G; CitE; Citrate lyase beta subunit
+COG	GC percentage	0.574649542213495	8	COG1924	I; YjiL; Activator of 2-hydroxyglutaryl-CoA dehydratase (HSP70-class ATPase domain)	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	GC percentage	0.572198806300945	8	COG0843	C; CyoB; Heme/copper-type cytochrome/quinol oxidase, subunit 1	COG1433	O; NifX; Predicted Fe-Mo cluster-binding protein, NifX family
+COG	GC percentage	0.563179080733362	12	COG1154	HI; Dxs; Deoxyxylulose-5-phosphate synthase	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	GC percentage	0.558714580875973	8	COG0370	P; FeoB; Fe2+ transporter FeoB	COG3470	MI; Tpd; Uncharacterized conserved protein probably involved in high-affinity Fe2+ transport
+COG	GC percentage	0.557372489384447	12	COG1577	I; ERG12; Mevalonate kinase	COG1947	I; IspE; 4-diphosphocytidyl-2C-methyl-D-erythritol kinase
+COG	GC percentage	0.553343784300127	18	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family	COG2426	S; NA; Uncharacterized membrane protein
+COG	GC percentage	0.552811171499724	8	COG0847	L; DnaQ; DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	COG3470	MI; Tpd; Uncharacterized conserved protein probably involved in high-affinity Fe2+ transport
+COG	GC percentage	0.549891040560521	11	COG0665	E; DadA; Glycine/D-amino acid oxidase (deaminating)	COG1924	I; YjiL; Activator of 2-hydroxyglutaryl-CoA dehydratase (HSP70-class ATPase domain)
+COG	GC percentage	0.542870431549448	9	COG1144	C; PorD; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, delta subunit	COG2124	QV; CypX; Cytochrome P450
+COG	GC percentage	0.53974264286519	33	COG1190	J; LysU; Lysyl-tRNA synthetase (class II)	COG1384	J; LysS; Lysyl-tRNA synthetase, class I
+COG	GC percentage	0.539256526922159	9	COG0370	P; FeoB; Fe2+ transporter FeoB	COG1290	C; QcrB/PetB; Cytochrome b subunit of the bc complex
+COG	GC percentage	0.535769330673226	8	COG0756	FV; Dut; dUTP pyrophosphatase (dUTPase)	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	GC percentage	0.534578148938458	22	COG0743	I; Dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase	COG1577	I; ERG12; Mevalonate kinase
+COG	GC percentage	0.531061727644641	22	COG0761	I; IspH; 4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH	COG1577	I; ERG12; Mevalonate kinase
+COG	GC percentage	0.529547362114858	9	COG1433	O; NifX; Predicted Fe-Mo cluster-binding protein, NifX family	COG2154	H; PhhB; Pterin-4a-carbinolamine dehydratase
+COG	GC percentage	0.528549002135302	9	COG0530	P; ECM27; Ca2+/Na+ antiporter	COG3162	S; YjcH; Uncharacterized membrane protein, DUF485 family
+COG	GC percentage	0.526981377463568	22	COG0245	I; IspF; 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	COG1577	I; ERG12; Mevalonate kinase
+COG	GC percentage	0.526944117526622	22	COG0821	I; IspG; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE	COG1577	I; ERG12; Mevalonate kinase
+COG	GC percentage	0.522162445166284	8	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family	COG2109	H; BtuR; ATP:corrinoid adenosyltransferase
+COG	GC percentage	0.521576055309794	9	COG0316	O; IscA; Fe-S cluster assembly iron-binding protein IscA	COG1433	O; NifX; Predicted Fe-Mo cluster-binding protein, NifX family
+COG	GC percentage	0.518725924261165	8	COG3166	NW; PilN; Type IV pilus assembly protein PilN	COG3872	S; YqhQ; Uncharacterized conserved protein YqhQ, DUF1385 family
+COG	GC percentage	0.517925096167835	8	COG1433	O; NifX; Predicted Fe-Mo cluster-binding protein, NifX family	COG1612	H; CtaA; Heme A synthase
+COG	GC percentage	0.514120094466948	18	COG0423	J; GRS1; Glycyl-tRNA synthetase, class II	COG0751	J; GlyS; Glycyl-tRNA synthetase, beta subunit
+COG	GC percentage	0.513914777453644	10	COG0370	P; FeoB; Fe2+ transporter FeoB	COG0672	P; FTR1; High-affinity Fe2+/Pb2+ permease
+COG	GC percentage	0.511058273615133	9	COG0621	J; MiaB; tRNA A37 methylthiotransferase MiaB	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	GC percentage	0.503593434598139	8	COG1290	C; QcrB/PetB; Cytochrome b subunit of the bc complex	COG1918	P; FeoA; Fe2+ transport protein FeoA
+COG	GC percentage	0.499649619902703	15	COG1211	I; IspD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	COG1577	I; ERG12; Mevalonate kinase
+COG	GC percentage	0.492557112306504	8	COG0648	L; Nfo; Endonuclease IV	COG1054	J; TrhO; tRNA U34 5'-hydroxylase TrhO, rhodanese family
+COG	GC percentage	0.489166514594999	8	COG0301	HJ; ThiI; Adenylyl- and sulfurtransferase ThiI (thiamine and tRNA 4-thiouridine biosynthesis)	COG2987	E; HutU; Urocanate hydratase
+COG	GC percentage	0.487499092795556	10	COG2269	J; EpmA; Elongation factor P--beta-lysine ligase (EF-P beta-lysylation pathway)	COG4394	J; EarP; Elongation factor P Arg32-rhamnosyltransferase EarP
+COG	GC percentage	0.487122505522868	18	COG0423	J; GRS1; Glycyl-tRNA synthetase, class II	COG0752	J; GlyQ; Glycyl-tRNA synthetase, alpha subunit
+COG	GC percentage	0.485808201410717	12	COG0783	PV; Dps; DNA-binding ferritin-like protein (oxidative damage protectant)	COG1433	O; NifX; Predicted Fe-Mo cluster-binding protein, NifX family
+COG	GC percentage	0.485036995862023	9	COG0756	FV; Dut; dUTP pyrophosphatase (dUTPase)	COG1428	F; Dck; Deoxyadenosine/deoxycytidine kinase
+COG	GC percentage	0.479869236595554	16	COG0551	L; YrdD; DNA topoisomerase I, ssDNA-binding Zn-finger and Zn-ribbon domains	COG1754	S; NA; Uncharacterized C-terminal domain of topoisomerase IA
+COG	GC percentage	0.478277240115032	8	COG1897	E; MetA; Homoserine O-succinyltransferase	COG2057	I; AtoA; Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit
+COG	GC percentage	0.476840152608143	11	COG0109	HI; CyoE; Polyprenyltransferase (heme O synthase)	COG2768	S; NA; Uncharacterized Fe-S cluster protein
+COG	GC percentage	0.472765069574127	11	COG1916	S; NA; Pheromone shutdown protein TraB, contains GTxH motif (function unknown)	COG3872	S; YqhQ; Uncharacterized conserved protein YqhQ, DUF1385 family
+COG	GC percentage	0.471938919876401	22	COG1897	E; MetA; Homoserine O-succinyltransferase	COG2021	E; MET2; Homoserine O-acetyltransferase
+COG	GC percentage	0.465949322471158	9	COG1324	P; CutA1; Divalent cation tolerance protein CutA	COG3323	S; YqfO; PII-like insert in the uncharacterized protein YqfO, YbgI/NIF3 family
+COG	GC percentage	0.46543930228848	8	COG0838	C; NuoA; NADH:ubiquinone oxidoreductase subunit 3 (chain A)	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family
+COG	GC percentage	0.461462542668783	8	COG1048	C; AcnA; Aconitase A	COG5016	C; OadA1; Pyruvate/oxaloacetate carboxyltransferase
+COG	GC percentage	0.461330124248906	9	COG0213	F; DeoA; Thymidine phosphorylase	COG2820	F; Udp; Uridine phosphorylase
+COG	GC percentage	0.460535349547361	9	COG1180	O; PflA; Pyruvate-formate lyase-activating enzyme	COG1398	I; OLE1; Fatty-acid desaturase
+COG	GC percentage	0.45852004596206	8	COG1005	C; NuoH; NADH:ubiquinone oxidoreductase subunit 1 (chain H)	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family
+COG	GC percentage	0.451750955896771	9	COG0377	C; NuoB; NADH:ubiquinone oxidoreductase 20 kD subunit (chain B) or related Fe-S oxidoreductase	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family
+COG	GC percentage	0.451704268414424	9	COG1951	C; TtdA; Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain	COG3253	HP; HemQ; Coproheme decarboxylase/chlorite dismutase
+COG	GC percentage	0.451147837899789	9	COG1838	C; FumA; Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain	COG3253	HP; HemQ; Coproheme decarboxylase/chlorite dismutase
+COG	GC percentage	0.450335484468088	9	COG0649	C; NuoD; NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family
+COG	GC percentage	0.446712642878491	8	COG1274	C; PepCK; Phosphoenolpyruvate carboxykinase, GTP-dependent	COG1760	E; SdaA; L-serine deaminase
+COG	GC percentage	0.444612516721714	8	COG1138	CO; CcmF; Cytochrome c biogenesis protein CcmF	COG1333	CO; ResB; Cytochrome c biogenesis protein ResB
+COG	GC percentage	0.444101815178392	16	COG1605	E; PheA; Chorismate mutase	COG4401	E; AroH; Chorismate mutase AroH
+COG	GC percentage	0.443553606938654	12	COG1154	HI; Dxs; Deoxyxylulose-5-phosphate synthase	COG1577	I; ERG12; Mevalonate kinase
+COG	GC percentage	0.442867367942403	8	COG1592	C; YotD; Rubrerythrin	COG1612	H; CtaA; Heme A synthase
+COG	GC percentage	0.439283287453147	11	COG0212	H; FAU1; 5-formyltetrahydrofolate cyclo-ligase	COG3643	E; GluFT; Glutamate formiminotransferase
+COG	GC percentage	0.432856899277755	9	COG0852	C; NuoC; NADH:ubiquinone oxidoreductase 27 kD subunit (chain C)	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family
+COG	GC percentage	0.429064936377165	8	COG2166	O; SufE; Sulfur transfer protein SufE, Fe-S cluster assembly	COG2975	O; IscX; Fe-S-cluster formation regulator IscX/YfhJ
+COG	GC percentage	0.425619829659463	9	COG1039	L; RnhC; Ribonuclease HIII	COG3341	R; Rnh1; Ribonuclease HI-related protein, contains viroplasmin and RNaseH domains
+COG	GC percentage	0.422025334325081	8	COG0733	R; YocR; Na+-dependent transporter, SNF family	COG1716	T; FHA; Forkhead associated (FHA) domain, binds pSer, pThr, pTyr
+COG	GC percentage	0.416776476303214	8	COG0189	EHJQ; LysX; Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	COG4536	P; CorB; Mg2+ and Co2+ transporter CorB, contains DUF21, CBS pair, and CorC-HlyC domains
+COG	GC percentage	0.414457586590905	10	COG0733	R; YocR; Na+-dependent transporter, SNF family	COG3158	P; Kup; K+ uptake protein Kup
+COG	GC percentage	0.414117422144486	8	COG0114	C; FumC; Fumarate hydratase class II	COG2385	M; SpoIID; Peptidoglycan hydrolase (amidase) enhancer domain SpoIID
+COG	GC percentage	0.413701841811219	8	COG0426	C; NorV; Flavorubredoxin	COG1612	H; CtaA; Heme A synthase
+COG	GC percentage	0.412681527772539	8	COG1433	O; NifX; Predicted Fe-Mo cluster-binding protein, NifX family	COG1622	C; CyoA; Heme/copper-type cytochrome/quinol oxidase, subunit 2
+COG	GC percentage	0.408501317396983	8	COG0733	R; YocR; Na+-dependent transporter, SNF family	COG1814	P; Ccc1; Predicted Fe2+/Mn2+ transporter, VIT1/CCC1 family
+COG	GC percentage	0.404726487110903	8	COG1328	F; NrdD; Anaerobic ribonucleoside-triphosphate reductase	COG2146	PQ; NirD; Ferredoxin subunit of nitrite reductase or a ring-hydroxylating dioxygenase
+COG	GC percentage	0.404214013214047	9	COG1489	GT; SfsA; DNA-binding protein, stimulates sugar fermentation	COG3663	L; Mug; G:T/U-mismatch repair DNA glycosylase
+COG	GC percentage	0.401418242300712	8	COG0396	O; SufC; Fe-S cluster assembly ATPase SufC	COG0551	L; YrdD; DNA topoisomerase I, ssDNA-binding Zn-finger and Zn-ribbon domains
+COG	GC percentage	0.399839345629442	9	COG1523	G; PulA; Pullulanase/glycogen debranching enzyme	COG1664	Z; CcmA; Cytoskeletal protein CcmA, bactofilin family
+COG	GC percentage	0.399197279133017	11	COG0411	E; LivG; ABC-type branched-chain amino acid transport system, ATPase component LivG	COG0733	R; YocR; Na+-dependent transporter, SNF family
+COG	GC percentage	0.397101466036012	8	COG2096	H; PduO; Cob(II)alamin adenosyltransferase	COG2768	S; NA; Uncharacterized Fe-S cluster protein
+COG	GC percentage	0.396254122431756	9	COG0783	PV; Dps; DNA-binding ferritin-like protein (oxidative damage protectant)	COG2768	S; NA; Uncharacterized Fe-S cluster protein
+COG	GC percentage	0.392697515824668	9	COG0621	J; MiaB; tRNA A37 methylthiotransferase MiaB	COG1577	I; ERG12; Mevalonate kinase
+COG	GC percentage	0.392472469374068	8	COG0109	HI; CyoE; Polyprenyltransferase (heme O synthase)	COG0370	P; FeoB; Fe2+ transporter FeoB
+COG	GC percentage	0.387203783462529	10	COG0370	P; FeoB; Fe2+ transporter FeoB	COG1178	P; FbpB; ABC-type Fe3+ transport system, permease component
+COG	GC percentage	0.385210193020235	8	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family	COG2813	J; RsmC; 16S rRNA G1207 methylase RsmC
+COG	GC percentage	0.382560848938711	9	COG1330	L; RecC; Scaffold subunit RecC of the DNA repair enzyme RecBCD (exonuclease V)	COG3893	L; NA; Inactivated superfamily I helicase
+COG	GC percentage	0.373713584639898	8	COG1027	E; AspA; Aspartate ammonia-lyase	COG3216	S; NA; Uncharacterized conserved protein, DUF2062 family
+COG	GC percentage	0.373400552290556	9	COG0370	P; FeoB; Fe2+ transporter FeoB	COG3407	I; MVD1; Mevalonate pyrophosphate decarboxylase
+COG	GC percentage	0.371259060899004	9	COG1180	O; PflA; Pyruvate-formate lyase-activating enzyme	COG2346	P; YjbI; Truncated hemoglobin YjbI
+COG	GC percentage	0.370211626360807	10	COG0109	HI; CyoE; Polyprenyltransferase (heme O synthase)	COG1328	F; NrdD; Anaerobic ribonucleoside-triphosphate reductase
+COG	GC percentage	0.36837137490419	8	COG0803	P; ZnuA; ABC-type Zn uptake system ZnuABC, Zn-binding component ZnuA	COG4299	R; NA; Predicted acyltransferase, DUF1624 domain
+COG	GC percentage	0.365646156025984	11	COG0530	P; ECM27; Ca2+/Na+ antiporter	COG1613	P; Sbp; ABC-type sulfate transport system, periplasmic component
+COG	GC percentage	0.365281374694718	8	COG0396	O; SufC; Fe-S cluster assembly ATPase SufC	COG1076	O; DjlA; DnaJ domain-containing protein
+COG	GC percentage	0.364634298356885	8	COG2013	C; AIM24; AIM24 protein, required for mitochondrial respiration	COG3090	G; DctM; TRAP-type C4-dicarboxylate transport system, small permease component YiaM
+COG	GC percentage	0.364111595535461	8	COG0719	O; SufB; Fe-S cluster assembly scaffold protein SufB	COG1076	O; DjlA; DnaJ domain-containing protein
+COG	GC percentage	0.362771724855592	9	COG1178	P; FbpB; ABC-type Fe3+ transport system, permease component	COG1918	P; FeoA; Fe2+ transport protein FeoA
+COG	GC percentage	0.362655307953128	8	COG0504	F; PyrG; CTP synthase (UTP-ammonia lyase)	COG4868	S; NA; Uncharacterized conserved protein, UPF0371 family
+COG	GC percentage	0.361071438369755	24	COG1600	J; QueG; Epoxyqueuosine reductase QueG (queuosine biosynthesis)	COG1636	J; QueH; Epoxyqueuosine reductase QueH (tRNA modification)
+COG	GC percentage	0.359034802812714	9	COG0370	P; FeoB; Fe2+ transporter FeoB	COG0723	C; QcrA/PetC; Rieske Fe-S protein
+COG	GC percentage	0.358355185847392	11	COG0447	H; MenB; 1,4-Dihydroxy-2-naphthoyl-CoA synthase	COG2107	H; MqnD; 1,4-dihydroxy-6-naphtoate synthase (menaquinone biosynthesis, futalosine pathway)
+COG	GC percentage	0.358107611583408	8	COG0370	P; FeoB; Fe2+ transporter FeoB	COG2514	Q; CatE; Catechol-2,3-dioxygenase
+COG	GC percentage	0.356202475418291	8	COG0259	H; PdxH; Pyridoxine/pyridoxamine 5'-phosphate oxidase	COG1180	O; PflA; Pyruvate-formate lyase-activating enzyme
+COG	GC percentage	0.356022639319042	11	COG0447	H; MenB; 1,4-Dihydroxy-2-naphthoyl-CoA synthase	COG1427	H; MqnA; Chorismate dehydratase (menaquinone biosynthesis, futalosine pathway)
+COG	GC percentage	0.355195141277614	8	COG0517	T; CBS; CBS domain	COG1577	I; ERG12; Mevalonate kinase
+COG	GC percentage	0.354881731649138	8	COG0723	C; QcrA/PetC; Rieske Fe-S protein	COG1918	P; FeoA; Fe2+ transport protein FeoA
+COG	GC percentage	0.354104662289701	24	COG1030	O; NfeD; Membrane-bound serine protease NfeD, ClpP class	COG1585	O; YbbJ; Membrane protein implicated in regulation of membrane protease activity
+COG	GC percentage	0.351994306578915	23	COG0191	G; Fba; Fructose/tagatose bisphosphate aldolase	COG3588	G; Fba1; Fructose-bisphosphate aldolase class 1
+COG	GC percentage	0.351887389190493	8	COG0549	E; ArcC; Carbamate kinase	COG1897	E; MetA; Homoserine O-succinyltransferase
+COG	GC percentage	0.351357707733825	11	COG2871	C; NqrF; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrF	COG3158	P; Kup; K+ uptake protein Kup
+COG	GC percentage	0.351046342826218	9	COG3643	E; GluFT; Glutamate formiminotransferase	COG3830	T; ACT; ACT domain, binds amino acids and other small ligands
+COG	GC percentage	0.345846416950307	8	COG1739	R; YIH1; Putative translation regulator, IMPACT (imprinted ancient) protein family	COG3576	R; NA; Predicted flavin-nucleotide-binding protein, pyridoxine 5'-phosphate oxidase superfamily
+COG	GC percentage	0.34543750288113	9	COG1830	G; FbaB; Fructose-bisphosphate aldolase class Ia, DhnA family	COG3588	G; Fba1; Fructose-bisphosphate aldolase class 1
+COG	GC percentage	0.345121145812396	21	COG2859	M; SIMPL; Outer membrane channel-forming protein BP26/OMP28, SIMPL family	COG4953	M; PbpC; Membrane carboxypeptidase/penicillin-binding protein PbpC
+COG	GC percentage	0.342875238589431	8	COG0843	C; CyoB; Heme/copper-type cytochrome/quinol oxidase, subunit 1	COG1592	C; YotD; Rubrerythrin
+COG	GC percentage	0.341471345324732	11	COG1165	H; MenD; 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase	COG1427	H; MqnA; Chorismate dehydratase (menaquinone biosynthesis, futalosine pathway)
+COG	GC percentage	0.341377627938639	8	COG0109	HI; CyoE; Polyprenyltransferase (heme O synthase)	COG3894	S; NA; Uncharacterized 2Fe-2S and 4Fe-4S clusters-containing protein, contains DUF4445 domain
+COG	GC percentage	0.341351129524741	8	COG0665	E; DadA; Glycine/D-amino acid oxidase (deaminating)	COG2768	S; NA; Uncharacterized Fe-S cluster protein
+COG	GC percentage	0.340888653028503	8	COG3781	P; YneE; Predicted membrane chloride channel, bestrophin family	COG4663	Q; FcbT1; TRAP-type mannitol/chloroaromatic compound transport system, periplasmic component
+COG	GC percentage	0.340568241117185	15	COG1966	CE; CstA; Carbon starvation protein CstA (peptide/pyruvate transporter)	COG4664	Q; FcbT3; TRAP-type mannitol/chloroaromatic compound transport system, large permease component
+COG	GC percentage	0.339652661377877	11	COG1966	CE; CstA; Carbon starvation protein CstA (peptide/pyruvate transporter)	COG4663	Q; FcbT1; TRAP-type mannitol/chloroaromatic compound transport system, periplasmic component
+COG	GC percentage	0.337858058105442	8	COG1748	E; Lys9; Saccharopine dehydrogenase, NADP-dependent	COG1899	OJ; DYS1; Deoxyhypusine synthase
+COG	GC percentage	0.337805280179321	8	COG1592	C; YotD; Rubrerythrin	COG1622	C; CyoA; Heme/copper-type cytochrome/quinol oxidase, subunit 2
+COG	GC percentage	0.337370735428854	13	COG1165	H; MenD; 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase	COG2107	H; MqnD; 1,4-dihydroxy-6-naphtoate synthase (menaquinone biosynthesis, futalosine pathway)
+COG	GC percentage	0.334468124674011	9	COG0674	C; PorA; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, alpha subunit	COG3186	E; PhhA; Phenylalanine-4-hydroxylase
+COG	GC percentage	0.333215704688366	12	COG0530	P; ECM27; Ca2+/Na+ antiporter	COG4208	P; CysW; ABC-type sulfate transport system, permease component
+COG	GC percentage	0.332780706431295	8	COG0618	FT; NrnA; nanoRNase/pAp phosphatase, hydrolyzes c-di-AMP and oligoRNAs	COG0661	HT; AarF; Predicted protein kinase regulating ubiquinone biosynthesis, AarF/ABC1/UbiB family
+COG	GC percentage	0.332249259636488	8	COG0168	P; TrkG; Trk-type K+ transport system, membrane component	COG2060	P; KdpA; K+-transporting ATPase, KdpA subunit
+COG	GC percentage	0.329850478642334	13	COG1169	HQ; MenF; Isochorismate synthase EntC	COG2107	H; MqnD; 1,4-dihydroxy-6-naphtoate synthase (menaquinone biosynthesis, futalosine pathway)
+COG	GC percentage	0.329389181494739	8	COG0311	H; PdxT; Pyridoxal 5'-phosphate synthase subunit PdxT (glutamine amidotransferase)	COG2240	H; PdxK; Pyridoxal/pyridoxine/pyridoxamine kinase
+COG	GC percentage	0.328859590930874	11	COG1169	HQ; MenF; Isochorismate synthase EntC	COG1427	H; MqnA; Chorismate dehydratase (menaquinone biosynthesis, futalosine pathway)
+COG	GC percentage	0.328109100225438	15	COG0788	F; PurU; Formyltetrahydrofolate hydrolase	COG2759	F; MIS1; Formyltetrahydrofolate synthetase
+COG	GC percentage	0.327186424800812	8	COG1013	C; PorB; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, beta subunit	COG3186	E; PhhA; Phenylalanine-4-hydroxylase
+COG	GC percentage	0.327140010726004	8	COG0026	F; PurK; Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)	COG0370	P; FeoB; Fe2+ transporter FeoB
+COG	GC percentage	0.326404902208507	14	COG2947	R; EVE; Predicted RNA-binding protein, contains EVE domain	COG3022	L; YaaA; DNA-binding protein YaaA associated with the oxidative stress response
+COG	GC percentage	0.325796240396356	12	COG1966	CE; CstA; Carbon starvation protein CstA (peptide/pyruvate transporter)	COG4665	Q; FcbT2; TRAP-type mannitol/chloroaromatic compound transport system, small permease component
+COG	GC percentage	0.325328424813999	23	COG0168	P; TrkG; Trk-type K+ transport system, membrane component	COG3158	P; Kup; K+ uptake protein Kup
+COG	GC percentage	0.323062499038177	9	COG0370	P; FeoB; Fe2+ transporter FeoB	COG0843	C; CyoB; Heme/copper-type cytochrome/quinol oxidase, subunit 1
+COG	GC percentage	0.322919792854491	8	COG0370	P; FeoB; Fe2+ transporter FeoB	COG1622	C; CyoA; Heme/copper-type cytochrome/quinol oxidase, subunit 2
+COG	GC percentage	0.322816009026927	8	COG1328	F; NrdD; Anaerobic ribonucleoside-triphosphate reductase	COG1845	C; CyoC; Heme/copper-type cytochrome/quinol oxidase, subunit 3
+COG	GC percentage	0.321203825404298	8	COG0426	C; NorV; Flavorubredoxin	COG1845	C; CyoC; Heme/copper-type cytochrome/quinol oxidase, subunit 3
+COG	GC percentage	0.31749475369538	9	COG1237	R; NA; Metal-dependent hydrolase, beta-lactamase superfamily II	COG1845	C; CyoC; Heme/copper-type cytochrome/quinol oxidase, subunit 3
+COG	GC percentage	0.315462939301872	22	COG0623	I; FabI; Enoyl-[acyl-carrier-protein] reductase FabI	COG3007	I; NA; Trans-2-enoyl-CoA reductase
+COG	GC percentage	0.314888974553291	9	COG0426	C; NorV; Flavorubredoxin	COG1622	C; CyoA; Heme/copper-type cytochrome/quinol oxidase, subunit 2
+COG	GC percentage	0.314813972457151	9	COG0426	C; NorV; Flavorubredoxin	COG0843	C; CyoB; Heme/copper-type cytochrome/quinol oxidase, subunit 1
+COG	GC percentage	0.313276787494398	16	COG0586	M; DedA; Membrane integrity protein DedA, putative transporter, DedA/Tvp38 family	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family
+COG	GC percentage	0.312950393896167	8	COG0214	H; PdxS; Pyridoxal 5'-phosphate synthase subunit PdxS	COG2240	H; PdxK; Pyridoxal/pyridoxine/pyridoxamine kinase
+COG	GC percentage	0.312308104328875	8	COG0370	P; FeoB; Fe2+ transporter FeoB	COG1703	O; ArgK; GTPase of the G3E family (not a periplasmic protein kinase)
+COG	GC percentage	0.310228358195699	29	COG1739	R; YIH1; Putative translation regulator, IMPACT (imprinted ancient) protein family	COG1872	S; YggU; Uncharacterized conserved protein YggU, UPF0235/DUF167 family
+COG	GC percentage	0.309331209087083	8	COG1071	C; AcoA; TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	COG1144	C; PorD; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, delta subunit
+COG	GC percentage	0.308972239572822	8	COG0022	C; AcoB; Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit	COG1144	C; PorD; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, delta subunit
+COG	GC percentage	0.307310810481084	13	COG1257	I; HMG1; Hydroxymethylglutaryl-CoA reductase	COG1947	I; IspE; 4-diphosphocytidyl-2C-methyl-D-erythritol kinase
+COG	GC percentage	0.307307661585397	17	COG0302	H; FolE; GTP cyclohydrolase I	COG1469	H; FolE2; GTP cyclohydrolase FolE2
+COG	GC percentage	0.306688291135775	9	COG0109	HI; CyoE; Polyprenyltransferase (heme O synthase)	COG0426	C; NorV; Flavorubredoxin
+COG	GC percentage	0.306540625609896	15	COG1115	E; AlsT; Na+/alanine symporter	COG3158	P; Kup; K+ uptake protein Kup
+COG	GC percentage	0.302248733119613	8	COG2096	H; PduO; Cob(II)alamin adenosyltransferase	COG3894	S; NA; Uncharacterized 2Fe-2S and 4Fe-4S clusters-containing protein, contains DUF4445 domain
+COG	GC percentage	0.297750036227662	8	COG1024	I; CaiD; Enoyl-CoA hydratase/carnithine racemase	COG3894	S; NA; Uncharacterized 2Fe-2S and 4Fe-4S clusters-containing protein, contains DUF4445 domain
+COG	GC percentage	0.297014378844805	8	COG1250	I; FadB; 3-hydroxyacyl-CoA dehydrogenase	COG3894	S; NA; Uncharacterized 2Fe-2S and 4Fe-4S clusters-containing protein, contains DUF4445 domain
+COG	GC percentage	0.296087811617581	8	COG0045	C; SucC; Succinyl-CoA synthetase, beta subunit	COG3894	S; NA; Uncharacterized 2Fe-2S and 4Fe-4S clusters-containing protein, contains DUF4445 domain
+COG	GC percentage	0.293823979164159	16	COG1072	H; CoaA; Panthothenate kinase	COG1521	H; CoaX; Pantothenate kinase type III
+COG	GC percentage	0.292720009898774	11	COG0431	C; SsuE; NAD(P)H-dependent FMN reductase	COG1144	C; PorD; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, delta subunit
+COG	GC percentage	0.291664705229909	9	COG1607	I; YciA; Acyl-CoA hydrolase	COG2768	S; NA; Uncharacterized Fe-S cluster protein
+COG	GC percentage	0.290829226615057	9	COG0074	C; SucD; Succinyl-CoA synthetase, alpha subunit	COG3894	S; NA; Uncharacterized 2Fe-2S and 4Fe-4S clusters-containing protein, contains DUF4445 domain
+COG	GC percentage	0.28985677486637	23	COG0743	I; Dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase	COG1257	I; HMG1; Hydroxymethylglutaryl-CoA reductase
+COG	GC percentage	0.287676241156127	8	COG0026	F; PurK; Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)	COG1144	C; PorD; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, delta subunit
+COG	GC percentage	0.285488171825834	8	COG1115	E; AlsT; Na+/alanine symporter	COG2094	L; Mpg; 3-methyladenine DNA glycosylase Mpg
+COG	GC percentage	0.283747524233649	10	COG1328	F; NrdD; Anaerobic ribonucleoside-triphosphate reductase	COG2010	C; CccA; Cytochrome c, mono- and diheme variants
+COG	GC percentage	0.283273938864852	23	COG0761	I; IspH; 4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH	COG1257	I; HMG1; Hydroxymethylglutaryl-CoA reductase
+COG	GC percentage	0.28235252735377	38	COG0710	E; AroD; 3-dehydroquinate dehydratase	COG0757	E; AroQ; 3-dehydroquinate dehydratase
+COG	GC percentage	0.280959089086375	23	COG0821	I; IspG; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE	COG1257	I; HMG1; Hydroxymethylglutaryl-CoA reductase
+COG	GC percentage	0.280386337174606	23	COG0245	I; IspF; 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	COG1257	I; HMG1; Hydroxymethylglutaryl-CoA reductase
+COG	GC percentage	0.280299526736039	9	COG0306	P; PitA; Phosphate/sulfate permease	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family
+COG	GC percentage	0.278927691405639	8	COG0411	E; LivG; ABC-type branched-chain amino acid transport system, ATPase component LivG	COG1115	E; AlsT; Na+/alanine symporter
+COG	GC percentage	0.277936620432156	11	COG0120	G; RpiA; Ribose 5-phosphate isomerase	COG0698	G; RpiB; Ribose 5-phosphate isomerase RpiB
+COG	GC percentage	0.274628453257615	9	COG1838	C; FumA; Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family
+COG	GC percentage	0.274448718492184	9	COG3186	E; PhhA; Phenylalanine-4-hydroxylase	COG3460	Q; PaaB; 1,2-phenylacetyl-CoA epoxidase, PaaB subunit
+COG	GC percentage	0.273192901463119	9	COG1951	C; TtdA; Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family
+COG	GC percentage	0.272737548690596	9	COG0819	H; TenA; Aminopyrimidine aminohydrolase TenA (thiamine salvage pathway)	COG1144	C; PorD; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, delta subunit
+COG	GC percentage	0.270928623139191	8	COG1055	P; ArsB; Na+/H+ antiporter NhaD or related arsenite permease	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family
+COG	GC percentage	0.268405504881491	9	COG0530	P; ECM27; Ca2+/Na+ antiporter	COG0555	P; CysU; ABC-type sulfate transport system, permease component
+COG	GC percentage	0.265022800641894	11	COG0783	PV; Dps; DNA-binding ferritin-like protein (oxidative damage protectant)	COG1145	C; NapF; Ferredoxin
+COG	GC percentage	0.26477454596031	8	COG0627	V; FrmB; S-formylglutathione hydrolase FrmB	COG1145	C; NapF; Ferredoxin
+COG	GC percentage	0.263342830506861	17	COG1575	H; MenA; 1,4-dihydroxy-2-naphthoate polyprenyltransferase	COG2107	H; MqnD; 1,4-dihydroxy-6-naphtoate synthase (menaquinone biosynthesis, futalosine pathway)
+COG	GC percentage	0.262153749474368	15	COG1211	I; IspD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	COG1257	I; HMG1; Hydroxymethylglutaryl-CoA reductase
+COG	GC percentage	0.26024125581572	10	COG0372	C; GltA; Citrate synthase	COG1288	R; YfcC; Predicted membrane transporter YfcC, affects glyoxylate shunt
+COG	GC percentage	0.25952367984441	8	COG2928	S; NA; Uncharacterized membrane protein	COG3590	O; PepO; Predicted metalloendopeptidase
+COG	GC percentage	0.258851745335134	8	COG0551	L; YrdD; DNA topoisomerase I, ssDNA-binding Zn-finger and Zn-ribbon domains	COG0719	O; SufB; Fe-S cluster assembly scaffold protein SufB
+COG	GC percentage	0.257719423770568	8	COG0427	C; ACH1; Propionyl CoA:succinate CoA transferase	COG1649	S; YddW; Uncharacterized lipoprotein YddW, UPF0748 family
+COG	GC percentage	0.248496806765855	15	COG0163	H; UbiX; Flavin prenyltransferase UbiX	COG1165	H; MenD; 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+COG	GC percentage	0.247376404242608	17	COG1427	H; MqnA; Chorismate dehydratase (menaquinone biosynthesis, futalosine pathway)	COG1575	H; MenA; 1,4-dihydroxy-2-naphthoate polyprenyltransferase
+COG	GC percentage	0.247026536905597	14	COG0043	H; UbiD; 3-polyprenyl-4-hydroxybenzoate decarboxylase	COG1165	H; MenD; 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+COG	GC percentage	0.246735128465343	8	COG0545	O; FkpA; FKBP-type peptidyl-prolyl cis-trans isomerase	COG1180	O; PflA; Pyruvate-formate lyase-activating enzyme
+COG	GC percentage	0.241323122359475	9	COG1543	G; NA; Predicted glycosyl hydrolase, contains GH57 and DUF1957 domains	COG1788	I; AtoD; Acyl CoA:acetate/3-ketoacid CoA transferase, alpha subunit
+COG	GC percentage	0.240378702884539	9	COG1543	G; NA; Predicted glycosyl hydrolase, contains GH57 and DUF1957 domains	COG2057	I; AtoA; Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit
+COG	GC percentage	0.237749222618799	8	COG2373	R; YfaS; Uncharacterized conserved protein YfaS, alpha-2-macroglobulin family	COG2859	M; SIMPL; Outer membrane channel-forming protein BP26/OMP28, SIMPL family
+COG	GC percentage	0.235179931408326	8	COG0508	C; AceF; Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	COG1592	C; YotD; Rubrerythrin
+COG	GC percentage	0.232481841121229	10	COG1330	L; RecC; Scaffold subunit RecC of the DNA repair enzyme RecBCD (exonuclease V)	COG2887	L; Slr0479; RecB family exonuclease
+COG	GC percentage	0.23144604743042	8	COG0514	L; RecQ; Superfamily II DNA helicase RecQ	COG1839	F; NA; Adenosine/AMP kinase
+COG	GC percentage	0.231337314048905	8	COG0370	P; FeoB; Fe2+ transporter FeoB	COG1024	I; CaiD; Enoyl-CoA hydratase/carnithine racemase
+COG	GC percentage	0.228957169930408	9	COG0725	P; ModA; ABC-type molybdate transport system, periplasmic Mo-binding protein ModA	COG4662	P; TupA; ABC-type tungstate transport system, periplasmic component
+COG	GC percentage	0.228111441059719	8	COG2035	S; NA; Uncharacterized membrane protein, DUF368 family	COG3757	M; Acm; Lyzozyme M1 (1,4-beta-N-acetylmuramidase), GH25 family
+COG	GC percentage	0.226565151511907	10	COG0733	R; YocR; Na+-dependent transporter, SNF family	COG1331	R; YyaL; Uncharacterized conserved protein YyaL, SSP411 family, contains thoiredoxin and six-hairpin glycosidase-like domains
+COG	GC percentage	0.225583566808799	8	COG1121	P; ZnuC; ABC-type Mn2+/Zn2+ transport system, ATPase component	COG4805	S; NA; Uncharacterized conserved protein, DUF885 family
+COG	GC percentage	0.2253306065743	8	COG0551	L; YrdD; DNA topoisomerase I, ssDNA-binding Zn-finger and Zn-ribbon domains	COG0605	P; SodA; Superoxide dismutase
+COG	GC percentage	0.225019387765423	9	COG1014	C; PorG; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, gamma subunit	COG1054	J; TrhO; tRNA U34 5'-hydroxylase TrhO, rhodanese family
+COG	GC percentage	0.22476450767796	9	COG0725	P; ModA; ABC-type molybdate transport system, periplasmic Mo-binding protein ModA	COG2998	P; TupB; ABC-type tungstate transport system, permease component TupA
+COG	GC percentage	0.221517586954363	9	COG0431	C; SsuE; NAD(P)H-dependent FMN reductase	COG1912	HV; NA; Stereoselective (R,S)-S-adenosylmethionine hydrolase (adenosine-forming)
+COG	GC percentage	0.218882472322199	9	COG0426	C; NorV; Flavorubredoxin	COG1428	F; Dck; Deoxyadenosine/deoxycytidine kinase
+COG	GC percentage	0.217847880273241	13	COG1154	HI; Dxs; Deoxyxylulose-5-phosphate synthase	COG1257	I; HMG1; Hydroxymethylglutaryl-CoA reductase
+COG	GC percentage	0.217627970635799	13	COG0163	H; UbiX; Flavin prenyltransferase UbiX	COG1169	HQ; MenF; Isochorismate synthase EntC
+COG	GC percentage	0.217351056748197	10	COG0847	L; DnaQ; DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	COG1543	G; NA; Predicted glycosyl hydrolase, contains GH57 and DUF1957 domains
+COG	GC percentage	0.215880133071352	14	COG0043	H; UbiD; 3-polyprenyl-4-hydroxybenzoate decarboxylase	COG1169	HQ; MenF; Isochorismate synthase EntC
+COG	GC percentage	0.215417874766079	19	COG0743	I; Dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase	COG3425	I; PksG; 3-hydroxy-3-methylglutaryl CoA synthase
+COG	GC percentage	0.214756902763077	8	COG1570	L; XseA; Exonuclease VII, large subunit	COG1839	F; NA; Adenosine/AMP kinase
+COG	GC percentage	0.213661010087134	8	COG1237	R; NA; Metal-dependent hydrolase, beta-lactamase superfamily II	COG1250	I; FadB; 3-hydroxyacyl-CoA dehydrogenase
+COG	GC percentage	0.211914306148032	19	COG0821	I; IspG; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE	COG3425	I; PksG; 3-hydroxy-3-methylglutaryl CoA synthase
+COG	GC percentage	0.211862371960672	19	COG0761	I; IspH; 4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH	COG3425	I; PksG; 3-hydroxy-3-methylglutaryl CoA synthase
+COG	GC percentage	0.211359022226963	8	COG1586	E; SpeD; S-adenosylmethionine decarboxylase	COG3467	V; NimA; Nitroimidazole reductase NimA or a related FMN-containing flavoprotein, pyridoxamine 5'-phosphate oxidase superfamily
+COG	GC percentage	0.210091537371407	19	COG0245	I; IspF; 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	COG3425	I; PksG; 3-hydroxy-3-methylglutaryl CoA synthase
+COG	GC percentage	0.209831538868506	13	COG0163	H; UbiX; Flavin prenyltransferase UbiX	COG0447	H; MenB; 1,4-Dihydroxy-2-naphthoyl-CoA synthase
+COG	GC percentage	0.209134186802459	8	COG1108	P; ZnuB; ABC-type Mn2+/Zn2+ transport system, permease component	COG4805	S; NA; Uncharacterized conserved protein, DUF885 family
+COG	GC percentage	0.207609052098261	14	COG2377	M; AnmK; 1,6-Anhydro-N-acetylmuramate kinase	COG3876	S; YbbC; Uncharacterized conserved protein YbbC, DUF1343 family
+COG	GC percentage	0.207410900811972	12	COG0043	H; UbiD; 3-polyprenyl-4-hydroxybenzoate decarboxylase	COG0447	H; MenB; 1,4-Dihydroxy-2-naphthoyl-CoA synthase
+COG	GC percentage	0.20318891760494	17	COG0530	P; ECM27; Ca2+/Na+ antiporter	COG3158	P; Kup; K+ uptake protein Kup
+COG	GC percentage	0.202741767233499	77	COG0207	F; ThyA; Thymidylate synthase	COG1351	F; ThyX; Thymidylate synthase ThyX, FAD-dependent family
+COG	GC percentage	0.200761238792285	22	COG0397	O; SelO; Protein adenylyltransferase (AMPylase) SelO/YdiU (selenoprotein O)	COG1331	R; YyaL; Uncharacterized conserved protein YyaL, SSP411 family, contains thoiredoxin and six-hairpin glycosidase-like domains
+COG	GC percentage	0.200582154596919	9	COG0330	O; HflC; Regulator of protease activity HflC, stomatin/prohibitin superfamily	COG1030	O; NfeD; Membrane-bound serine protease NfeD, ClpP class
+COG	GC percentage	0.198898850645634	8	COG1145	C; NapF; Ferredoxin	COG2096	H; PduO; Cob(II)alamin adenosyltransferase
+COG	GC percentage	0.195187091983215	12	COG1211	I; IspD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	COG3425	I; PksG; 3-hydroxy-3-methylglutaryl CoA synthase
+COG	GC percentage	0.19511543601894	9	COG0157	H; NadC; Nicotinate-nucleotide pyrophosphorylase	COG2079	G; PrpD; 2-methylcitrate dehydratase PrpD
+COG	GC percentage	0.194844836683637	8	COG1254	C; AcyP; Acylphosphatase	COG4717	S; YhaN; Uncharacterized conserved protein YhaN, contains AAA domain
+COG	GC percentage	0.194322482935176	11	COG0370	P; FeoB; Fe2+ transporter FeoB	COG4393	S; NA; Uncharacterized membrane protein
+COG	GC percentage	0.194047532201743	9	COG0045	C; SucC; Succinyl-CoA synthetase, beta subunit	COG1453	R; NA; Predicted oxidoreductase of the aldo/keto reductase family
+COG	GC percentage	0.191314470468315	10	COG1947	I; IspE; 4-diphosphocytidyl-2C-methyl-D-erythritol kinase	COG3425	I; PksG; 3-hydroxy-3-methylglutaryl CoA synthase
+COG	GC percentage	0.19078835031371	9	COG0826	J; RlhA; 23S rRNA C2501 and tRNA U34 5'-hydroxylation protein RlhA/YrrN/YrrO, U32 peptidase family	COG1832	R; YccU; Predicted CoA-binding protein
+COG	GC percentage	0.190624043872093	8	COG0650	C; HyfC; Formate hydrogenlyase subunit HyfC	COG2212	P; MnhF; Multisubunit Na+/H+ antiporter, MnhF subunit
+COG	GC percentage	0.18764645138836	9	COG0621	J; MiaB; tRNA A37 methylthiotransferase MiaB	COG1257	I; HMG1; Hydroxymethylglutaryl-CoA reductase
+COG	GC percentage	0.18651380857132	8	COG1148	C; HdrA; Heterodisulfide reductase, subunit A (polyferredoxin)	COG3634	V; AhpF; Alkyl hydroperoxide reductase subunit AhpF
+COG	GC percentage	0.185631920628061	8	COG2212	P; MnhF; Multisubunit Na+/H+ antiporter, MnhF subunit	COG3261	C; HycE2; Ni,Fe-hydrogenase III large subunit
+COG	GC percentage	0.185437030272822	8	COG1320	P; MnhG; Multisubunit Na+/H+ antiporter, MnhG subunit	COG3260	C; HycG; Ni,Fe-hydrogenase III small subunit
+COG	GC percentage	0.182845175374276	8	COG0650	C; HyfC; Formate hydrogenlyase subunit HyfC	COG1320	P; MnhG; Multisubunit Na+/H+ antiporter, MnhG subunit
+COG	GC percentage	0.180185002464908	8	COG1320	P; MnhG; Multisubunit Na+/H+ antiporter, MnhG subunit	COG3261	C; HycE2; Ni,Fe-hydrogenase III large subunit
+COG	GC percentage	0.178617648849648	8	COG0168	P; TrkG; Trk-type K+ transport system, membrane component	COG1392	P; YkaA; Phosphate transport regulator YkaA, distantly related to PhoU, UPF0111/DUF47 family
+COG	GC percentage	0.175338289271181	8	COG0489	D; Mrp; Fe-S cluster carrier ATPase, Mrp/ApbC/NBP35 family	COG5006	E; RhtA; Threonine/homoserine efflux transporter RhtA
+COG	GC percentage	0.174153204280783	8	COG1166	E; SpeA; Arginine decarboxylase (spermidine biosynthesis)	COG1945	E; PdaD; Pyruvoyl-dependent arginine decarboxylase
+COG	GC percentage	0.173023815245648	9	COG1178	P; FbpB; ABC-type Fe3+ transport system, permease component	COG1297	R; OPT; Predicted oligopeptide transporter, OPT family
+COG	GC percentage	0.172482730094882	8	COG2171	E; DapD; Tetrahydrodipicolinate N-succinyltransferase	COG3804	S; NA; Uncharacterized conserved protein
+COG	GC percentage	0.171042372541007	9	COG1430	S; NA; Uncharacterized conserved membrane protein, UPF0127 family	COG3823	O; NA; Glutamine cyclotransferase
+COG	GC percentage	0.170285507222621	8	COG1863	P; MnhE; Multisubunit Na+/H+ antiporter, MnhE subunit	COG3260	C; HycG; Ni,Fe-hydrogenase III small subunit
+COG	GC percentage	0.169374368905358	16	COG0163	H; UbiX; Flavin prenyltransferase UbiX	COG1575	H; MenA; 1,4-dihydroxy-2-naphthoate polyprenyltransferase
+COG	GC percentage	0.16925371770381	18	COG0043	H; UbiD; 3-polyprenyl-4-hydroxybenzoate decarboxylase	COG1575	H; MenA; 1,4-dihydroxy-2-naphthoate polyprenyltransferase
+COG	GC percentage	0.168928672987151	10	COG1115	E; AlsT; Na+/alanine symporter	COG1392	P; YkaA; Phosphate transport regulator YkaA, distantly related to PhoU, UPF0111/DUF47 family
+COG	GC percentage	0.168576569179267	11	COG2022	H; ThiG; Thiazole synthase ThiGH, ThiG subunit (thiamin biosynthesis)	COG3201	H; PnuC; Nicotinamide riboside transporter PnuC
+COG	GC percentage	0.16752346266622	8	COG0650	C; HyfC; Formate hydrogenlyase subunit HyfC	COG1863	P; MnhE; Multisubunit Na+/H+ antiporter, MnhE subunit
+COG	GC percentage	0.165843535455165	10	COG0426	C; NorV; Flavorubredoxin	COG1607	I; YciA; Acyl-CoA hydrolase
+COG	GC percentage	0.16554800456986	8	COG1863	P; MnhE; Multisubunit Na+/H+ antiporter, MnhE subunit	COG3261	C; HycE2; Ni,Fe-hydrogenase III large subunit
+COG	GC percentage	0.165151710962131	13	COG0017	J; AsnS; Aspartyl/asparaginyl-tRNA synthetase	COG0173	J; AspS; Aspartyl-tRNA synthetase
+COG	GC percentage	0.164209936305309	8	COG2104	H; ThiS; Sulfur carrier protein ThiS (thiamine biosynthesis)	COG3201	H; PnuC; Nicotinamide riboside transporter PnuC
+COG	GC percentage	0.16400964610178	8	COG1074	L; RecB; 3-5 helicase subunit RecB of the DNA repair enzyme RecBCD (exonuclease V)	COG2887	L; Slr0479; RecB family exonuclease
+COG	GC percentage	0.160253811521769	11	COG0422	H; ThiC; 4-amino-2-methyl-5-hydroxymethylpyrimidine (HMP) synthase ThiC	COG3201	H; PnuC; Nicotinamide riboside transporter PnuC
+COG	GC percentage	0.159914565420746	11	COG1210	M; GalU; UTP-glucose-1-phosphate uridylyltransferase	COG4284	G; QRI1; UDP-N-acetylglucosamine pyrophosphorylase
+COG	GC percentage	0.15978716677074	16	COG1154	HI; Dxs; Deoxyxylulose-5-phosphate synthase	COG3425	I; PksG; 3-hydroxy-3-methylglutaryl CoA synthase
+COG	GC percentage	0.159081661266079	8	COG0517	T; CBS; CBS domain	COG1257	I; HMG1; Hydroxymethylglutaryl-CoA reductase
+COG	GC percentage	0.156598270103235	9	COG0192	H; MetK; S-adenosylmethionine synthetase	COG1812	H; MetK2; Archaeal S-adenosylmethionine synthetase
+COG	GC percentage	0.154781145277888	9	COG0605	P; SodA; Superoxide dismutase	COG0733	R; YocR; Na+-dependent transporter, SNF family
+COG	GC percentage	0.153774526780089	8	COG2518	O; Pcm; Protein-L-isoaspartate O-methyltransferase	COG3201	H; PnuC; Nicotinamide riboside transporter PnuC
+COG	GC percentage	0.153573138121357	8	COG0053	P; FieF; Divalent metal cation (Fe/Co/Zn/Cd) efflux pump	COG4327	S; NA; Uncharacterized membrane protein, DUF4212 domain
+COG	GC percentage	0.153340602842531	9	COG0788	F; PurU; Formyltetrahydrofolate hydrolase	COG3830	T; ACT; ACT domain, binds amino acids and other small ligands
+COG	GC percentage	0.151471273443248	8	COG0783	PV; Dps; DNA-binding ferritin-like protein (oxidative damage protectant)	COG1355	R; Mho1; Predicted class III extradiol dioxygenase, MEMO1 family
+COG	GC percentage	0.149778629858454	10	COG3158	P; Kup; K+ uptake protein Kup	COG4664	Q; FcbT3; TRAP-type mannitol/chloroaromatic compound transport system, large permease component
+COG	GC percentage	0.148669955266506	11	COG3158	P; Kup; K+ uptake protein Kup	COG4663	Q; FcbT1; TRAP-type mannitol/chloroaromatic compound transport system, periplasmic component
+COG	GC percentage	0.14842849466172	9	COG0011	H; YqgV; Thiamin-binding stress-response protein YqgV, UPF0045 family	COG1494	G; GlpX; Fructose-1,6-bisphosphatase/sedoheptulose 1,7-bisphosphatase or related protein
+COG	GC percentage	0.147822510774715	11	COG0503	F; Apt; Adenine/guanine phosphoribosyltransferase or related PRPP-binding protein	COG1001	F; AdeC; Adenine deaminase
+COG	GC percentage	0.144190402598114	11	COG3158	P; Kup; K+ uptake protein Kup	COG4665	Q; FcbT2; TRAP-type mannitol/chloroaromatic compound transport system, small permease component
+COG	GC percentage	0.143362460033159	8	COG0287	E; TyrA; Prephenate dehydrogenase	COG2235	E; ArcA; Arginine deiminase
+COG	GC percentage	0.139951252833248	47	COG0538	C; Icd; Isocitrate dehydrogenase	COG2838	C; IcdM; Monomeric isocitrate dehydrogenase
+COG	GC percentage	0.138286169539122	8	COG0555	P; CysU; ABC-type sulfate transport system, permease component	COG1509	E; EpmB; L-lysine 2,3-aminomutase (EF-P beta-lysylation pathway)
+COG	GC percentage	0.138164152301341	9	COG0621	J; MiaB; tRNA A37 methylthiotransferase MiaB	COG3425	I; PksG; 3-hydroxy-3-methylglutaryl CoA synthase
+COG	GC percentage	0.136279073842764	8	COG1006	P; MnhC; Multisubunit Na+/H+ antiporter, MnhC subunit	COG3158	P; Kup; K+ uptake protein Kup
+COG	GC percentage	0.134797602023461	9	COG0803	P; ZnuA; ABC-type Zn uptake system ZnuABC, Zn-binding component ZnuA	COG1881	R; PEBP; Uncharacterized conserved protein, phosphatidylethanolamine-binding protein (PEBP) family
+COG	GC percentage	0.134022284411836	10	COG0146	EQ; HyuB; N-methylhydantoinase B/oxoprolinase/acetone carboxylase, alpha subunit	COG1540	E; PxpA; 5-oxoprolinase subunit A
+COG	GC percentage	0.133803273394839	8	COG1773	P; NorV; Flavorubredoxin	COG2096	H; PduO; Cob(II)alamin adenosyltransferase
+COG	GC percentage	0.133126800490257	10	COG2111	P; MnhB; Multisubunit Na+/H+ antiporter, MnhB subunit	COG3158	P; Kup; K+ uptake protein Kup
+COG	GC percentage	0.13142027405312	8	COG2073	H; CbiG; Cobalamin biosynthesis protein CbiG	COG3613	F; RCL; Nucleoside 2-deoxyribosyltransferase
+COG	GC percentage	0.130820535976103	9	COG0474	P; MgtA; Magnesium-transporting ATPase (P-type)	COG0733	R; YocR; Na+-dependent transporter, SNF family
+COG	GC percentage	0.128274765742221	8	COG1290	C; QcrB/PetB; Cytochrome b subunit of the bc complex	COG1951	C; TtdA; Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain
+COG	GC percentage	0.128119204389086	8	COG0506	E; PutA; Proline dehydrogenase	COG3830	T; ACT; ACT domain, binds amino acids and other small ligands
+COG	GC percentage	0.127731961544108	8	COG1290	C; QcrB/PetB; Cytochrome b subunit of the bc complex	COG1838	C; FumA; Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain
+COG	GC percentage	0.12772406671697	9	COG2818	L; Tag; 3-methyladenine DNA glycosylase Tag	COG4912	L; AlkD; 3-methyladenine DNA glycosylase AlkD
+COG	GC percentage	0.127570283062413	10	COG0021	G; TktA; Transketolase	COG3959	G; TktA1; Transketolase, N-terminal subunit
+COG	GC percentage	0.127085483335833	8	COG1780	F; NrdI; Flavodoxin NrdI, NrdF-interacting activator of class Ib ribonucleotide reductase	COG2185	I; Sbm; Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)
+COG	GC percentage	0.127079701180017	8	COG1838	C; FumA; Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain	COG3264	M; MscK; Small-conductance mechanosensitive channel MscK
+COG	GC percentage	0.126640971395653	10	COG0021	G; TktA; Transketolase	COG3958	G; TktA2; Transketolase, C-terminal subunit
+COG	GC percentage	0.126515929331873	8	COG1951	C; TtdA; Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain	COG3264	M; MscK; Small-conductance mechanosensitive channel MscK
+COG	GC percentage	0.126203990857175	18	COG2046	P; MET3; ATP sulfurylase (sulfate adenylyltransferase)	COG2895	P; CysN; Sulfate adenylyltransferase subunit 1, EFTu-like GTPase family
+COG	GC percentage	0.126072238211374	8	COG0721	J; GatC; Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit	COG2872	J; AlaX; Ser-tRNA(Ala) deacylase AlaX (editing enzyme)
+COG	GC percentage	0.125574764187332	8	COG1145	C; NapF; Ferredoxin	COG1607	I; YciA; Acyl-CoA hydrolase
+COG	GC percentage	0.1222304054403	20	COG0262	H; FolA; Dihydrofolate reductase	COG1351	F; ThyX; Thymidylate synthase ThyX, FAD-dependent family
+COG	GC percentage	0.122110830619794	9	COG3276	J; SelB; Selenocysteine-specific translation elongation factor SelB	COG3830	T; ACT; ACT domain, binds amino acids and other small ligands
+COG	GC percentage	0.121495349380403	8	COG0212	H; FAU1; 5-formyltetrahydrofolate cyclo-ligase	COG3404	E; FtcD; Formiminotetrahydrofolate cyclodeaminase
+COG	GC percentage	0.119323378966296	8	COG0282	C; AckA; Acetate kinase	COG0427	C; ACH1; Propionyl CoA:succinate CoA transferase
+COG	GC percentage	0.116821948321053	10	COG2212	P; MnhF; Multisubunit Na+/H+ antiporter, MnhF subunit	COG3158	P; Kup; K+ uptake protein Kup
+COG	GC percentage	0.115918131892929	10	COG0351	H; ThiD; Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	COG3201	H; PnuC; Nicotinamide riboside transporter PnuC
+COG	GC percentage	0.114778492361718	11	COG0648	L; Nfo; Endonuclease IV	COG0708	L; XthA; Exonuclease III
+COG	GC percentage	0.113476159621689	9	COG1008	C; NuoM; NADH:ubiquinone oxidoreductase subunit 4 (chain M)	COG3090	G; DctM; TRAP-type C4-dicarboxylate transport system, small permease component YiaM
+COG	GC percentage	0.112938171275753	8	COG1048	C; AcnA; Aconitase A	COG2309	E; AmpS; Leucyl aminopeptidase (aminopeptidase T)
+COG	GC percentage	0.112611035740215	10	COG1320	P; MnhG; Multisubunit Na+/H+ antiporter, MnhG subunit	COG3158	P; Kup; K+ uptake protein Kup
+COG	GC percentage	0.112012897618949	8	COG1014	C; PorG; Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, gamma subunit	COG2094	L; Mpg; 3-methyladenine DNA glycosylase Mpg
+COG	GC percentage	0.11145541538291	10	COG1863	P; MnhE; Multisubunit Na+/H+ antiporter, MnhE subunit	COG3158	P; Kup; K+ uptake protein Kup
+COG	GC percentage	0.111010307408106	8	COG1430	S; NA; Uncharacterized conserved membrane protein, UPF0127 family	COG1524	T; AtaC; c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily
+COG	GC percentage	0.109633703671314	8	COG0026	F; PurK; Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)	COG1148	C; HdrA; Heterodisulfide reductase, subunit A (polyferredoxin)
+COG	GC percentage	0.108350271949162	9	COG2235	E; ArcA; Arginine deiminase	COG3830	T; ACT; ACT domain, binds amino acids and other small ligands
+COG	GC percentage	0.108256067114189	13	COG0404	E; GcvT; Glycine cleavage system protein T (aminomethyltransferase)	COG3830	T; ACT; ACT domain, binds amino acids and other small ligands
+COG	GC percentage	0.107879093232033	14	COG3158	P; Kup; K+ uptake protein Kup	COG4327	S; NA; Uncharacterized membrane protein, DUF4212 domain
+COG	GC percentage	0.107157552989339	9	COG1008	C; NuoM; NADH:ubiquinone oxidoreductase subunit 4 (chain M)	COG1638	G; DctP; TRAP-type C4-dicarboxylate transport system, periplasmic component
+COG	GC percentage	0.10624644067763	18	COG0403	E; GcvP1; Glycine cleavage system protein P (pyridoxal-binding), N-terminal domain	COG3830	T; ACT; ACT domain, binds amino acids and other small ligands
+COG	GC percentage	0.105704247420733	18	COG1003	E; GcvP2; Glycine cleavage system protein P (pyridoxal-binding), C-terminal domain	COG3830	T; ACT; ACT domain, binds amino acids and other small ligands
+COG	GC percentage	0.100526685262559	10	COG0549	E; ArcC; Carbamate kinase	COG2873	E; MET17; O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent
+COG	GC percentage	0.100522435264585	13	COG0156	H; BioF; 7-keto-8-aminopelargonate synthetase or related enzyme	COG3830	T; ACT; ACT domain, binds amino acids and other small ligands
+COG	GC percentage	0.100112356605535	8	COG0857	R; PtaN; BioD-like N-terminal domain of phosphotransacetylase	COG1420	K; HrcA; Transcriptional regulator of heat shock response
+COG	GC percentage	0.0998082762687779	9	COG1586	E; SpeD; S-adenosylmethionine decarboxylase	COG1748	E; Lys9; Saccharopine dehydrogenase, NADP-dependent
+COG	GC percentage	0.0983790353044337	20	COG0692	L; Ung; Uracil-DNA glycosylase	COG1573	L; Udg4; Uracil-DNA glycosylase
+COG	GC percentage	0.0971600139613874	10	COG0168	P; TrkG; Trk-type K+ transport system, membrane component	COG1914	P; MntH; Mn2+ or Fe2+ transporter, NRAMP family
+COG	GC percentage	0.096916991770201	8	COG3845	F; NupO; ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	COG5496	R; NA; Predicted thioesterase
+COG	GC percentage	0.0968655590816251	11	COG0509	E; GcvH; Glycine cleavage system protein H (lipoate-binding)	COG3830	T; ACT; ACT domain, binds amino acids and other small ligands
+COG	GC percentage	0.0953466263690218	8	COG1079	F; NupQ; ABC-type guanosine uptake system NupNOPQ, permease subunit NupQ	COG5496	R; NA; Predicted thioesterase
+COG	GC percentage	0.094489349538498	8	COG1139	C; LutB; L-lactate utilization protein LutB, contains a ferredoxin-type domain	COG1304	CIR; LldD; FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase
+COG	GC percentage	0.09422674276671	8	COG3659	M; OprB; Carbohydrate-selective porin OprB	COG4663	Q; FcbT1; TRAP-type mannitol/chloroaromatic compound transport system, periplasmic component
+COG	GC percentage	0.0918644868280334	8	COG2183	K; Tex; Transcriptional accessory protein Tex/SPT6	COG2518	O; Pcm; Protein-L-isoaspartate O-methyltransferase
+COG	GC percentage	0.091428329056986	9	COG1008	C; NuoM; NADH:ubiquinone oxidoreductase subunit 4 (chain M)	COG1593	G; DctQ; TRAP-type C4-dicarboxylate transport system, large permease component
+COG	GC percentage	0.0904631176973341	9	COG3659	M; OprB; Carbohydrate-selective porin OprB	COG4664	Q; FcbT3; TRAP-type mannitol/chloroaromatic compound transport system, large permease component
+COG	GC percentage	0.0858319854134481	8	COG0350	L; AdaB; DNA repair enzyme Ada (O6-methylguanine-DNA--protein-cysteine methyltransferase)	COG3695	K; Atl1; Alkylated DNA nucleotide flippase Atl1, participates in nucleotide excision repair, Ada-like DNA-binding domain
+COG	GC percentage	0.0824361060673585	8	COG0506	E; PutA; Proline dehydrogenase	COG0543	HC; Mcr1; NAD(P)H-flavin reductase
+COG	GC percentage	0.0823004729696065	8	COG2212	P; MnhF; Multisubunit Na+/H+ antiporter, MnhF subunit	COG3004	CP; NhaA; Na+/H+ antiporter NhaA
+COG	GC percentage	0.0804311321032361	14	COG2094	L; Mpg; 3-methyladenine DNA glycosylase Mpg	COG3663	L; Mug; G:T/U-mismatch repair DNA glycosylase
+COG	GC percentage	0.0796200234862633	10	COG0387	P; ChaA; Cation (Ca2+/Na+/K+)/H+ antiporter ChaA	COG2212	P; MnhF; Multisubunit Na+/H+ antiporter, MnhF subunit
+COG	GC percentage	0.0780224477245072	8	COG1995	H; PdxA; 4-hydroxy-L-threonine phosphate dehydrogenase PdxA	COG2759	F; MIS1; Formyltetrahydrofolate synthetase
+COG	GC percentage	0.0774052156044756	9	COG1838	C; FumA; Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain	COG3439	S; NA; Uncharacterized conserved protein, DUF302 family
+COG	GC percentage	0.0773972931206733	9	COG1704	M; LemA; Magnetosome formation protein MamQ, lipoprotein antigen LemA family	COG4260	O; YdjI; Membrane protease subunit, stomatin/prohibitin family, contains C-terminal Zn-ribbon domain
+COG	GC percentage	0.0772469762747844	9	COG1951	C; TtdA; Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain	COG3439	S; NA; Uncharacterized conserved protein, DUF302 family
+COG	GC percentage	0.0768214023921859	9	COG1320	P; MnhG; Multisubunit Na+/H+ antiporter, MnhG subunit	COG3004	CP; NhaA; Na+/H+ antiporter NhaA
+COG	GC percentage	0.0756540658196106	9	COG1863	P; MnhE; Multisubunit Na+/H+ antiporter, MnhE subunit	COG3004	CP; NhaA; Na+/H+ antiporter NhaA
+COG	GC percentage	0.0753301289042369	9	COG0387	P; ChaA; Cation (Ca2+/Na+/K+)/H+ antiporter ChaA	COG1863	P; MnhE; Multisubunit Na+/H+ antiporter, MnhE subunit
+COG	GC percentage	0.0752981114054377	9	COG0387	P; ChaA; Cation (Ca2+/Na+/K+)/H+ antiporter ChaA	COG1320	P; MnhG; Multisubunit Na+/H+ antiporter, MnhG subunit
+COG	GC percentage	0.0750980647654479	15	COG2096	H; PduO; Cob(II)alamin adenosyltransferase	COG2109	H; BtuR; ATP:corrinoid adenosyltransferase
+COG	GC percentage	0.0746096878614541	8	COG0131	E; HisB2; Imidazoleglycerol phosphate dehydratase HisB	COG2039	O; Pcp; Pyrrolidone-carboxylate peptidase (N-terminal pyroglutamyl peptidase)
+COG	GC percentage	0.0733127440566263	8	COG1056	H; NadR; Nicotinamide mononucleotide adenylyltransferase	COG1057	H; NadD; Nicotinate-nucleotide adenylyltransferase NadD
+COG	GC percentage	0.0728618107535259	9	COG0530	P; ECM27; Ca2+/Na+ antiporter	COG0586	M; DedA; Membrane integrity protein DedA, putative transporter, DedA/Tvp38 family
+COG	GC percentage	0.0724645429544295	9	COG1788	I; AtoD; Acyl CoA:acetate/3-ketoacid CoA transferase, alpha subunit	COG2873	E; MET17; O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent
+COG	GC percentage	0.0723409990584017	9	COG0549	E; ArcC; Carbamate kinase	COG1605	E; PheA; Chorismate mutase
+COG	GC percentage	0.0721488520845927	10	COG0145	EQ; HyuA; N-methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit	COG1540	E; PxpA; 5-oxoprolinase subunit A
+COG	GC percentage	0.0720425697597484	9	COG2057	I; AtoA; Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit	COG2873	E; MET17; O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent
+COG	GC percentage	0.0717235823783681	12	COG0499	H; SAM1; S-adenosylhomocysteine hydrolase	COG0775	FH; MtnN; Nucleoside phosphorylase/nucleosidase, includes 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase MtnN and futalosine hydrolase MqnB
+COG	GC percentage	0.0714256326346804	12	COG0602	H; QueE; Organic radical activating enzyme NrdG/QueE	COG1738	J; YhhQ; Queuosine precursor transporter YhhQ, DUF165 family
+COG	GC percentage	0.0711342771915078	8	COG1304	CIR; LldD; FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase	COG1556	C; LutC; L-lactate utilization protein LutC, contains LUD domain
+COG	GC percentage	0.070850456762193	12	COG0505	EF; CarA; Carbamoylphosphate synthase small subunit	COG0549	E; ArcC; Carbamate kinase
+COG	GC percentage	0.0706973170108082	8	COG0095	H; LplA; Lipoate-protein ligase A	COG1060	H; ThiH; 2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE
+COG	GC percentage	0.0696681193481505	8	COG0115	EH; IlvE; Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase	COG0549	E; ArcC; Carbamate kinase
+COG	GC percentage	0.0681296928854122	8	COG1079	F; NupQ; ABC-type guanosine uptake system NupNOPQ, permease subunit NupQ	COG2138	H; SirB; Sirohydrochlorin ferrochelatase
+COG	GC percentage	0.0678851570358147	8	COG0387	P; ChaA; Cation (Ca2+/Na+/K+)/H+ antiporter ChaA	COG2111	P; MnhB; Multisubunit Na+/H+ antiporter, MnhB subunit
+COG	GC percentage	0.0666448996580546	9	COG0651	CP; HyfB; Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	COG3004	CP; NhaA; Na+/H+ antiporter NhaA
+COG	GC percentage	0.0664262175738261	8	COG0843	C; CyoB; Heme/copper-type cytochrome/quinol oxidase, subunit 1	COG1838	C; FumA; Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain
+COG	GC percentage	0.0664166081141768	8	COG1622	C; CyoA; Heme/copper-type cytochrome/quinol oxidase, subunit 2	COG1838	C; FumA; Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain
+COG	GC percentage	0.0664128461076482	8	COG0843	C; CyoB; Heme/copper-type cytochrome/quinol oxidase, subunit 1	COG1951	C; TtdA; Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain
+COG	GC percentage	0.0664046253939015	8	COG1622	C; CyoA; Heme/copper-type cytochrome/quinol oxidase, subunit 2	COG1951	C; TtdA; Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain
+COG	GC percentage	0.0655784979552747	9	COG2111	P; MnhB; Multisubunit Na+/H+ antiporter, MnhB subunit	COG3004	CP; NhaA; Na+/H+ antiporter NhaA
+COG	GC percentage	0.0649965900810442	8	COG0109	HI; CyoE; Polyprenyltransferase (heme O synthase)	COG1951	C; TtdA; Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain
+COG	GC percentage	0.0649928422647275	8	COG0109	HI; CyoE; Polyprenyltransferase (heme O synthase)	COG1838	C; FumA; Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain
+COG	GC percentage	0.0637774388349181	13	COG0822	O; IscU; Fe-S cluster assembly scaffold protein IscU, NifU family	COG2166	O; SufE; Sulfur transfer protein SufE, Fe-S cluster assembly
+COG	GC percentage	0.0634543673888473	8	COG0387	P; ChaA; Cation (Ca2+/Na+/K+)/H+ antiporter ChaA	COG1006	P; MnhC; Multisubunit Na+/H+ antiporter, MnhC subunit
+COG	GC percentage	0.0626715463090198	8	COG0132	H; BioD; Dethiobiotin synthetase	COG4231	C; IorA; TPP-dependent indolepyruvate ferredoxin oxidoreductase, alpha subunit
+COG	GC percentage	0.061188289432825	8	COG0069	E; GltB2; Glutamate synthase domain 2	COG1703	O; ArgK; GTPase of the G3E family (not a periplasmic protein kinase)
+COG	GC percentage	0.061168654972177	9	COG1006	P; MnhC; Multisubunit Na+/H+ antiporter, MnhC subunit	COG3004	CP; NhaA; Na+/H+ antiporter NhaA
+COG	GC percentage	0.0561436744360779	25	COG0114	C; FumC; Fumarate hydratase class II	COG1838	C; FumA; Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain
+COG	GC percentage	0.0559859442721241	26	COG0114	C; FumC; Fumarate hydratase class II	COG1951	C; TtdA; Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain
+COG	GC percentage	0.0551862743843889	8	COG2138	H; SirB; Sirohydrochlorin ferrochelatase	COG3845	F; NupO; ABC-type guanosine uptake system NupNOPQ, ATPase component NupO
+COG	GC percentage	0.0551823757383495	9	COG1272	U; YqfA; Predicted membrane channel-forming protein YqfA, hemolysin III family	COG2001	J; MraZ; MraZ, DNA-binding transcriptional regulator and inhibitor of RsmH methyltransferase activity
+COG	GC percentage	0.0549835483860507	8	COG2138	H; SirB; Sirohydrochlorin ferrochelatase	COG4603	F; NupP; ABC-type guanosine uptake system NupNOPQ, permease component NupP
+COG	GC percentage	0.0549274021907959	15	COG0132	H; BioD; Dethiobiotin synthetase	COG1268	H; BioY; Biotin transporter BioY
+COG	GC percentage	0.0546742987943208	8	COG1176	E; PotB; ABC-type spermidine/putrescine transport system, permease component I	COG2350	QR; YciI; YciI superfamily enzyme, includes 5-CHQ dehydrochlorinase, contains active-site pHis
+COG	GC percentage	0.0541034700276799	8	COG0493	ER; GltD; NADPH-dependent glutamate synthase beta chain or related oxidoreductase	COG3439	S; NA; Uncharacterized conserved protein, DUF302 family
+COG	GC percentage	0.0532291967020364	9	COG1838	C; FumA; Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain	COG2096	H; PduO; Cob(II)alamin adenosyltransferase
+COG	GC percentage	0.0530826609026979	10	COG1951	C; TtdA; Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain	COG2096	H; PduO; Cob(II)alamin adenosyltransferase
+COG	GC percentage	0.0526776131472379	8	COG1430	S; NA; Uncharacterized conserved membrane protein, UPF0127 family	COG3158	P; Kup; K+ uptake protein Kup
+COG	GC percentage	0.0521510728324473	8	COG0288	P; CynT; Carbonic anhydrase	COG0411	E; LivG; ABC-type branched-chain amino acid transport system, ATPase component LivG
+COG	GC percentage	0.0515345448086588	9	COG1038	C; PycA; Pyruvate carboxylase	COG2352	C; Ppc; Phosphoenolpyruvate carboxylase
+COG	GC percentage	0.0513688584688971	8	COG0263	E; ProB; Glutamate 5-kinase	COG2987	E; HutU; Urocanate hydratase
+COG	GC percentage	0.0508638547877285	8	COG0039	C; Mdh; Malate/lactate dehydrogenase	COG0168	P; TrkG; Trk-type K+ transport system, membrane component
+COG	GC percentage	0.0480190288194212	8	COG1177	E; PotC; ABC-type spermidine/putrescine transport system, permease component II	COG2350	QR; YciI; YciI superfamily enzyme, includes 5-CHQ dehydrochlorinase, contains active-site pHis
+COG	GC percentage	0.0451109521223755	9	COG0603	J; QueC; 7-cyano-7-deazaguanine synthase (queuosine biosynthesis)	COG1738	J; YhhQ; Queuosine precursor transporter YhhQ, DUF165 family
+COG	GC percentage	0.0442509615374684	9	COG0213	F; DeoA; Thymidine phosphorylase	COG1024	I; CaiD; Enoyl-CoA hydratase/carnithine racemase
+COG	GC percentage	0.0437039123822277	8	COG0139	E; HisI1; Phosphoribosyl-AMP cyclohydrolase	COG2986	E; HutH; Histidine ammonia-lyase
+COG	GC percentage	0.0435046854505639	10	COG0428	P; ZupT; Zinc transporter ZupT	COG1914	P; MntH; Mn2+ or Fe2+ transporter, NRAMP family
+COG	GC percentage	0.042928561923904	8	COG0213	F; DeoA; Thymidine phosphorylase	COG1250	I; FadB; 3-hydroxyacyl-CoA dehydrogenase
+COG	GC percentage	0.0426888500013738	8	COG0122	L; AlkA; 3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase	COG1640	G; MalQ; 4-alpha-glucanotransferase
+COG	GC percentage	0.0420469642374531	10	COG0010	E; SpeB; Arginase/agmatinase family enzyme	COG2957	E; AguA; Agmatine/peptidylarginine deiminase
+COG	GC percentage	0.0410372932260025	8	COG0288	P; CynT; Carbonic anhydrase	COG0559	E; LivH; Branched-chain amino acid ABC-type transport system, permease component
+COG	GC percentage	0.0395136377421025	14	COG0075	EF; PucG; Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	COG1932	HE; SerC; Phosphoserine aminotransferase
+COG	GC percentage	0.0393726483380258	8	COG0263	E; ProB; Glutamate 5-kinase	COG2986	E; HutH; Histidine ammonia-lyase
+COG	GC percentage	0.039182181208597	8	COG0301	HJ; ThiI; Adenylyl- and sulfurtransferase ThiI (thiamine and tRNA 4-thiouridine biosynthesis)	COG0551	L; YrdD; DNA topoisomerase I, ssDNA-binding Zn-finger and Zn-ribbon domains
+COG	GC percentage	0.0382676940731493	8	COG0296	G; GlgB; 1,4-alpha-glucan branching enzyme	COG5010	UW; TadD; Flp pilus assembly protein TadD, contains TPR repeats
+COG	GC percentage	0.0380432246192182	9	COG1322	L; RmuC; DNA anti-recombination protein (rearrangement mutator) RmuC	COG3448	T; NA; CBS-domain-containing membrane protein
+COG	GC percentage	0.0375672020191016	9	COG0555	P; CysU; ABC-type sulfate transport system, permease component	COG4149	P; ModB; ABC-type molybdate transport system, permease component ModB
+COG	GC percentage	0.0370101354072361	16	COG0420	L; SbcD; DNA repair exonuclease SbcCD nuclease subunit	COG1322	L; RmuC; DNA anti-recombination protein (rearrangement mutator) RmuC
+COG	GC percentage	0.0365098092206177	8	COG0288	P; CynT; Carbonic anhydrase	COG0410	E; LivF; ABC-type branched-chain amino acid transport system, ATPase component LivF
+COG	GC percentage	0.0363899620725688	8	COG1524	T; AtaC; c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily	COG1633	P; YhjR; Rubrerythrin, includes spore coat protein YhjR
+COG	GC percentage	0.0252769199260942	8	COG0705	O; GlpG; Membrane-associated serine protease, rhomboid family	COG1994	O; SpoIVFB; Zn-dependent protease (includes sporulation protein SpoIVFB)
+COG	GC percentage	0.0231008732806432	13	COG0396	O; SufC; Fe-S cluster assembly ATPase SufC	COG0822	O; IscU; Fe-S cluster assembly scaffold protein IscU, NifU family
+COG	GC percentage	0.0228540816106699	13	COG0719	O; SufB; Fe-S cluster assembly scaffold protein SufB	COG0822	O; IscU; Fe-S cluster assembly scaffold protein IscU, NifU family
+COG	GC percentage	0.0224600252276835	8	COG0605	P; SodA; Superoxide dismutase	COG1211	I; IspD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+COG	GC percentage	0.00694017477056344	8	COG0183	I; PaaJ; Acetyl-CoA acetyltransferase	COG0372	C; GltA; Citrate synthase
